@@ -1,0 +1,721 @@
+﻿date,channel,campaign_name,impressions,clicks,spend,conversions
+2026-03-17,Mercado Libre,mercado_libre_campaign,5417,264,266.16,66
+2026-03-17,Instagram,instagram_campaign,3187,117,401.45,92
+2026-03-17,Web,web_campaign,8961,493,148.49,80
+2026-03-17,Facebook,facebook_campaign,9350,757,470.29,24
+2026-03-16,Mercado Libre,mercado_libre_campaign,5385,838,216.88,42
+2026-03-16,Instagram,instagram_campaign,2619,378,437.9,76
+2026-03-16,Web,web_campaign,6082,864,231.67,18
+2026-03-16,Facebook,facebook_campaign,2755,347,454.45,42
+2026-03-15,Mercado Libre,mercado_libre_campaign,5002,875,480.96,81
+2026-03-15,Instagram,instagram_campaign,9682,287,332.38,77
+2026-03-15,Web,web_campaign,1055,252,481.38,51
+2026-03-15,Facebook,facebook_campaign,7876,681,203.58,71
+2026-03-14,Mercado Libre,mercado_libre_campaign,4168,291,98.81,49
+2026-03-14,Instagram,instagram_campaign,7960,357,363.21,44
+2026-03-14,Web,web_campaign,4268,743,230.88,87
+2026-03-14,Facebook,facebook_campaign,6847,198,220.96,89
+2026-03-13,Mercado Libre,mercado_libre_campaign,4215,350,196.12,53
+2026-03-13,Instagram,instagram_campaign,6847,582,391.52,78
+2026-03-13,Web,web_campaign,6462,604,152.41,81
+2026-03-13,Facebook,facebook_campaign,1269,806,84.32,82
+2026-03-12,Mercado Libre,mercado_libre_campaign,3244,336,234.83,15
+2026-03-12,Instagram,instagram_campaign,4358,578,235.56,19
+2026-03-12,Web,web_campaign,2681,797,495.4,80
+2026-03-12,Facebook,facebook_campaign,8229,835,111.07,37
+2026-03-11,Mercado Libre,mercado_libre_campaign,4579,479,93.59,42
+2026-03-11,Instagram,instagram_campaign,1191,701,234.11,45
+2026-03-11,Web,web_campaign,8370,314,92.07,40
+2026-03-11,Facebook,facebook_campaign,2946,195,412.44,86
+2026-03-10,Mercado Libre,mercado_libre_campaign,9796,864,333.1,40
+2026-03-10,Instagram,instagram_campaign,1723,587,360.05,79
+2026-03-10,Web,web_campaign,3736,773,390.8,10
+2026-03-10,Facebook,facebook_campaign,9020,936,496.52,62
+2026-03-09,Mercado Libre,mercado_libre_campaign,6418,202,89.92,84
+2026-03-09,Instagram,instagram_campaign,4757,689,174.95,64
+2026-03-09,Web,web_campaign,6717,465,389.0,81
+2026-03-09,Facebook,facebook_campaign,3691,127,382.51,90
+2026-03-08,Mercado Libre,mercado_libre_campaign,1349,783,173.87,32
+2026-03-08,Instagram,instagram_campaign,3571,339,381.86,32
+2026-03-08,Web,web_campaign,4208,947,144.08,26
+2026-03-08,Facebook,facebook_campaign,5833,571,77.57,67
+2026-03-07,Mercado Libre,mercado_libre_campaign,4696,733,110.53,25
+2026-03-07,Instagram,instagram_campaign,4345,475,332.21,48
+2026-03-07,Web,web_campaign,8074,257,359.56,30
+2026-03-07,Facebook,facebook_campaign,8761,487,53.43,57
+2026-03-06,Mercado Libre,mercado_libre_campaign,1575,645,128.79,63
+2026-03-06,Instagram,instagram_campaign,2778,186,393.99,37
+2026-03-06,Web,web_campaign,2199,257,236.77,65
+2026-03-06,Facebook,facebook_campaign,4756,816,415.67,44
+2026-03-05,Mercado Libre,mercado_libre_campaign,9523,830,299.75,96
+2026-03-05,Instagram,instagram_campaign,9697,705,454.54,84
+2026-03-05,Web,web_campaign,6407,563,120.83,86
+2026-03-05,Facebook,facebook_campaign,9730,776,305.28,67
+2026-03-04,Mercado Libre,mercado_libre_campaign,7961,276,324.93,66
+2026-03-04,Instagram,instagram_campaign,5574,423,167.1,37
+2026-03-04,Web,web_campaign,1328,300,232.62,58
+2026-03-04,Facebook,facebook_campaign,9772,576,467.26,84
+2026-03-03,Mercado Libre,mercado_libre_campaign,2889,915,362.53,16
+2026-03-03,Instagram,instagram_campaign,4764,854,365.12,24
+2026-03-03,Web,web_campaign,8853,504,459.2,84
+2026-03-03,Facebook,facebook_campaign,3215,154,283.08,78
+2026-03-02,Mercado Libre,mercado_libre_campaign,4797,918,106.89,16
+2026-03-02,Instagram,instagram_campaign,9329,978,323.11,19
+2026-03-02,Web,web_campaign,4956,651,298.52,53
+2026-03-02,Facebook,facebook_campaign,9602,650,92.09,43
+2026-03-01,Mercado Libre,mercado_libre_campaign,6440,662,111.28,32
+2026-03-01,Instagram,instagram_campaign,1721,537,270.73,36
+2026-03-01,Web,web_campaign,3289,922,405.51,99
+2026-03-01,Facebook,facebook_campaign,2464,630,116.52,66
+2026-02-28,Mercado Libre,mercado_libre_campaign,2170,532,374.41,79
+2026-02-28,Instagram,instagram_campaign,2313,855,392.06,68
+2026-02-28,Web,web_campaign,3697,797,174.34,53
+2026-02-28,Facebook,facebook_campaign,1490,133,394.47,13
+2026-02-27,Mercado Libre,mercado_libre_campaign,1396,983,414.32,13
+2026-02-27,Instagram,instagram_campaign,2370,430,124.22,91
+2026-02-27,Web,web_campaign,2328,184,359.58,71
+2026-02-27,Facebook,facebook_campaign,2609,549,402.64,78
+2026-02-26,Mercado Libre,mercado_libre_campaign,7087,158,404.36,87
+2026-02-26,Instagram,instagram_campaign,1423,836,117.4,55
+2026-02-26,Web,web_campaign,6125,488,352.48,74
+2026-02-26,Facebook,facebook_campaign,5749,870,181.46,30
+2026-02-25,Mercado Libre,mercado_libre_campaign,2393,658,415.74,86
+2026-02-25,Instagram,instagram_campaign,9847,588,179.23,76
+2026-02-25,Web,web_campaign,2255,254,129.08,46
+2026-02-25,Facebook,facebook_campaign,9215,736,404.74,50
+2026-02-24,Mercado Libre,mercado_libre_campaign,7216,580,68.17,65
+2026-02-24,Instagram,instagram_campaign,8656,126,69.87,16
+2026-02-24,Web,web_campaign,1045,777,167.58,41
+2026-02-24,Facebook,facebook_campaign,7191,453,336.5,21
+2026-02-23,Mercado Libre,mercado_libre_campaign,6922,841,282.15,77
+2026-02-23,Instagram,instagram_campaign,3456,514,219.97,25
+2026-02-23,Web,web_campaign,4863,522,117.17,44
+2026-02-23,Facebook,facebook_campaign,9383,333,495.8,57
+2026-02-22,Mercado Libre,mercado_libre_campaign,1802,474,189.56,31
+2026-02-22,Instagram,instagram_campaign,7149,847,68.84,15
+2026-02-22,Web,web_campaign,8696,154,233.03,40
+2026-02-22,Facebook,facebook_campaign,7720,716,435.21,81
+2026-02-21,Mercado Libre,mercado_libre_campaign,8537,732,209.78,12
+2026-02-21,Instagram,instagram_campaign,9615,289,106.6,17
+2026-02-21,Web,web_campaign,5387,921,71.14,25
+2026-02-21,Facebook,facebook_campaign,7417,358,425.7,25
+2026-02-20,Mercado Libre,mercado_libre_campaign,9671,856,52.24,90
+2026-02-20,Instagram,instagram_campaign,5237,977,339.7,80
+2026-02-20,Web,web_campaign,8760,610,446.2,41
+2026-02-20,Facebook,facebook_campaign,9448,298,220.14,34
+2026-02-19,Mercado Libre,mercado_libre_campaign,9656,763,78.87,44
+2026-02-19,Instagram,instagram_campaign,4968,258,352.85,28
+2026-02-19,Web,web_campaign,7554,733,355.06,31
+2026-02-19,Facebook,facebook_campaign,9547,685,340.33,95
+2026-02-18,Mercado Libre,mercado_libre_campaign,6038,517,183.91,12
+2026-02-18,Instagram,instagram_campaign,4976,1000,238.91,26
+2026-02-18,Web,web_campaign,7033,839,376.35,77
+2026-02-18,Facebook,facebook_campaign,8059,319,96.84,42
+2026-02-17,Mercado Libre,mercado_libre_campaign,2346,573,443.05,59
+2026-02-17,Instagram,instagram_campaign,5777,746,225.45,55
+2026-02-17,Web,web_campaign,7122,875,180.78,15
+2026-02-17,Facebook,facebook_campaign,4057,512,404.9,96
+2026-02-16,Mercado Libre,mercado_libre_campaign,7046,448,294.56,33
+2026-02-16,Instagram,instagram_campaign,5814,296,481.65,12
+2026-02-16,Web,web_campaign,2386,581,219.77,62
+2026-02-16,Facebook,facebook_campaign,5584,983,180.77,83
+2026-02-15,Mercado Libre,mercado_libre_campaign,9689,617,462.32,12
+2026-02-15,Instagram,instagram_campaign,4700,848,99.03,40
+2026-02-15,Web,web_campaign,9207,631,130.3,45
+2026-02-15,Facebook,facebook_campaign,6432,842,487.61,69
+2026-02-14,Mercado Libre,mercado_libre_campaign,2008,789,359.72,14
+2026-02-14,Instagram,instagram_campaign,5746,803,337.59,47
+2026-02-14,Web,web_campaign,4912,309,462.42,36
+2026-02-14,Facebook,facebook_campaign,6817,298,422.84,42
+2026-02-13,Mercado Libre,mercado_libre_campaign,6162,825,104.98,38
+2026-02-13,Instagram,instagram_campaign,3316,925,95.98,22
+2026-02-13,Web,web_campaign,8450,638,259.9,25
+2026-02-13,Facebook,facebook_campaign,9919,149,322.91,35
+2026-02-12,Mercado Libre,mercado_libre_campaign,4950,707,91.14,96
+2026-02-12,Instagram,instagram_campaign,4243,604,147.55,61
+2026-02-12,Web,web_campaign,6292,331,67.65,62
+2026-02-12,Facebook,facebook_campaign,1569,840,84.58,20
+2026-02-11,Mercado Libre,mercado_libre_campaign,9272,608,391.28,51
+2026-02-11,Instagram,instagram_campaign,7378,197,257.77,74
+2026-02-11,Web,web_campaign,7671,897,298.65,77
+2026-02-11,Facebook,facebook_campaign,1137,110,460.18,36
+2026-02-10,Mercado Libre,mercado_libre_campaign,1435,930,63.23,23
+2026-02-10,Instagram,instagram_campaign,6481,897,236.76,80
+2026-02-10,Web,web_campaign,3095,957,318.74,11
+2026-02-10,Facebook,facebook_campaign,5004,804,219.78,70
+2026-02-09,Mercado Libre,mercado_libre_campaign,9148,370,378.17,86
+2026-02-09,Instagram,instagram_campaign,2961,842,458.57,10
+2026-02-09,Web,web_campaign,4501,501,215.56,54
+2026-02-09,Facebook,facebook_campaign,3194,159,84.31,87
+2026-02-08,Mercado Libre,mercado_libre_campaign,2161,927,105.43,77
+2026-02-08,Instagram,instagram_campaign,5699,211,292.65,38
+2026-02-08,Web,web_campaign,4790,506,288.45,53
+2026-02-08,Facebook,facebook_campaign,1432,700,112.68,62
+2026-02-07,Mercado Libre,mercado_libre_campaign,4190,274,416.73,30
+2026-02-07,Instagram,instagram_campaign,4532,721,320.88,28
+2026-02-07,Web,web_campaign,2204,345,253.08,52
+2026-02-07,Facebook,facebook_campaign,6532,528,84.54,42
+2026-02-06,Mercado Libre,mercado_libre_campaign,1597,812,385.71,47
+2026-02-06,Instagram,instagram_campaign,3130,632,291.25,15
+2026-02-06,Web,web_campaign,7010,745,59.56,53
+2026-02-06,Facebook,facebook_campaign,4893,604,471.02,64
+2026-02-05,Mercado Libre,mercado_libre_campaign,8133,909,384.69,76
+2026-02-05,Instagram,instagram_campaign,2572,219,385.85,64
+2026-02-05,Web,web_campaign,1294,143,474.73,17
+2026-02-05,Facebook,facebook_campaign,9523,308,212.59,60
+2026-02-04,Mercado Libre,mercado_libre_campaign,2448,937,442.06,13
+2026-02-04,Instagram,instagram_campaign,7328,257,358.21,19
+2026-02-04,Web,web_campaign,6249,863,145.78,32
+2026-02-04,Facebook,facebook_campaign,4581,360,453.87,55
+2026-02-03,Mercado Libre,mercado_libre_campaign,1852,937,243.41,80
+2026-02-03,Instagram,instagram_campaign,4004,546,307.42,72
+2026-02-03,Web,web_campaign,8950,534,393.37,92
+2026-02-03,Facebook,facebook_campaign,3336,736,144.89,77
+2026-02-02,Mercado Libre,mercado_libre_campaign,5321,397,387.35,15
+2026-02-02,Instagram,instagram_campaign,2897,347,186.8,80
+2026-02-02,Web,web_campaign,1081,912,287.51,67
+2026-02-02,Facebook,facebook_campaign,4179,450,184.3,71
+2026-02-01,Mercado Libre,mercado_libre_campaign,9660,239,233.36,37
+2026-02-01,Instagram,instagram_campaign,4829,760,218.44,25
+2026-02-01,Web,web_campaign,1874,204,350.16,67
+2026-02-01,Facebook,facebook_campaign,1295,720,420.02,74
+2026-01-31,Mercado Libre,mercado_libre_campaign,7033,678,311.38,18
+2026-01-31,Instagram,instagram_campaign,5740,392,308.34,12
+2026-01-31,Web,web_campaign,8423,361,312.3,31
+2026-01-31,Facebook,facebook_campaign,7600,874,319.03,83
+2026-01-30,Mercado Libre,mercado_libre_campaign,7893,885,331.02,58
+2026-01-30,Instagram,instagram_campaign,5856,950,298.71,87
+2026-01-30,Web,web_campaign,8474,191,450.12,47
+2026-01-30,Facebook,facebook_campaign,3378,648,402.59,84
+2026-01-29,Mercado Libre,mercado_libre_campaign,7293,752,478.37,41
+2026-01-29,Instagram,instagram_campaign,3407,438,304.4,47
+2026-01-29,Web,web_campaign,1348,890,275.2,49
+2026-01-29,Facebook,facebook_campaign,4185,279,450.74,23
+2026-01-28,Mercado Libre,mercado_libre_campaign,4030,959,401.15,38
+2026-01-28,Instagram,instagram_campaign,5823,899,113.58,65
+2026-01-28,Web,web_campaign,7622,677,301.93,17
+2026-01-28,Facebook,facebook_campaign,7681,737,364.85,81
+2026-01-27,Mercado Libre,mercado_libre_campaign,8749,258,229.1,25
+2026-01-27,Instagram,instagram_campaign,8490,882,237.97,13
+2026-01-27,Web,web_campaign,8241,278,387.17,49
+2026-01-27,Facebook,facebook_campaign,4737,632,323.03,51
+2026-01-26,Mercado Libre,mercado_libre_campaign,6927,765,159.78,76
+2026-01-26,Instagram,instagram_campaign,3269,773,453.68,12
+2026-01-26,Web,web_campaign,5664,947,51.38,54
+2026-01-26,Facebook,facebook_campaign,7676,779,103.01,28
+2026-01-25,Mercado Libre,mercado_libre_campaign,8113,449,63.47,28
+2026-01-25,Instagram,instagram_campaign,7655,704,393.4,79
+2026-01-25,Web,web_campaign,3402,544,347.41,21
+2026-01-25,Facebook,facebook_campaign,7265,686,220.23,62
+2026-01-24,Mercado Libre,mercado_libre_campaign,2192,949,147.48,81
+2026-01-24,Instagram,instagram_campaign,8895,928,241.68,96
+2026-01-24,Web,web_campaign,3387,884,135.63,77
+2026-01-24,Facebook,facebook_campaign,6139,685,201.58,25
+2026-01-23,Mercado Libre,mercado_libre_campaign,5127,963,136.42,44
+2026-01-23,Instagram,instagram_campaign,7531,654,117.03,85
+2026-01-23,Web,web_campaign,6091,970,279.06,90
+2026-01-23,Facebook,facebook_campaign,1664,975,63.25,31
+2026-01-22,Mercado Libre,mercado_libre_campaign,8838,870,150.68,10
+2026-01-22,Instagram,instagram_campaign,9419,544,320.18,59
+2026-01-22,Web,web_campaign,2025,156,102.55,59
+2026-01-22,Facebook,facebook_campaign,9255,306,83.78,95
+2026-01-21,Mercado Libre,mercado_libre_campaign,4167,933,325.35,13
+2026-01-21,Instagram,instagram_campaign,1785,167,218.84,17
+2026-01-21,Web,web_campaign,5575,182,181.87,87
+2026-01-21,Facebook,facebook_campaign,2198,978,381.98,16
+2026-01-20,Mercado Libre,mercado_libre_campaign,8424,517,398.14,90
+2026-01-20,Instagram,instagram_campaign,9549,300,442.33,66
+2026-01-20,Web,web_campaign,7736,742,114.64,57
+2026-01-20,Facebook,facebook_campaign,4612,752,175.91,12
+2026-01-19,Mercado Libre,mercado_libre_campaign,9114,551,249.21,46
+2026-01-19,Instagram,instagram_campaign,7401,266,76.18,67
+2026-01-19,Web,web_campaign,3289,843,231.45,62
+2026-01-19,Facebook,facebook_campaign,3130,710,111.74,12
+2026-01-18,Mercado Libre,mercado_libre_campaign,2508,863,442.6,90
+2026-01-18,Instagram,instagram_campaign,8768,493,465.39,30
+2026-01-18,Web,web_campaign,2094,887,399.98,12
+2026-01-18,Facebook,facebook_campaign,7509,636,353.58,43
+2026-01-17,Mercado Libre,mercado_libre_campaign,2100,299,139.3,68
+2026-01-17,Instagram,instagram_campaign,4802,191,471.76,50
+2026-01-17,Web,web_campaign,6863,832,468.77,35
+2026-01-17,Facebook,facebook_campaign,6648,510,98.92,79
+2026-01-16,Mercado Libre,mercado_libre_campaign,2296,575,54.79,31
+2026-01-16,Instagram,instagram_campaign,2665,180,321.32,10
+2026-01-16,Web,web_campaign,7223,215,148.49,64
+2026-01-16,Facebook,facebook_campaign,4898,944,280.98,95
+2026-01-15,Mercado Libre,mercado_libre_campaign,6206,235,260.48,79
+2026-01-15,Instagram,instagram_campaign,6651,485,104.57,37
+2026-01-15,Web,web_campaign,8331,176,451.13,79
+2026-01-15,Facebook,facebook_campaign,5861,414,169.07,16
+2026-01-14,Mercado Libre,mercado_libre_campaign,3763,985,310.46,16
+2026-01-14,Instagram,instagram_campaign,3307,984,228.01,75
+2026-01-14,Web,web_campaign,1704,937,92.53,45
+2026-01-14,Facebook,facebook_campaign,5665,154,156.43,36
+2026-01-13,Mercado Libre,mercado_libre_campaign,5098,951,95.73,70
+2026-01-13,Instagram,instagram_campaign,9752,210,467.46,69
+2026-01-13,Web,web_campaign,9186,783,281.03,33
+2026-01-13,Facebook,facebook_campaign,2231,114,425.28,91
+2026-01-12,Mercado Libre,mercado_libre_campaign,2511,999,271.21,85
+2026-01-12,Instagram,instagram_campaign,9785,947,132.08,90
+2026-01-12,Web,web_campaign,4168,367,283.74,63
+2026-01-12,Facebook,facebook_campaign,3811,686,295.76,72
+2026-01-11,Mercado Libre,mercado_libre_campaign,8175,339,391.05,39
+2026-01-11,Instagram,instagram_campaign,9836,348,444.49,75
+2026-01-11,Web,web_campaign,3903,656,356.69,50
+2026-01-11,Facebook,facebook_campaign,7691,129,202.31,83
+2026-01-10,Mercado Libre,mercado_libre_campaign,8366,856,60.31,99
+2026-01-10,Instagram,instagram_campaign,9922,836,336.49,61
+2026-01-10,Web,web_campaign,2949,564,265.24,17
+2026-01-10,Facebook,facebook_campaign,7597,981,472.19,40
+2026-01-09,Mercado Libre,mercado_libre_campaign,7636,630,400.95,28
+2026-01-09,Instagram,instagram_campaign,1253,473,394.04,58
+2026-01-09,Web,web_campaign,9857,247,87.96,31
+2026-01-09,Facebook,facebook_campaign,3956,329,333.13,51
+2026-01-08,Mercado Libre,mercado_libre_campaign,3608,188,496.47,96
+2026-01-08,Instagram,instagram_campaign,6997,115,399.78,79
+2026-01-08,Web,web_campaign,8328,207,359.04,61
+2026-01-08,Facebook,facebook_campaign,3463,850,82.79,93
+2026-01-07,Mercado Libre,mercado_libre_campaign,3854,174,491.77,27
+2026-01-07,Instagram,instagram_campaign,6363,681,229.07,68
+2026-01-07,Web,web_campaign,1646,670,315.78,97
+2026-01-07,Facebook,facebook_campaign,5399,340,243.48,87
+2026-01-06,Mercado Libre,mercado_libre_campaign,9877,395,402.51,12
+2026-01-06,Instagram,instagram_campaign,3594,229,451.48,14
+2026-01-06,Web,web_campaign,6421,917,65.26,87
+2026-01-06,Facebook,facebook_campaign,4765,778,428.79,65
+2026-01-05,Mercado Libre,mercado_libre_campaign,5108,619,486.08,92
+2026-01-05,Instagram,instagram_campaign,3129,405,447.12,53
+2026-01-05,Web,web_campaign,9391,666,333.28,92
+2026-01-05,Facebook,facebook_campaign,2376,390,206.05,90
+2026-01-04,Mercado Libre,mercado_libre_campaign,9940,619,256.05,14
+2026-01-04,Instagram,instagram_campaign,8231,193,210.62,32
+2026-01-04,Web,web_campaign,4854,657,230.74,59
+2026-01-04,Facebook,facebook_campaign,8825,300,292.67,94
+2026-01-03,Mercado Libre,mercado_libre_campaign,4059,126,470.26,67
+2026-01-03,Instagram,instagram_campaign,5503,489,401.11,88
+2026-01-03,Web,web_campaign,2040,836,332.52,69
+2026-01-03,Facebook,facebook_campaign,9108,725,289.49,59
+2026-01-02,Mercado Libre,mercado_libre_campaign,9879,253,435.66,83
+2026-01-02,Instagram,instagram_campaign,8151,617,273.75,29
+2026-01-02,Web,web_campaign,3121,427,282.25,35
+2026-01-02,Facebook,facebook_campaign,9092,867,67.18,92
+2026-01-01,Mercado Libre,mercado_libre_campaign,9718,425,356.7,10
+2026-01-01,Instagram,instagram_campaign,7530,758,133.81,90
+2026-01-01,Web,web_campaign,4890,477,73.34,44
+2026-01-01,Facebook,facebook_campaign,1489,779,452.62,56
+2025-12-31,Mercado Libre,mercado_libre_campaign,7392,490,377.46,52
+2025-12-31,Instagram,instagram_campaign,8481,682,67.24,96
+2025-12-31,Web,web_campaign,3045,271,175.82,79
+2025-12-31,Facebook,facebook_campaign,3882,897,385.91,57
+2025-12-30,Mercado Libre,mercado_libre_campaign,5396,357,132.15,77
+2025-12-30,Instagram,instagram_campaign,7441,571,317.12,35
+2025-12-30,Web,web_campaign,3299,461,421.91,88
+2025-12-30,Facebook,facebook_campaign,5819,290,337.24,91
+2025-12-29,Mercado Libre,mercado_libre_campaign,3180,799,289.72,83
+2025-12-29,Instagram,instagram_campaign,5411,908,226.12,38
+2025-12-29,Web,web_campaign,4187,659,482.21,83
+2025-12-29,Facebook,facebook_campaign,2689,448,232.21,43
+2025-12-28,Mercado Libre,mercado_libre_campaign,2304,800,356.24,51
+2025-12-28,Instagram,instagram_campaign,4057,645,392.67,71
+2025-12-28,Web,web_campaign,3914,451,225.08,83
+2025-12-28,Facebook,facebook_campaign,3815,513,475.73,38
+2025-12-27,Mercado Libre,mercado_libre_campaign,4641,451,288.38,97
+2025-12-27,Instagram,instagram_campaign,7062,204,150.6,74
+2025-12-27,Web,web_campaign,2740,673,369.78,57
+2025-12-27,Facebook,facebook_campaign,6993,126,478.23,72
+2025-12-26,Mercado Libre,mercado_libre_campaign,9502,369,480.32,81
+2025-12-26,Instagram,instagram_campaign,6314,116,324.45,72
+2025-12-26,Web,web_campaign,5707,944,167.77,10
+2025-12-26,Facebook,facebook_campaign,4181,413,332.66,25
+2025-12-25,Mercado Libre,mercado_libre_campaign,9393,944,309.63,24
+2025-12-25,Instagram,instagram_campaign,8884,713,267.91,16
+2025-12-25,Web,web_campaign,4262,634,424.86,52
+2025-12-25,Facebook,facebook_campaign,4866,375,407.05,21
+2025-12-24,Mercado Libre,mercado_libre_campaign,6967,315,227.54,21
+2025-12-24,Instagram,instagram_campaign,6328,400,254.15,51
+2025-12-24,Web,web_campaign,6370,307,98.25,32
+2025-12-24,Facebook,facebook_campaign,6998,734,448.74,63
+2025-12-23,Mercado Libre,mercado_libre_campaign,8796,845,430.64,77
+2025-12-23,Instagram,instagram_campaign,2595,343,409.46,67
+2025-12-23,Web,web_campaign,6198,146,57.23,89
+2025-12-23,Facebook,facebook_campaign,5354,966,117.36,92
+2025-12-22,Mercado Libre,mercado_libre_campaign,2787,390,477.67,21
+2025-12-22,Instagram,instagram_campaign,1576,894,209.24,68
+2025-12-22,Web,web_campaign,7273,730,288.15,25
+2025-12-22,Facebook,facebook_campaign,9580,584,302.67,87
+2025-12-21,Mercado Libre,mercado_libre_campaign,3156,875,265.11,44
+2025-12-21,Instagram,instagram_campaign,6914,232,155.75,75
+2025-12-21,Web,web_campaign,9630,671,435.4,54
+2025-12-21,Facebook,facebook_campaign,7589,266,450.58,52
+2025-12-20,Mercado Libre,mercado_libre_campaign,8014,526,76.27,51
+2025-12-20,Instagram,instagram_campaign,9297,525,406.53,67
+2025-12-20,Web,web_campaign,9829,552,175.79,31
+2025-12-20,Facebook,facebook_campaign,3264,604,367.75,75
+2025-12-19,Mercado Libre,mercado_libre_campaign,6526,858,451.93,45
+2025-12-19,Instagram,instagram_campaign,9869,747,202.79,85
+2025-12-19,Web,web_campaign,7913,472,408.47,50
+2025-12-19,Facebook,facebook_campaign,5719,282,275.91,48
+2025-12-18,Mercado Libre,mercado_libre_campaign,2944,184,415.59,64
+2025-12-18,Instagram,instagram_campaign,6444,126,111.26,10
+2025-12-18,Web,web_campaign,1645,143,120.17,49
+2025-12-18,Facebook,facebook_campaign,7103,754,153.31,92
+2025-12-17,Mercado Libre,mercado_libre_campaign,4802,174,481.31,26
+2025-12-17,Instagram,instagram_campaign,2896,918,196.69,50
+2025-12-17,Web,web_campaign,2134,313,52.51,53
+2025-12-17,Facebook,facebook_campaign,8872,134,284.8,91
+2025-12-16,Mercado Libre,mercado_libre_campaign,7974,668,382.17,97
+2025-12-16,Instagram,instagram_campaign,2644,390,186.47,76
+2025-12-16,Web,web_campaign,9598,731,222.38,85
+2025-12-16,Facebook,facebook_campaign,9038,247,274.81,98
+2025-12-15,Mercado Libre,mercado_libre_campaign,4638,533,252.05,91
+2025-12-15,Instagram,instagram_campaign,8226,836,477.26,92
+2025-12-15,Web,web_campaign,7771,253,386.11,26
+2025-12-15,Facebook,facebook_campaign,7001,966,281.89,100
+2025-12-14,Mercado Libre,mercado_libre_campaign,3747,477,179.56,18
+2025-12-14,Instagram,instagram_campaign,9615,323,412.42,32
+2025-12-14,Web,web_campaign,9902,927,417.36,27
+2025-12-14,Facebook,facebook_campaign,4119,956,78.31,35
+2025-12-13,Mercado Libre,mercado_libre_campaign,3346,999,428.53,10
+2025-12-13,Instagram,instagram_campaign,5994,739,91.67,58
+2025-12-13,Web,web_campaign,1132,192,283.82,63
+2025-12-13,Facebook,facebook_campaign,5299,601,122.07,80
+2025-12-12,Mercado Libre,mercado_libre_campaign,8588,453,60.9,31
+2025-12-12,Instagram,instagram_campaign,8727,513,283.41,21
+2025-12-12,Web,web_campaign,8471,281,404.12,54
+2025-12-12,Facebook,facebook_campaign,8865,575,194.38,56
+2025-12-11,Mercado Libre,mercado_libre_campaign,5352,595,111.05,29
+2025-12-11,Instagram,instagram_campaign,1535,433,114.1,21
+2025-12-11,Web,web_campaign,9371,936,398.98,95
+2025-12-11,Facebook,facebook_campaign,8431,491,454.84,80
+2025-12-10,Mercado Libre,mercado_libre_campaign,4950,847,96.01,16
+2025-12-10,Instagram,instagram_campaign,10000,989,131.74,66
+2025-12-10,Web,web_campaign,2981,760,260.95,18
+2025-12-10,Facebook,facebook_campaign,8490,803,146.78,66
+2025-12-09,Mercado Libre,mercado_libre_campaign,4559,678,344.93,33
+2025-12-09,Instagram,instagram_campaign,1479,433,131.81,29
+2025-12-09,Web,web_campaign,4507,858,235.37,31
+2025-12-09,Facebook,facebook_campaign,2651,850,242.2,51
+2025-12-08,Mercado Libre,mercado_libre_campaign,2234,755,186.44,80
+2025-12-08,Instagram,instagram_campaign,3357,342,453.52,51
+2025-12-08,Web,web_campaign,6958,819,483.87,83
+2025-12-08,Facebook,facebook_campaign,9850,308,194.09,49
+2025-12-07,Mercado Libre,mercado_libre_campaign,5370,527,104.97,92
+2025-12-07,Instagram,instagram_campaign,8586,854,384.65,73
+2025-12-07,Web,web_campaign,4585,265,413.71,47
+2025-12-07,Facebook,facebook_campaign,5049,120,306.97,43
+2025-12-06,Mercado Libre,mercado_libre_campaign,5159,691,414.84,73
+2025-12-06,Instagram,instagram_campaign,2908,284,451.97,87
+2025-12-06,Web,web_campaign,8189,102,134.06,32
+2025-12-06,Facebook,facebook_campaign,8211,171,122.94,52
+2025-12-05,Mercado Libre,mercado_libre_campaign,5038,782,455.48,69
+2025-12-05,Instagram,instagram_campaign,9634,609,373.44,37
+2025-12-05,Web,web_campaign,9033,824,452.92,51
+2025-12-05,Facebook,facebook_campaign,3265,693,478.06,76
+2025-12-04,Mercado Libre,mercado_libre_campaign,4981,233,117.16,96
+2025-12-04,Instagram,instagram_campaign,2614,237,406.96,60
+2025-12-04,Web,web_campaign,1889,661,134.8,14
+2025-12-04,Facebook,facebook_campaign,1728,371,392.45,72
+2025-12-03,Mercado Libre,mercado_libre_campaign,8628,631,276.56,82
+2025-12-03,Instagram,instagram_campaign,8182,457,357.62,98
+2025-12-03,Web,web_campaign,7098,783,281.45,33
+2025-12-03,Facebook,facebook_campaign,4879,752,290.75,17
+2025-12-02,Mercado Libre,mercado_libre_campaign,1662,306,57.8,48
+2025-12-02,Instagram,instagram_campaign,4871,497,340.43,83
+2025-12-02,Web,web_campaign,6254,212,257.1,54
+2025-12-02,Facebook,facebook_campaign,3670,315,442.4,83
+2025-12-01,Mercado Libre,mercado_libre_campaign,2533,123,400.53,92
+2025-12-01,Instagram,instagram_campaign,3743,897,467.09,85
+2025-12-01,Web,web_campaign,6705,779,60.81,48
+2025-12-01,Facebook,facebook_campaign,4257,589,174.73,75
+2025-11-30,Mercado Libre,mercado_libre_campaign,4159,158,325.44,35
+2025-11-30,Instagram,instagram_campaign,1080,690,237.01,70
+2025-11-30,Web,web_campaign,2354,315,359.05,73
+2025-11-30,Facebook,facebook_campaign,2522,723,485.34,28
+2025-11-29,Mercado Libre,mercado_libre_campaign,7517,149,334.98,29
+2025-11-29,Instagram,instagram_campaign,2893,312,120.83,97
+2025-11-29,Web,web_campaign,8542,519,259.95,94
+2025-11-29,Facebook,facebook_campaign,3287,154,101.82,96
+2025-11-28,Mercado Libre,mercado_libre_campaign,2462,218,100.72,61
+2025-11-28,Instagram,instagram_campaign,2712,232,460.98,15
+2025-11-28,Web,web_campaign,2981,732,374.75,67
+2025-11-28,Facebook,facebook_campaign,3228,840,204.32,77
+2025-11-27,Mercado Libre,mercado_libre_campaign,8170,354,139.08,89
+2025-11-27,Instagram,instagram_campaign,4507,137,182.13,34
+2025-11-27,Web,web_campaign,8068,489,201.79,78
+2025-11-27,Facebook,facebook_campaign,1219,776,130.48,93
+2025-11-26,Mercado Libre,mercado_libre_campaign,5939,895,284.45,29
+2025-11-26,Instagram,instagram_campaign,5621,280,95.21,46
+2025-11-26,Web,web_campaign,1372,908,301.27,60
+2025-11-26,Facebook,facebook_campaign,9598,243,464.87,11
+2025-11-25,Mercado Libre,mercado_libre_campaign,6351,237,117.56,46
+2025-11-25,Instagram,instagram_campaign,7153,231,57.7,85
+2025-11-25,Web,web_campaign,4172,817,431.09,54
+2025-11-25,Facebook,facebook_campaign,7234,959,405.94,93
+2025-11-24,Mercado Libre,mercado_libre_campaign,1020,924,468.82,95
+2025-11-24,Instagram,instagram_campaign,6656,231,400.65,84
+2025-11-24,Web,web_campaign,9135,943,57.69,22
+2025-11-24,Facebook,facebook_campaign,4749,564,103.39,45
+2025-11-23,Mercado Libre,mercado_libre_campaign,4125,534,470.83,80
+2025-11-23,Instagram,instagram_campaign,6351,652,215.01,49
+2025-11-23,Web,web_campaign,3135,317,430.85,43
+2025-11-23,Facebook,facebook_campaign,2227,860,400.33,13
+2025-11-22,Mercado Libre,mercado_libre_campaign,3307,593,468.58,64
+2025-11-22,Instagram,instagram_campaign,3017,470,326.41,71
+2025-11-22,Web,web_campaign,4781,670,272.69,17
+2025-11-22,Facebook,facebook_campaign,3725,713,328.74,66
+2025-11-21,Mercado Libre,mercado_libre_campaign,2398,541,241.79,85
+2025-11-21,Instagram,instagram_campaign,1366,522,152.69,26
+2025-11-21,Web,web_campaign,5610,643,342.54,23
+2025-11-21,Facebook,facebook_campaign,6609,427,167.48,30
+2025-11-20,Mercado Libre,mercado_libre_campaign,1124,327,365.54,46
+2025-11-20,Instagram,instagram_campaign,1530,355,76.39,12
+2025-11-20,Web,web_campaign,6950,515,480.47,82
+2025-11-20,Facebook,facebook_campaign,8396,477,240.44,49
+2025-11-19,Mercado Libre,mercado_libre_campaign,2063,479,249.27,96
+2025-11-19,Instagram,instagram_campaign,6702,480,178.27,32
+2025-11-19,Web,web_campaign,5032,357,265.81,23
+2025-11-19,Facebook,facebook_campaign,3242,956,414.54,69
+2025-11-18,Mercado Libre,mercado_libre_campaign,8113,102,99.75,81
+2025-11-18,Instagram,instagram_campaign,1973,887,103.33,75
+2025-11-18,Web,web_campaign,3009,139,143.25,62
+2025-11-18,Facebook,facebook_campaign,4765,202,252.2,45
+2025-11-17,Mercado Libre,mercado_libre_campaign,2474,600,122.84,76
+2025-11-17,Instagram,instagram_campaign,1698,657,55.91,22
+2025-11-17,Web,web_campaign,7000,558,98.33,85
+2025-11-17,Facebook,facebook_campaign,1499,989,373.91,53
+2025-11-16,Mercado Libre,mercado_libre_campaign,1996,574,88.0,75
+2025-11-16,Instagram,instagram_campaign,1695,518,253.83,41
+2025-11-16,Web,web_campaign,1882,573,370.68,52
+2025-11-16,Facebook,facebook_campaign,2305,148,415.85,46
+2025-11-15,Mercado Libre,mercado_libre_campaign,6916,643,479.25,72
+2025-11-15,Instagram,instagram_campaign,5919,304,410.46,32
+2025-11-15,Web,web_campaign,2871,820,138.45,12
+2025-11-15,Facebook,facebook_campaign,8128,286,207.02,77
+2025-11-14,Mercado Libre,mercado_libre_campaign,6821,557,241.66,64
+2025-11-14,Instagram,instagram_campaign,5157,608,63.36,25
+2025-11-14,Web,web_campaign,1089,441,139.53,95
+2025-11-14,Facebook,facebook_campaign,4282,721,231.16,66
+2025-11-13,Mercado Libre,mercado_libre_campaign,5165,958,246.86,60
+2025-11-13,Instagram,instagram_campaign,8156,942,117.01,55
+2025-11-13,Web,web_campaign,2049,637,158.25,27
+2025-11-13,Facebook,facebook_campaign,8782,119,64.44,44
+2025-11-12,Mercado Libre,mercado_libre_campaign,7602,524,241.5,49
+2025-11-12,Instagram,instagram_campaign,6412,741,315.19,18
+2025-11-12,Web,web_campaign,2908,151,251.12,72
+2025-11-12,Facebook,facebook_campaign,8657,227,461.27,14
+2025-11-11,Mercado Libre,mercado_libre_campaign,1321,866,344.8,84
+2025-11-11,Instagram,instagram_campaign,4865,656,395.72,80
+2025-11-11,Web,web_campaign,2113,940,371.71,99
+2025-11-11,Facebook,facebook_campaign,5416,687,51.36,41
+2025-11-10,Mercado Libre,mercado_libre_campaign,2077,424,403.01,15
+2025-11-10,Instagram,instagram_campaign,5186,725,323.98,14
+2025-11-10,Web,web_campaign,5876,762,423.56,73
+2025-11-10,Facebook,facebook_campaign,7471,902,322.75,73
+2025-11-09,Mercado Libre,mercado_libre_campaign,4664,763,79.3,69
+2025-11-09,Instagram,instagram_campaign,8192,801,104.13,63
+2025-11-09,Web,web_campaign,7262,717,300.44,47
+2025-11-09,Facebook,facebook_campaign,2672,520,458.63,22
+2025-11-08,Mercado Libre,mercado_libre_campaign,3432,321,268.23,16
+2025-11-08,Instagram,instagram_campaign,8946,591,306.96,41
+2025-11-08,Web,web_campaign,4822,950,128.39,51
+2025-11-08,Facebook,facebook_campaign,8158,287,144.92,98
+2025-11-07,Mercado Libre,mercado_libre_campaign,9444,785,315.94,47
+2025-11-07,Instagram,instagram_campaign,2866,725,250.73,11
+2025-11-07,Web,web_campaign,2097,828,420.15,43
+2025-11-07,Facebook,facebook_campaign,3705,541,431.65,94
+2025-11-06,Mercado Libre,mercado_libre_campaign,3286,126,146.45,16
+2025-11-06,Instagram,instagram_campaign,9447,571,418.92,79
+2025-11-06,Web,web_campaign,3810,208,90.06,17
+2025-11-06,Facebook,facebook_campaign,3594,776,349.41,13
+2025-11-05,Mercado Libre,mercado_libre_campaign,5251,197,432.33,79
+2025-11-05,Instagram,instagram_campaign,2371,340,216.22,99
+2025-11-05,Web,web_campaign,9404,709,277.01,84
+2025-11-05,Facebook,facebook_campaign,8349,250,453.85,20
+2025-11-04,Mercado Libre,mercado_libre_campaign,8281,122,378.93,78
+2025-11-04,Instagram,instagram_campaign,9251,740,314.44,47
+2025-11-04,Web,web_campaign,9326,131,416.89,19
+2025-11-04,Facebook,facebook_campaign,9955,508,452.37,48
+2025-11-03,Mercado Libre,mercado_libre_campaign,9767,241,122.32,25
+2025-11-03,Instagram,instagram_campaign,8393,464,284.88,39
+2025-11-03,Web,web_campaign,8214,619,218.21,11
+2025-11-03,Facebook,facebook_campaign,9832,276,77.77,13
+2025-11-02,Mercado Libre,mercado_libre_campaign,5251,653,71.07,70
+2025-11-02,Instagram,instagram_campaign,6246,584,349.96,33
+2025-11-02,Web,web_campaign,4095,489,303.54,48
+2025-11-02,Facebook,facebook_campaign,7606,193,394.07,95
+2025-11-01,Mercado Libre,mercado_libre_campaign,2376,261,279.9,73
+2025-11-01,Instagram,instagram_campaign,5430,910,124.41,95
+2025-11-01,Web,web_campaign,7938,673,456.72,29
+2025-11-01,Facebook,facebook_campaign,8591,843,388.47,84
+2025-10-31,Mercado Libre,mercado_libre_campaign,8817,780,335.92,44
+2025-10-31,Instagram,instagram_campaign,1706,702,209.59,25
+2025-10-31,Web,web_campaign,5237,909,89.8,84
+2025-10-31,Facebook,facebook_campaign,7938,215,209.57,15
+2025-10-30,Mercado Libre,mercado_libre_campaign,9099,665,339.05,32
+2025-10-30,Instagram,instagram_campaign,8987,390,353.39,98
+2025-10-30,Web,web_campaign,4672,441,375.29,55
+2025-10-30,Facebook,facebook_campaign,2753,897,468.95,84
+2025-10-29,Mercado Libre,mercado_libre_campaign,7523,286,181.78,15
+2025-10-29,Instagram,instagram_campaign,7908,818,337.84,88
+2025-10-29,Web,web_campaign,7165,492,296.06,43
+2025-10-29,Facebook,facebook_campaign,8033,126,169.54,75
+2025-10-28,Mercado Libre,mercado_libre_campaign,6118,255,79.14,11
+2025-10-28,Instagram,instagram_campaign,3505,674,202.11,59
+2025-10-28,Web,web_campaign,3332,263,491.55,55
+2025-10-28,Facebook,facebook_campaign,4983,945,333.64,45
+2025-10-27,Mercado Libre,mercado_libre_campaign,9890,659,106.28,74
+2025-10-27,Instagram,instagram_campaign,4637,372,290.58,78
+2025-10-27,Web,web_campaign,9221,333,326.34,65
+2025-10-27,Facebook,facebook_campaign,3252,364,227.83,29
+2025-10-26,Mercado Libre,mercado_libre_campaign,9637,555,320.87,18
+2025-10-26,Instagram,instagram_campaign,7961,122,330.46,18
+2025-10-26,Web,web_campaign,2461,407,83.23,24
+2025-10-26,Facebook,facebook_campaign,5067,466,347.53,86
+2025-10-25,Mercado Libre,mercado_libre_campaign,3674,940,442.91,62
+2025-10-25,Instagram,instagram_campaign,2768,338,146.0,62
+2025-10-25,Web,web_campaign,1006,449,133.96,41
+2025-10-25,Facebook,facebook_campaign,1717,360,194.55,75
+2025-10-24,Mercado Libre,mercado_libre_campaign,2546,510,199.6,99
+2025-10-24,Instagram,instagram_campaign,1359,269,212.14,45
+2025-10-24,Web,web_campaign,5949,607,115.09,25
+2025-10-24,Facebook,facebook_campaign,2595,539,193.05,14
+2025-10-23,Mercado Libre,mercado_libre_campaign,4166,813,180.12,13
+2025-10-23,Instagram,instagram_campaign,7822,511,430.31,70
+2025-10-23,Web,web_campaign,8933,865,79.4,76
+2025-10-23,Facebook,facebook_campaign,3077,816,166.41,78
+2025-10-22,Mercado Libre,mercado_libre_campaign,9955,745,68.82,79
+2025-10-22,Instagram,instagram_campaign,1046,987,230.32,80
+2025-10-22,Web,web_campaign,3383,199,172.17,66
+2025-10-22,Facebook,facebook_campaign,5437,523,282.64,23
+2025-10-21,Mercado Libre,mercado_libre_campaign,4710,959,196.9,33
+2025-10-21,Instagram,instagram_campaign,7463,741,219.44,43
+2025-10-21,Web,web_campaign,9944,532,327.41,78
+2025-10-21,Facebook,facebook_campaign,5079,815,488.87,60
+2025-10-20,Mercado Libre,mercado_libre_campaign,8214,419,468.64,58
+2025-10-20,Instagram,instagram_campaign,6117,805,451.64,21
+2025-10-20,Web,web_campaign,6362,448,314.76,50
+2025-10-20,Facebook,facebook_campaign,1807,213,105.85,27
+2025-10-19,Mercado Libre,mercado_libre_campaign,3958,159,430.17,71
+2025-10-19,Instagram,instagram_campaign,6919,352,363.65,58
+2025-10-19,Web,web_campaign,1728,459,101.02,70
+2025-10-19,Facebook,facebook_campaign,2287,532,357.24,17
+2025-10-18,Mercado Libre,mercado_libre_campaign,4720,952,318.2,81
+2025-10-18,Instagram,instagram_campaign,7469,312,239.56,41
+2025-10-18,Web,web_campaign,7730,826,341.43,22
+2025-10-18,Facebook,facebook_campaign,9432,693,166.96,57
+2025-10-17,Mercado Libre,mercado_libre_campaign,1914,488,268.48,16
+2025-10-17,Instagram,instagram_campaign,1405,708,345.23,83
+2025-10-17,Web,web_campaign,5933,926,111.15,77
+2025-10-17,Facebook,facebook_campaign,5099,283,71.13,58
+2025-10-16,Mercado Libre,mercado_libre_campaign,7144,798,439.33,81
+2025-10-16,Instagram,instagram_campaign,8125,541,273.88,16
+2025-10-16,Web,web_campaign,6355,908,246.11,30
+2025-10-16,Facebook,facebook_campaign,1235,939,405.73,49
+2025-10-15,Mercado Libre,mercado_libre_campaign,6156,533,439.33,72
+2025-10-15,Instagram,instagram_campaign,8259,448,291.88,13
+2025-10-15,Web,web_campaign,8382,901,478.85,50
+2025-10-15,Facebook,facebook_campaign,4616,296,401.57,87
+2025-10-14,Mercado Libre,mercado_libre_campaign,1473,535,108.89,57
+2025-10-14,Instagram,instagram_campaign,5228,918,232.0,58
+2025-10-14,Web,web_campaign,3143,974,335.09,63
+2025-10-14,Facebook,facebook_campaign,6513,817,180.14,23
+2025-10-13,Mercado Libre,mercado_libre_campaign,7496,747,200.3,87
+2025-10-13,Instagram,instagram_campaign,6685,334,466.41,11
+2025-10-13,Web,web_campaign,7971,264,435.01,25
+2025-10-13,Facebook,facebook_campaign,3865,255,182.35,67
+2025-10-12,Mercado Libre,mercado_libre_campaign,8015,589,362.28,70
+2025-10-12,Instagram,instagram_campaign,6089,510,110.45,50
+2025-10-12,Web,web_campaign,2103,499,62.49,20
+2025-10-12,Facebook,facebook_campaign,3897,387,369.11,22
+2025-10-11,Mercado Libre,mercado_libre_campaign,2512,481,459.82,74
+2025-10-11,Instagram,instagram_campaign,5115,646,408.6,91
+2025-10-11,Web,web_campaign,7361,161,52.75,78
+2025-10-11,Facebook,facebook_campaign,1245,210,263.56,76
+2025-10-10,Mercado Libre,mercado_libre_campaign,7489,592,369.94,81
+2025-10-10,Instagram,instagram_campaign,3094,300,443.58,32
+2025-10-10,Web,web_campaign,6871,554,468.83,11
+2025-10-10,Facebook,facebook_campaign,5476,556,110.71,62
+2025-10-09,Mercado Libre,mercado_libre_campaign,5310,973,123.85,64
+2025-10-09,Instagram,instagram_campaign,2247,250,378.7,31
+2025-10-09,Web,web_campaign,1876,308,287.94,39
+2025-10-09,Facebook,facebook_campaign,8843,450,152.59,54
+2025-10-08,Mercado Libre,mercado_libre_campaign,7322,987,388.65,16
+2025-10-08,Instagram,instagram_campaign,8556,667,207.66,91
+2025-10-08,Web,web_campaign,3765,477,492.53,75
+2025-10-08,Facebook,facebook_campaign,3864,417,107.56,95
+2025-10-07,Mercado Libre,mercado_libre_campaign,4810,615,195.93,42
+2025-10-07,Instagram,instagram_campaign,6931,916,388.59,44
+2025-10-07,Web,web_campaign,1772,132,354.12,64
+2025-10-07,Facebook,facebook_campaign,5169,412,343.77,46
+2025-10-06,Mercado Libre,mercado_libre_campaign,8654,446,382.9,35
+2025-10-06,Instagram,instagram_campaign,2256,214,112.97,34
+2025-10-06,Web,web_campaign,3525,830,493.13,46
+2025-10-06,Facebook,facebook_campaign,9802,729,394.41,72
+2025-10-05,Mercado Libre,mercado_libre_campaign,2390,561,247.27,60
+2025-10-05,Instagram,instagram_campaign,4379,348,349.02,92
+2025-10-05,Web,web_campaign,3725,601,126.37,34
+2025-10-05,Facebook,facebook_campaign,9829,488,358.29,19
+2025-10-04,Mercado Libre,mercado_libre_campaign,8778,462,371.4,93
+2025-10-04,Instagram,instagram_campaign,9894,162,410.54,18
+2025-10-04,Web,web_campaign,7341,352,422.02,42
+2025-10-04,Facebook,facebook_campaign,6389,831,335.9,14
+2025-10-03,Mercado Libre,mercado_libre_campaign,7334,723,497.45,39
+2025-10-03,Instagram,instagram_campaign,6324,836,295.39,28
+2025-10-03,Web,web_campaign,5370,739,452.21,52
+2025-10-03,Facebook,facebook_campaign,4760,412,55.32,99
+2025-10-02,Mercado Libre,mercado_libre_campaign,2701,627,81.11,60
+2025-10-02,Instagram,instagram_campaign,8217,585,277.32,75
+2025-10-02,Web,web_campaign,2097,962,241.24,32
+2025-10-02,Facebook,facebook_campaign,5568,360,164.48,95
+2025-10-01,Mercado Libre,mercado_libre_campaign,6889,367,167.85,16
+2025-10-01,Instagram,instagram_campaign,9711,315,418.75,56
+2025-10-01,Web,web_campaign,2080,586,321.25,37
+2025-10-01,Facebook,facebook_campaign,8378,821,402.93,23
+2025-09-30,Mercado Libre,mercado_libre_campaign,1255,757,358.81,95
+2025-09-30,Instagram,instagram_campaign,6251,346,339.64,25
+2025-09-30,Web,web_campaign,3409,649,255.42,74
+2025-09-30,Facebook,facebook_campaign,9396,776,164.96,78
+2025-09-29,Mercado Libre,mercado_libre_campaign,7324,923,329.94,84
+2025-09-29,Instagram,instagram_campaign,7972,700,287.46,29
+2025-09-29,Web,web_campaign,1998,413,496.94,50
+2025-09-29,Facebook,facebook_campaign,8884,692,366.38,71
+2025-09-28,Mercado Libre,mercado_libre_campaign,2714,380,427.89,97
+2025-09-28,Instagram,instagram_campaign,3253,359,219.58,14
+2025-09-28,Web,web_campaign,2467,982,378.0,86
+2025-09-28,Facebook,facebook_campaign,9854,865,483.58,100
+2025-09-27,Mercado Libre,mercado_libre_campaign,5139,279,170.51,36
+2025-09-27,Instagram,instagram_campaign,4709,706,252.29,76
+2025-09-27,Web,web_campaign,4857,343,305.61,23
+2025-09-27,Facebook,facebook_campaign,3473,215,493.4,94
+2025-09-26,Mercado Libre,mercado_libre_campaign,9191,130,226.35,30
+2025-09-26,Instagram,instagram_campaign,4442,276,282.69,75
+2025-09-26,Web,web_campaign,1808,828,310.13,37
+2025-09-26,Facebook,facebook_campaign,3748,249,104.51,24
+2025-09-25,Mercado Libre,mercado_libre_campaign,1244,289,153.51,10
+2025-09-25,Instagram,instagram_campaign,1266,164,361.25,59
+2025-09-25,Web,web_campaign,8558,544,220.73,15
+2025-09-25,Facebook,facebook_campaign,1488,620,428.57,86
+2025-09-24,Mercado Libre,mercado_libre_campaign,8878,832,223.81,11
+2025-09-24,Instagram,instagram_campaign,9974,185,418.02,34
+2025-09-24,Web,web_campaign,7105,492,408.59,46
+2025-09-24,Facebook,facebook_campaign,2011,841,155.85,80
+2025-09-23,Mercado Libre,mercado_libre_campaign,5740,426,342.44,92
+2025-09-23,Instagram,instagram_campaign,2393,703,279.65,16
+2025-09-23,Web,web_campaign,8906,382,239.51,80
+2025-09-23,Facebook,facebook_campaign,3265,299,191.69,62
+2025-09-22,Mercado Libre,mercado_libre_campaign,6183,952,354.33,22
+2025-09-22,Instagram,instagram_campaign,1571,103,139.35,12
+2025-09-22,Web,web_campaign,8488,955,388.22,33
+2025-09-22,Facebook,facebook_campaign,1057,478,417.82,45
+2025-09-21,Mercado Libre,mercado_libre_campaign,6397,860,314.75,66
+2025-09-21,Instagram,instagram_campaign,2221,439,58.8,98
+2025-09-21,Web,web_campaign,1754,546,244.78,95
+2025-09-21,Facebook,facebook_campaign,7388,532,170.9,19
+2025-09-20,Mercado Libre,mercado_libre_campaign,1213,762,226.84,57
+2025-09-20,Instagram,instagram_campaign,5900,988,88.94,21
+2025-09-20,Web,web_campaign,4683,388,50.71,67
+2025-09-20,Facebook,facebook_campaign,9874,431,95.26,88
+2025-09-19,Mercado Libre,mercado_libre_campaign,5405,890,328.38,15
+2025-09-19,Instagram,instagram_campaign,9565,729,56.77,81
+2025-09-19,Web,web_campaign,4189,540,238.86,35
+2025-09-19,Facebook,facebook_campaign,5820,667,113.37,78

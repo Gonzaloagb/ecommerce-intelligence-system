@@ -1,0 +1,2001 @@
+﻿order_id,order_date,customer_id,product_id,product_name,category,channel,seller_id,seller_name,quantity,unit_price,discount,total_amount,payment_status
+1,2026-03-11 16:54:17,378,4,Remera Oversize,Ropa,Mercado Libre,5,Vendedor_5,2,48,0.05,91.2,paid
+2,2025-11-29 16:54:17,120,19,Riñonera Sport,Accesorios,Mercado Libre,1,Vendedor_1,1,15,0.05,14.25,paid
+3,2025-11-30 16:54:17,389,18,Camisa Lino,Ropa,Instagram,4,Vendedor_4,4,55,0.0,220.0,pending
+4,2026-01-05 16:54:17,48,11,Buzo Hoodie,Ropa,Facebook,3,Vendedor_3,2,63,0.0,126.0,paid
+5,2025-12-19 16:54:17,275,12,Short Deportivo,Ropa,Mercado Libre,10,Vendedor_10,3,25,0.15,63.75,pending
+6,2025-10-27 16:54:17,99,3,Remera Básica,Ropa,Mercado Libre,5,Vendedor_5,5,66,0.2,264.0,paid
+7,2026-01-02 16:54:17,143,8,Campera Denim,Ropa,Facebook,2,Vendedor_2,2,32,0.15,54.4,pending
+8,2025-12-13 16:54:17,312,6,Pantalón Cargo,Ropa,Instagram,6,Vendedor_6,2,54,0.0,108.0,paid
+9,2025-11-19 16:54:17,432,6,Pantalón Cargo,Ropa,Mercado Libre,7,Vendedor_7,3,48,0.1,129.6,paid
+10,2025-12-27 16:54:17,468,2,Zapatillas Running,Calzado,Web,7,Vendedor_7,3,68,0.05,193.8,paid
+11,2025-12-06 16:54:17,127,16,Sandalias Beach,Calzado,Web,8,Vendedor_8,2,93,0.05,176.7,pending
+12,2025-12-05 16:54:17,253,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,2,18,0.2,28.8,paid
+13,2026-02-06 16:54:17,196,4,Remera Oversize,Ropa,Facebook,3,Vendedor_3,4,28,0.15,95.2,pending
+14,2026-03-15 16:54:17,58,18,Camisa Lino,Ropa,Web,2,Vendedor_2,5,54,0.1,243.0,pending
+15,2025-11-21 16:54:17,260,6,Pantalón Cargo,Ropa,Mercado Libre,1,Vendedor_1,3,84,0.05,239.4,pending
+16,2025-10-13 16:54:17,277,17,Camisa Oxford,Ropa,Mercado Libre,4,Vendedor_4,2,67,0.05,127.3,pending
+17,2026-03-13 16:54:17,123,16,Sandalias Beach,Calzado,Mercado Libre,2,Vendedor_2,3,172,0.1,464.4,paid
+18,2026-02-25 16:54:17,393,19,Riñonera Sport,Accesorios,Instagram,2,Vendedor_2,4,14,0.2,44.8,paid
+19,2025-10-28 16:54:17,217,16,Sandalias Beach,Calzado,Instagram,3,Vendedor_3,3,127,0.2,304.8,paid
+20,2025-12-05 16:54:17,62,10,Mochila City,Accesorios,Instagram,6,Vendedor_6,4,43,0.15,146.2,paid
+21,2025-12-21 16:54:17,302,3,Remera Básica,Ropa,Instagram,1,Vendedor_1,5,90,0.05,427.5,paid
+22,2025-10-07 16:54:17,441,3,Remera Básica,Ropa,Web,1,Vendedor_1,2,28,0.0,56.0,paid
+23,2026-01-16 16:54:17,68,17,Camisa Oxford,Ropa,Facebook,5,Vendedor_5,4,47,0.2,150.4,paid
+24,2025-12-03 16:54:17,182,16,Sandalias Beach,Calzado,Facebook,4,Vendedor_4,1,72,0.15,61.2,pending
+25,2026-03-04 16:54:17,410,15,Botas Trekking,Calzado,Mercado Libre,2,Vendedor_2,1,111,0.1,99.9,paid
+26,2026-01-28 16:54:17,94,7,Campera Rompeviento,Ropa,Web,9,Vendedor_9,4,37,0.15,125.8,pending
+27,2026-02-26 16:54:17,334,8,Campera Denim,Ropa,Mercado Libre,8,Vendedor_8,5,32,0.0,160.0,paid
+28,2026-02-03 16:54:17,443,8,Campera Denim,Ropa,Facebook,7,Vendedor_7,4,81,0.05,307.8,paid
+29,2025-12-10 16:54:17,147,6,Pantalón Cargo,Ropa,Facebook,1,Vendedor_1,4,53,0.15,180.2,pending
+30,2026-01-28 16:54:17,377,5,Pantalón Chino,Ropa,Mercado Libre,5,Vendedor_5,2,27,0.2,43.2,pending
+31,2026-03-05 16:54:17,81,2,Zapatillas Running,Calzado,Mercado Libre,10,Vendedor_10,4,124,0.2,396.8,paid
+32,2026-02-28 16:54:17,62,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,1,50,0.15,42.5,paid
+33,2026-02-25 16:54:17,162,20,Piluso Trend,Accesorios,Web,7,Vendedor_7,5,46,0.2,184.0,paid
+34,2026-01-15 16:54:17,235,11,Buzo Hoodie,Ropa,Web,5,Vendedor_5,4,36,0.1,129.6,paid
+35,2025-11-20 16:54:17,276,1,Zapatillas Urban,Calzado,Instagram,10,Vendedor_10,5,72,0.0,360.0,pending
+36,2025-12-18 16:54:17,81,5,Pantalón Chino,Ropa,Facebook,2,Vendedor_2,2,67,0.1,120.6,pending
+37,2025-10-01 16:54:17,154,20,Piluso Trend,Accesorios,Mercado Libre,9,Vendedor_9,1,52,0.2,41.6,paid
+38,2026-02-16 16:54:17,145,9,Gorra Classic,Accesorios,Instagram,2,Vendedor_2,5,19,0.1,85.5,pending
+39,2025-09-23 16:54:17,464,7,Campera Rompeviento,Ropa,Mercado Libre,5,Vendedor_5,5,82,0.1,369.0,paid
+40,2026-01-06 16:54:17,327,14,Cinturón Casual,Accesorios,Web,1,Vendedor_1,1,31,0.05,29.45,paid
+41,2025-10-27 16:54:17,39,15,Botas Trekking,Calzado,Instagram,7,Vendedor_7,5,61,0.0,305.0,paid
+42,2025-10-19 16:54:17,22,12,Short Deportivo,Ropa,Web,9,Vendedor_9,2,75,0.05,142.5,pending
+43,2025-12-16 16:54:17,182,2,Zapatillas Running,Calzado,Facebook,4,Vendedor_4,2,145,0.0,290.0,paid
+44,2026-02-04 16:54:17,378,8,Campera Denim,Ropa,Web,3,Vendedor_3,4,23,0.05,87.4,pending
+45,2026-01-08 16:54:17,440,8,Campera Denim,Ropa,Facebook,3,Vendedor_3,1,68,0.0,68.0,paid
+46,2025-11-20 16:54:17,13,7,Campera Rompeviento,Ropa,Instagram,6,Vendedor_6,3,49,0.05,139.65,pending
+47,2026-01-05 16:54:17,205,11,Buzo Hoodie,Ropa,Web,2,Vendedor_2,3,64,0.2,153.6,paid
+48,2026-01-10 16:54:17,56,4,Remera Oversize,Ropa,Facebook,3,Vendedor_3,5,53,0.0,265.0,pending
+49,2025-11-26 16:54:17,461,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,5,34,0.15,144.5,pending
+50,2025-11-26 16:54:17,352,2,Zapatillas Running,Calzado,Instagram,1,Vendedor_1,5,178,0.2,712.0,pending
+51,2026-02-28 16:54:17,369,14,Cinturón Casual,Accesorios,Web,6,Vendedor_6,5,30,0.0,150.0,pending
+52,2025-12-24 16:54:17,99,14,Cinturón Casual,Accesorios,Facebook,7,Vendedor_7,3,45,0.05,128.25,pending
+53,2025-10-11 16:54:17,427,6,Pantalón Cargo,Ropa,Mercado Libre,10,Vendedor_10,3,71,0.2,170.4,pending
+54,2026-01-23 16:54:17,239,10,Mochila City,Accesorios,Facebook,7,Vendedor_7,5,48,0.1,216.0,pending
+55,2025-11-07 16:54:17,264,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,2,30,0.1,54.0,paid
+56,2025-09-26 16:54:17,13,8,Campera Denim,Ropa,Mercado Libre,5,Vendedor_5,2,45,0.05,85.5,paid
+57,2025-10-12 16:54:17,100,16,Sandalias Beach,Calzado,Facebook,2,Vendedor_2,4,113,0.2,361.6,pending
+58,2026-01-14 16:54:17,399,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,1,58,0.0,58.0,paid
+59,2025-09-20 16:54:17,128,6,Pantalón Cargo,Ropa,Mercado Libre,9,Vendedor_9,4,26,0.2,83.2,pending
+60,2025-11-19 16:54:17,314,5,Pantalón Chino,Ropa,Facebook,9,Vendedor_9,5,60,0.15,255.0,pending
+61,2025-11-16 16:54:17,393,6,Pantalón Cargo,Ropa,Facebook,8,Vendedor_8,3,51,0.1,137.7,paid
+62,2025-11-25 16:54:17,172,9,Gorra Classic,Accesorios,Web,2,Vendedor_2,3,25,0.1,67.5,paid
+63,2026-02-07 16:54:17,33,5,Pantalón Chino,Ropa,Facebook,4,Vendedor_4,4,39,0.05,148.2,pending
+64,2025-10-30 16:54:17,427,11,Buzo Hoodie,Ropa,Facebook,8,Vendedor_8,4,27,0.05,102.6,pending
+65,2025-09-20 16:54:17,4,19,Riñonera Sport,Accesorios,Web,1,Vendedor_1,5,34,0.15,144.5,pending
+66,2025-11-30 16:54:17,250,13,Medias Training,Accesorios,Instagram,9,Vendedor_9,5,48,0.05,228.0,pending
+67,2025-11-13 16:54:17,371,14,Cinturón Casual,Accesorios,Instagram,1,Vendedor_1,4,31,0.15,105.4,pending
+68,2025-10-09 16:54:17,289,5,Pantalón Chino,Ropa,Mercado Libre,9,Vendedor_9,1,70,0.2,56.0,paid
+69,2026-02-11 16:54:17,195,14,Cinturón Casual,Accesorios,Web,8,Vendedor_8,2,13,0.1,23.4,paid
+70,2025-12-24 16:54:17,130,15,Botas Trekking,Calzado,Mercado Libre,6,Vendedor_6,4,95,0.15,323.0,pending
+71,2025-10-30 16:54:17,400,1,Zapatillas Urban,Calzado,Mercado Libre,1,Vendedor_1,3,88,0.0,264.0,paid
+72,2026-01-25 16:54:17,65,8,Campera Denim,Ropa,Facebook,1,Vendedor_1,5,39,0.05,185.25,paid
+73,2026-01-21 16:54:17,86,19,Riñonera Sport,Accesorios,Mercado Libre,8,Vendedor_8,3,59,0.1,159.3,paid
+74,2026-02-18 16:54:17,347,10,Mochila City,Accesorios,Facebook,10,Vendedor_10,1,29,0.2,23.2,pending
+75,2026-02-26 16:54:17,436,7,Campera Rompeviento,Ropa,Mercado Libre,10,Vendedor_10,2,33,0.1,59.4,paid
+76,2025-11-01 16:54:17,332,12,Short Deportivo,Ropa,Web,7,Vendedor_7,3,28,0.2,67.2,paid
+77,2025-11-12 16:54:17,363,14,Cinturón Casual,Accesorios,Instagram,2,Vendedor_2,4,33,0.15,112.2,pending
+78,2025-11-04 16:54:17,239,6,Pantalón Cargo,Ropa,Facebook,5,Vendedor_5,5,88,0.15,374.0,pending
+79,2026-01-14 16:54:17,385,11,Buzo Hoodie,Ropa,Facebook,2,Vendedor_2,3,77,0.05,219.45,pending
+80,2026-03-10 16:54:17,109,11,Buzo Hoodie,Ropa,Web,8,Vendedor_8,3,43,0.15,109.65,pending
+81,2026-01-05 16:54:17,486,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,3,21,0.2,50.4,paid
+82,2025-12-03 16:54:17,331,8,Campera Denim,Ropa,Facebook,8,Vendedor_8,5,50,0.15,212.5,pending
+83,2026-02-22 16:54:17,157,1,Zapatillas Urban,Calzado,Web,5,Vendedor_5,2,111,0.05,210.9,pending
+84,2025-11-02 16:54:17,181,18,Camisa Lino,Ropa,Facebook,6,Vendedor_6,4,90,0.1,324.0,pending
+85,2026-01-12 16:54:17,162,10,Mochila City,Accesorios,Mercado Libre,4,Vendedor_4,1,56,0.05,53.2,paid
+86,2026-01-21 16:54:17,145,7,Campera Rompeviento,Ropa,Mercado Libre,8,Vendedor_8,3,87,0.2,208.8,paid
+87,2026-01-18 16:54:17,363,10,Mochila City,Accesorios,Instagram,6,Vendedor_6,2,29,0.0,58.0,pending
+88,2026-03-04 16:54:17,327,2,Zapatillas Running,Calzado,Facebook,9,Vendedor_9,3,149,0.05,424.65,paid
+89,2025-10-22 16:54:17,175,1,Zapatillas Urban,Calzado,Instagram,5,Vendedor_5,4,121,0.15,411.4,paid
+90,2025-11-15 16:54:17,38,9,Gorra Classic,Accesorios,Mercado Libre,2,Vendedor_2,1,35,0.15,29.75,paid
+91,2025-10-24 16:54:17,286,5,Pantalón Chino,Ropa,Facebook,5,Vendedor_5,1,51,0.0,51.0,paid
+92,2025-12-10 16:54:17,220,17,Camisa Oxford,Ropa,Web,8,Vendedor_8,4,58,0.2,185.6,paid
+93,2026-02-20 16:54:17,81,20,Piluso Trend,Accesorios,Instagram,4,Vendedor_4,2,26,0.0,52.0,paid
+94,2026-02-26 16:54:17,353,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,1,72,0.15,61.2,pending
+95,2026-01-17 16:54:17,37,2,Zapatillas Running,Calzado,Instagram,5,Vendedor_5,3,149,0.15,379.95,pending
+96,2025-09-29 16:54:17,116,19,Riñonera Sport,Accesorios,Instagram,4,Vendedor_4,4,17,0.2,54.4,pending
+97,2026-02-27 16:54:17,384,5,Pantalón Chino,Ropa,Web,1,Vendedor_1,2,59,0.2,94.4,pending
+98,2025-11-18 16:54:17,277,4,Remera Oversize,Ropa,Facebook,5,Vendedor_5,4,54,0.2,172.8,pending
+99,2025-10-15 16:54:17,129,3,Remera Básica,Ropa,Mercado Libre,1,Vendedor_1,4,61,0.2,195.2,paid
+100,2025-09-26 16:54:17,296,8,Campera Denim,Ropa,Mercado Libre,10,Vendedor_10,5,22,0.1,99.0,paid
+101,2025-11-05 16:54:17,224,16,Sandalias Beach,Calzado,Facebook,8,Vendedor_8,3,83,0.2,199.2,paid
+102,2025-12-18 16:54:17,440,16,Sandalias Beach,Calzado,Instagram,7,Vendedor_7,3,101,0.0,303.0,pending
+103,2025-09-21 16:54:17,417,14,Cinturón Casual,Accesorios,Mercado Libre,8,Vendedor_8,3,52,0.15,132.6,pending
+104,2025-12-27 16:54:17,443,3,Remera Básica,Ropa,Mercado Libre,5,Vendedor_5,3,34,0.15,86.7,pending
+105,2026-03-04 16:54:17,388,14,Cinturón Casual,Accesorios,Facebook,4,Vendedor_4,5,33,0.2,132.0,pending
+106,2026-01-24 16:54:17,225,2,Zapatillas Running,Calzado,Facebook,5,Vendedor_5,5,76,0.1,342.0,paid
+107,2025-10-07 16:54:17,160,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,2,150,0.05,285.0,pending
+108,2026-01-19 16:54:17,256,3,Remera Básica,Ropa,Web,2,Vendedor_2,4,35,0.05,133.0,pending
+109,2025-11-14 16:54:17,75,14,Cinturón Casual,Accesorios,Facebook,8,Vendedor_8,2,39,0.2,62.4,paid
+110,2025-11-07 16:54:17,175,20,Piluso Trend,Accesorios,Web,3,Vendedor_3,1,27,0.15,22.95,paid
+111,2025-12-31 16:54:17,444,10,Mochila City,Accesorios,Instagram,10,Vendedor_10,5,52,0.15,221.0,pending
+112,2025-11-14 16:54:17,194,18,Camisa Lino,Ropa,Facebook,6,Vendedor_6,3,90,0.2,216.0,pending
+113,2025-09-20 16:54:17,439,7,Campera Rompeviento,Ropa,Facebook,4,Vendedor_4,5,69,0.05,327.75,paid
+114,2025-11-16 16:54:17,494,11,Buzo Hoodie,Ropa,Mercado Libre,7,Vendedor_7,4,39,0.15,132.6,paid
+115,2025-10-17 16:54:17,270,17,Camisa Oxford,Ropa,Facebook,6,Vendedor_6,1,76,0.0,76.0,paid
+116,2025-12-03 16:54:17,174,5,Pantalón Chino,Ropa,Facebook,3,Vendedor_3,1,80,0.1,72.0,paid
+117,2025-09-26 16:54:17,447,11,Buzo Hoodie,Ropa,Mercado Libre,9,Vendedor_9,4,60,0.15,204.0,paid
+118,2025-10-07 16:54:17,51,8,Campera Denim,Ropa,Mercado Libre,5,Vendedor_5,2,31,0.15,52.7,pending
+119,2025-09-21 16:54:17,408,6,Pantalón Cargo,Ropa,Mercado Libre,5,Vendedor_5,1,25,0.1,22.5,pending
+120,2025-12-12 16:54:17,211,12,Short Deportivo,Ropa,Instagram,7,Vendedor_7,2,51,0.2,81.6,paid
+121,2026-02-25 16:54:17,468,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,4,50,0.15,170.0,paid
+122,2025-10-05 16:54:17,461,15,Botas Trekking,Calzado,Facebook,5,Vendedor_5,4,92,0.0,368.0,pending
+123,2026-02-05 16:54:17,154,18,Camisa Lino,Ropa,Facebook,2,Vendedor_2,4,64,0.2,204.8,pending
+124,2025-12-30 16:54:17,55,15,Botas Trekking,Calzado,Instagram,4,Vendedor_4,4,169,0.15,574.6,pending
+125,2025-12-16 16:54:17,12,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,3,54,0.1,145.8,pending
+126,2025-10-24 16:54:17,427,1,Zapatillas Urban,Calzado,Web,1,Vendedor_1,5,155,0.15,658.75,paid
+127,2025-12-17 16:54:17,348,20,Piluso Trend,Accesorios,Instagram,4,Vendedor_4,2,49,0.1,88.2,paid
+128,2025-12-28 16:54:17,375,2,Zapatillas Running,Calzado,Instagram,8,Vendedor_8,1,134,0.1,120.6,paid
+129,2025-12-24 16:54:17,403,10,Mochila City,Accesorios,Web,7,Vendedor_7,2,22,0.05,41.8,pending
+130,2026-01-11 16:54:17,240,6,Pantalón Cargo,Ropa,Mercado Libre,8,Vendedor_8,3,63,0.0,189.0,paid
+131,2025-09-25 16:54:17,405,8,Campera Denim,Ropa,Facebook,7,Vendedor_7,5,66,0.0,330.0,paid
+132,2025-10-31 16:54:17,300,9,Gorra Classic,Accesorios,Facebook,2,Vendedor_2,4,33,0.1,118.8,pending
+133,2025-09-26 16:54:17,453,4,Remera Oversize,Ropa,Web,4,Vendedor_4,4,23,0.2,73.6,paid
+134,2025-10-06 16:54:17,72,3,Remera Básica,Ropa,Mercado Libre,8,Vendedor_8,3,72,0.0,216.0,paid
+135,2025-11-11 16:54:17,70,10,Mochila City,Accesorios,Facebook,2,Vendedor_2,1,25,0.2,20.0,pending
+136,2025-09-27 16:54:17,336,12,Short Deportivo,Ropa,Mercado Libre,9,Vendedor_9,4,39,0.15,132.6,pending
+137,2025-12-03 16:54:17,112,20,Piluso Trend,Accesorios,Facebook,5,Vendedor_5,1,54,0.1,48.6,pending
+138,2025-12-15 16:54:17,32,8,Campera Denim,Ropa,Facebook,2,Vendedor_2,3,89,0.1,240.3,pending
+139,2026-02-14 16:54:17,498,7,Campera Rompeviento,Ropa,Mercado Libre,8,Vendedor_8,1,47,0.2,37.6,paid
+140,2026-01-14 16:54:17,425,11,Buzo Hoodie,Ropa,Instagram,3,Vendedor_3,5,46,0.0,230.0,paid
+141,2025-12-23 16:54:17,440,8,Campera Denim,Ropa,Instagram,3,Vendedor_3,5,20,0.1,90.0,paid
+142,2026-01-12 16:54:17,8,18,Camisa Lino,Ropa,Web,3,Vendedor_3,1,23,0.05,21.85,paid
+143,2025-12-25 16:54:17,65,19,Riñonera Sport,Accesorios,Facebook,1,Vendedor_1,2,26,0.0,52.0,paid
+144,2025-11-16 16:54:17,56,3,Remera Básica,Ropa,Facebook,8,Vendedor_8,3,85,0.2,204.0,paid
+145,2026-03-06 16:54:17,32,20,Piluso Trend,Accesorios,Facebook,9,Vendedor_9,3,39,0.0,117.0,pending
+146,2025-09-23 16:54:17,38,14,Cinturón Casual,Accesorios,Mercado Libre,2,Vendedor_2,4,55,0.15,187.0,pending
+147,2026-02-08 16:54:17,325,20,Piluso Trend,Accesorios,Web,2,Vendedor_2,2,27,0.2,43.2,pending
+148,2025-11-02 16:54:17,221,20,Piluso Trend,Accesorios,Mercado Libre,5,Vendedor_5,4,42,0.2,134.4,paid
+149,2026-01-21 16:54:17,174,18,Camisa Lino,Ropa,Facebook,7,Vendedor_7,4,49,0.15,166.6,pending
+150,2026-02-21 16:54:17,192,14,Cinturón Casual,Accesorios,Instagram,6,Vendedor_6,4,30,0.1,108.0,pending
+151,2026-02-22 16:54:17,382,3,Remera Básica,Ropa,Web,2,Vendedor_2,1,75,0.0,75.0,paid
+152,2026-03-02 16:54:17,211,18,Camisa Lino,Ropa,Web,10,Vendedor_10,5,62,0.0,310.0,pending
+153,2026-01-03 16:54:17,296,2,Zapatillas Running,Calzado,Instagram,10,Vendedor_10,3,105,0.0,315.0,paid
+154,2026-01-19 16:54:17,189,16,Sandalias Beach,Calzado,Mercado Libre,2,Vendedor_2,3,168,0.2,403.2,pending
+155,2026-01-19 16:54:17,315,19,Riñonera Sport,Accesorios,Mercado Libre,7,Vendedor_7,5,59,0.2,236.0,pending
+156,2026-01-30 16:54:17,180,1,Zapatillas Urban,Calzado,Mercado Libre,5,Vendedor_5,3,177,0.1,477.9,paid
+157,2025-10-24 16:54:17,47,5,Pantalón Chino,Ropa,Instagram,7,Vendedor_7,1,38,0.0,38.0,pending
+158,2025-11-21 16:54:17,370,14,Cinturón Casual,Accesorios,Web,6,Vendedor_6,2,33,0.1,59.4,paid
+159,2026-02-06 16:54:17,140,2,Zapatillas Running,Calzado,Facebook,3,Vendedor_3,5,66,0.0,330.0,pending
+160,2025-10-13 16:54:17,387,16,Sandalias Beach,Calzado,Mercado Libre,8,Vendedor_8,4,94,0.05,357.2,pending
+161,2026-02-17 16:54:17,342,14,Cinturón Casual,Accesorios,Web,5,Vendedor_5,5,41,0.2,164.0,paid
+162,2025-12-06 16:54:17,155,8,Campera Denim,Ropa,Instagram,10,Vendedor_10,1,20,0.05,19.0,paid
+163,2026-01-02 16:54:17,383,9,Gorra Classic,Accesorios,Facebook,6,Vendedor_6,1,10,0.15,8.5,paid
+164,2025-12-10 16:54:17,427,5,Pantalón Chino,Ropa,Web,9,Vendedor_9,2,84,0.2,134.4,paid
+165,2026-03-07 16:54:17,442,13,Medias Training,Accesorios,Web,7,Vendedor_7,1,39,0.0,39.0,pending
+166,2025-12-04 16:54:17,11,19,Riñonera Sport,Accesorios,Web,7,Vendedor_7,3,17,0.15,43.35,paid
+167,2025-11-20 16:54:17,125,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,1,37,0.0,37.0,pending
+168,2026-02-25 16:54:17,171,17,Camisa Oxford,Ropa,Instagram,7,Vendedor_7,3,63,0.05,179.55,paid
+169,2025-10-06 16:54:17,464,17,Camisa Oxford,Ropa,Web,2,Vendedor_2,5,85,0.05,403.75,pending
+170,2026-01-16 16:54:17,89,5,Pantalón Chino,Ropa,Instagram,2,Vendedor_2,2,52,0.05,98.8,paid
+171,2025-10-08 16:54:17,330,6,Pantalón Cargo,Ropa,Web,8,Vendedor_8,4,77,0.2,246.4,pending
+172,2025-11-25 16:54:17,408,5,Pantalón Chino,Ropa,Web,2,Vendedor_2,4,76,0.1,273.6,paid
+173,2025-11-08 16:54:17,20,12,Short Deportivo,Ropa,Mercado Libre,2,Vendedor_2,3,79,0.15,201.45,pending
+174,2026-02-26 16:54:17,197,10,Mochila City,Accesorios,Facebook,2,Vendedor_2,5,48,0.2,192.0,paid
+175,2025-10-22 16:54:17,257,15,Botas Trekking,Calzado,Instagram,4,Vendedor_4,3,137,0.15,349.35,paid
+176,2026-02-19 16:54:17,21,15,Botas Trekking,Calzado,Instagram,6,Vendedor_6,1,124,0.05,117.8,pending
+177,2025-11-03 16:54:17,191,15,Botas Trekking,Calzado,Web,9,Vendedor_9,5,80,0.1,360.0,pending
+178,2025-12-21 16:54:17,34,14,Cinturón Casual,Accesorios,Web,10,Vendedor_10,1,60,0.1,54.0,paid
+179,2025-09-25 16:54:17,448,18,Camisa Lino,Ropa,Instagram,7,Vendedor_7,3,52,0.2,124.8,pending
+180,2025-10-19 16:54:17,67,3,Remera Básica,Ropa,Mercado Libre,3,Vendedor_3,3,59,0.15,150.45,pending
+181,2025-12-11 16:54:17,331,18,Camisa Lino,Ropa,Facebook,6,Vendedor_6,2,87,0.0,174.0,pending
+182,2025-12-15 16:54:17,486,1,Zapatillas Urban,Calzado,Facebook,5,Vendedor_5,2,87,0.1,156.6,paid
+183,2026-02-10 16:54:17,260,8,Campera Denim,Ropa,Mercado Libre,3,Vendedor_3,1,57,0.0,57.0,pending
+184,2026-02-12 16:54:17,93,20,Piluso Trend,Accesorios,Instagram,10,Vendedor_10,4,19,0.05,72.2,pending
+185,2025-12-02 16:54:17,146,2,Zapatillas Running,Calzado,Facebook,6,Vendedor_6,2,116,0.2,185.6,paid
+186,2026-01-15 16:54:17,348,18,Camisa Lino,Ropa,Facebook,5,Vendedor_5,4,44,0.1,158.4,pending
+187,2025-12-10 16:54:17,419,10,Mochila City,Accesorios,Instagram,9,Vendedor_9,5,36,0.05,171.0,paid
+188,2026-03-04 16:54:17,365,9,Gorra Classic,Accesorios,Mercado Libre,8,Vendedor_8,3,45,0.0,135.0,pending
+189,2026-02-04 16:54:17,426,3,Remera Básica,Ropa,Facebook,5,Vendedor_5,4,85,0.05,323.0,paid
+190,2025-11-22 16:54:17,203,8,Campera Denim,Ropa,Web,6,Vendedor_6,1,73,0.0,73.0,paid
+191,2026-02-25 16:54:17,477,13,Medias Training,Accesorios,Mercado Libre,6,Vendedor_6,2,11,0.1,19.8,pending
+192,2026-02-10 16:54:17,389,5,Pantalón Chino,Ropa,Facebook,1,Vendedor_1,3,80,0.05,228.0,pending
+193,2026-03-16 16:54:17,428,20,Piluso Trend,Accesorios,Instagram,2,Vendedor_2,1,26,0.05,24.7,pending
+194,2026-01-03 16:54:17,123,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,3,35,0.0,105.0,pending
+195,2026-02-17 16:54:17,324,3,Remera Básica,Ropa,Instagram,8,Vendedor_8,5,88,0.0,440.0,paid
+196,2025-11-28 16:54:17,293,10,Mochila City,Accesorios,Facebook,1,Vendedor_1,5,32,0.05,152.0,paid
+197,2025-11-03 16:54:17,260,3,Remera Básica,Ropa,Mercado Libre,6,Vendedor_6,1,87,0.2,69.6,pending
+198,2026-03-06 16:54:17,183,16,Sandalias Beach,Calzado,Mercado Libre,7,Vendedor_7,3,92,0.0,276.0,pending
+199,2025-09-30 16:54:17,23,8,Campera Denim,Ropa,Web,2,Vendedor_2,5,62,0.05,294.5,pending
+200,2025-09-23 16:54:17,33,6,Pantalón Cargo,Ropa,Facebook,8,Vendedor_8,4,43,0.05,163.4,paid
+201,2026-01-25 16:54:17,478,10,Mochila City,Accesorios,Web,1,Vendedor_1,2,12,0.1,21.6,pending
+202,2025-11-16 16:54:17,183,18,Camisa Lino,Ropa,Mercado Libre,5,Vendedor_5,1,44,0.1,39.6,pending
+203,2026-02-14 16:54:17,459,9,Gorra Classic,Accesorios,Facebook,6,Vendedor_6,4,35,0.15,119.0,pending
+204,2025-11-10 16:54:17,411,6,Pantalón Cargo,Ropa,Mercado Libre,8,Vendedor_8,3,86,0.1,232.2,pending
+205,2025-11-27 16:54:17,165,3,Remera Básica,Ropa,Mercado Libre,10,Vendedor_10,2,89,0.1,160.2,paid
+206,2025-09-29 16:54:17,368,11,Buzo Hoodie,Ropa,Facebook,5,Vendedor_5,3,77,0.2,184.8,paid
+207,2025-12-18 16:54:17,315,15,Botas Trekking,Calzado,Facebook,8,Vendedor_8,1,153,0.1,137.7,pending
+208,2026-02-26 16:54:17,488,2,Zapatillas Running,Calzado,Mercado Libre,7,Vendedor_7,3,125,0.05,356.25,paid
+209,2025-09-25 16:54:17,121,20,Piluso Trend,Accesorios,Web,8,Vendedor_8,1,18,0.0,18.0,pending
+210,2025-10-23 16:54:17,486,13,Medias Training,Accesorios,Web,1,Vendedor_1,5,19,0.15,80.75,pending
+211,2026-02-26 16:54:17,204,15,Botas Trekking,Calzado,Web,10,Vendedor_10,2,127,0.1,228.6,pending
+212,2026-02-16 16:54:17,199,8,Campera Denim,Ropa,Mercado Libre,1,Vendedor_1,2,83,0.2,132.8,pending
+213,2025-09-18 16:54:17,356,9,Gorra Classic,Accesorios,Facebook,8,Vendedor_8,2,49,0.1,88.2,paid
+214,2026-02-11 16:54:17,45,4,Remera Oversize,Ropa,Web,2,Vendedor_2,4,42,0.15,142.8,pending
+215,2025-10-28 16:54:17,365,3,Remera Básica,Ropa,Instagram,9,Vendedor_9,3,58,0.05,165.3,pending
+216,2026-01-19 16:54:17,405,17,Camisa Oxford,Ropa,Facebook,2,Vendedor_2,2,37,0.05,70.3,paid
+217,2025-10-27 16:54:17,67,12,Short Deportivo,Ropa,Mercado Libre,10,Vendedor_10,3,79,0.2,189.6,paid
+218,2025-12-06 16:54:17,422,10,Mochila City,Accesorios,Mercado Libre,8,Vendedor_8,5,36,0.15,153.0,paid
+219,2025-10-04 16:54:17,177,11,Buzo Hoodie,Ropa,Instagram,2,Vendedor_2,4,79,0.2,252.8,paid
+220,2025-11-27 16:54:17,79,5,Pantalón Chino,Ropa,Web,9,Vendedor_9,1,35,0.2,28.0,paid
+221,2025-12-25 16:54:17,434,6,Pantalón Cargo,Ropa,Mercado Libre,4,Vendedor_4,3,86,0.1,232.2,pending
+222,2025-10-06 16:54:17,315,7,Campera Rompeviento,Ropa,Mercado Libre,9,Vendedor_9,3,36,0.1,97.2,paid
+223,2025-10-20 16:54:17,369,19,Riñonera Sport,Accesorios,Web,3,Vendedor_3,2,52,0.2,83.2,paid
+224,2026-02-25 16:54:17,393,1,Zapatillas Urban,Calzado,Facebook,1,Vendedor_1,5,93,0.05,441.75,paid
+225,2025-10-08 16:54:17,248,16,Sandalias Beach,Calzado,Instagram,9,Vendedor_9,3,142,0.1,383.4,pending
+226,2025-11-21 16:54:17,213,10,Mochila City,Accesorios,Facebook,2,Vendedor_2,1,20,0.15,17.0,pending
+227,2025-12-20 16:54:17,376,7,Campera Rompeviento,Ropa,Web,10,Vendedor_10,2,60,0.1,108.0,pending
+228,2025-12-13 16:54:17,124,5,Pantalón Chino,Ropa,Facebook,9,Vendedor_9,5,33,0.1,148.5,paid
+229,2025-11-22 16:54:17,149,9,Gorra Classic,Accesorios,Facebook,4,Vendedor_4,2,16,0.0,32.0,pending
+230,2026-02-05 16:54:17,391,8,Campera Denim,Ropa,Instagram,6,Vendedor_6,5,60,0.05,285.0,pending
+231,2025-11-18 16:54:17,47,17,Camisa Oxford,Ropa,Facebook,8,Vendedor_8,3,83,0.0,249.0,pending
+232,2026-01-21 16:54:17,145,8,Campera Denim,Ropa,Facebook,10,Vendedor_10,3,26,0.0,78.0,pending
+233,2025-10-31 16:54:17,452,10,Mochila City,Accesorios,Web,1,Vendedor_1,1,37,0.05,35.15,pending
+234,2025-12-14 16:54:17,288,13,Medias Training,Accesorios,Instagram,1,Vendedor_1,4,13,0.2,41.6,pending
+235,2026-01-03 16:54:17,392,18,Camisa Lino,Ropa,Web,2,Vendedor_2,4,84,0.15,285.6,paid
+236,2026-02-21 16:54:17,481,5,Pantalón Chino,Ropa,Web,7,Vendedor_7,3,63,0.2,151.2,paid
+237,2025-10-14 16:54:17,24,7,Campera Rompeviento,Ropa,Mercado Libre,9,Vendedor_9,4,84,0.0,336.0,paid
+238,2025-11-16 16:54:17,458,11,Buzo Hoodie,Ropa,Instagram,9,Vendedor_9,4,39,0.2,124.8,pending
+239,2025-12-26 16:54:17,304,20,Piluso Trend,Accesorios,Web,3,Vendedor_3,4,49,0.1,176.4,pending
+240,2025-12-31 16:54:17,345,19,Riñonera Sport,Accesorios,Mercado Libre,8,Vendedor_8,1,33,0.1,29.7,pending
+241,2025-12-29 16:54:17,496,19,Riñonera Sport,Accesorios,Instagram,1,Vendedor_1,5,40,0.1,180.0,paid
+242,2025-11-15 16:54:17,397,19,Riñonera Sport,Accesorios,Facebook,3,Vendedor_3,5,50,0.2,200.0,paid
+243,2026-03-09 16:54:17,226,8,Campera Denim,Ropa,Web,10,Vendedor_10,1,44,0.0,44.0,pending
+244,2025-12-02 16:54:17,472,5,Pantalón Chino,Ropa,Facebook,4,Vendedor_4,4,84,0.2,268.8,paid
+245,2025-11-05 16:54:17,270,5,Pantalón Chino,Ropa,Facebook,4,Vendedor_4,5,61,0.15,259.25,pending
+246,2025-11-20 16:54:17,347,6,Pantalón Cargo,Ropa,Web,9,Vendedor_9,3,89,0.1,240.3,pending
+247,2026-01-13 16:54:17,483,7,Campera Rompeviento,Ropa,Web,5,Vendedor_5,5,58,0.05,275.5,pending
+248,2025-09-22 16:54:17,287,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,3,81,0.1,218.7,pending
+249,2025-10-22 16:54:17,489,4,Remera Oversize,Ropa,Instagram,9,Vendedor_9,4,70,0.1,252.0,pending
+250,2026-01-03 16:54:17,336,2,Zapatillas Running,Calzado,Web,2,Vendedor_2,3,178,0.15,453.9,pending
+251,2026-01-25 16:54:17,56,7,Campera Rompeviento,Ropa,Instagram,9,Vendedor_9,3,54,0.05,153.9,paid
+252,2025-09-27 16:54:17,27,2,Zapatillas Running,Calzado,Mercado Libre,9,Vendedor_9,2,141,0.05,267.9,pending
+253,2025-11-17 16:54:17,476,11,Buzo Hoodie,Ropa,Instagram,2,Vendedor_2,2,20,0.2,32.0,pending
+254,2025-11-15 16:54:17,331,16,Sandalias Beach,Calzado,Mercado Libre,4,Vendedor_4,3,101,0.1,272.7,paid
+255,2026-01-17 16:54:17,452,19,Riñonera Sport,Accesorios,Instagram,9,Vendedor_9,1,21,0.15,17.85,paid
+256,2025-11-11 16:54:17,153,13,Medias Training,Accesorios,Mercado Libre,3,Vendedor_3,3,12,0.0,36.0,pending
+257,2025-11-21 16:54:17,436,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,5,41,0.05,194.75,pending
+258,2026-02-17 16:54:17,368,7,Campera Rompeviento,Ropa,Instagram,6,Vendedor_6,2,78,0.1,140.4,paid
+259,2026-01-01 16:54:17,439,11,Buzo Hoodie,Ropa,Facebook,10,Vendedor_10,2,42,0.2,67.2,pending
+260,2025-12-24 16:54:17,72,17,Camisa Oxford,Ropa,Facebook,2,Vendedor_2,4,32,0.05,121.6,pending
+261,2026-03-16 16:54:17,386,8,Campera Denim,Ropa,Web,5,Vendedor_5,4,50,0.15,170.0,pending
+262,2025-10-19 16:54:17,355,10,Mochila City,Accesorios,Instagram,10,Vendedor_10,1,26,0.1,23.4,paid
+263,2025-11-18 16:54:17,473,4,Remera Oversize,Ropa,Web,5,Vendedor_5,2,71,0.2,113.6,paid
+264,2025-12-13 16:54:17,245,10,Mochila City,Accesorios,Instagram,10,Vendedor_10,2,24,0.05,45.6,pending
+265,2025-12-12 16:54:17,411,20,Piluso Trend,Accesorios,Instagram,7,Vendedor_7,5,40,0.2,160.0,paid
+266,2026-02-25 16:54:17,40,20,Piluso Trend,Accesorios,Mercado Libre,9,Vendedor_9,4,43,0.1,154.8,paid
+267,2025-11-08 16:54:17,85,18,Camisa Lino,Ropa,Web,4,Vendedor_4,5,88,0.05,418.0,pending
+268,2025-09-24 16:54:17,461,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,5,82,0.0,410.0,paid
+269,2026-02-12 16:54:17,30,15,Botas Trekking,Calzado,Facebook,9,Vendedor_9,4,118,0.2,377.6,pending
+270,2025-12-06 16:54:17,297,1,Zapatillas Urban,Calzado,Mercado Libre,5,Vendedor_5,1,155,0.05,147.25,paid
+271,2025-12-19 16:54:17,479,14,Cinturón Casual,Accesorios,Facebook,2,Vendedor_2,5,13,0.0,65.0,paid
+272,2025-12-03 16:54:17,192,10,Mochila City,Accesorios,Facebook,3,Vendedor_3,2,59,0.15,100.3,pending
+273,2025-12-11 16:54:17,61,13,Medias Training,Accesorios,Instagram,2,Vendedor_2,5,18,0.1,81.0,pending
+274,2026-02-13 16:54:17,238,17,Camisa Oxford,Ropa,Facebook,4,Vendedor_4,1,22,0.1,19.8,pending
+275,2026-01-13 16:54:17,97,8,Campera Denim,Ropa,Mercado Libre,8,Vendedor_8,3,39,0.1,105.3,paid
+276,2025-10-11 16:54:17,52,14,Cinturón Casual,Accesorios,Mercado Libre,1,Vendedor_1,2,23,0.0,46.0,pending
+277,2025-09-26 16:54:17,206,20,Piluso Trend,Accesorios,Facebook,1,Vendedor_1,2,57,0.0,114.0,paid
+278,2026-01-21 16:54:17,120,18,Camisa Lino,Ropa,Web,1,Vendedor_1,2,84,0.1,151.2,pending
+279,2025-12-30 16:54:17,154,8,Campera Denim,Ropa,Web,3,Vendedor_3,5,48,0.15,204.0,paid
+280,2025-10-17 16:54:17,498,18,Camisa Lino,Ropa,Web,3,Vendedor_3,4,83,0.0,332.0,pending
+281,2025-12-26 16:54:17,193,17,Camisa Oxford,Ropa,Instagram,7,Vendedor_7,4,39,0.1,140.4,pending
+282,2026-01-19 16:54:17,288,8,Campera Denim,Ropa,Facebook,5,Vendedor_5,2,79,0.0,158.0,pending
+283,2025-11-02 16:54:17,105,18,Camisa Lino,Ropa,Web,3,Vendedor_3,4,51,0.1,183.6,paid
+284,2025-12-13 16:54:17,27,15,Botas Trekking,Calzado,Web,2,Vendedor_2,5,152,0.05,722.0,pending
+285,2025-10-14 16:54:17,371,20,Piluso Trend,Accesorios,Instagram,1,Vendedor_1,1,22,0.2,17.6,pending
+286,2025-12-22 16:54:17,493,7,Campera Rompeviento,Ropa,Mercado Libre,5,Vendedor_5,1,47,0.05,44.65,pending
+287,2025-09-20 16:54:17,283,8,Campera Denim,Ropa,Web,10,Vendedor_10,2,70,0.05,133.0,pending
+288,2025-11-18 16:54:17,185,13,Medias Training,Accesorios,Facebook,9,Vendedor_9,3,29,0.1,78.3,pending
+289,2025-11-17 16:54:17,212,4,Remera Oversize,Ropa,Mercado Libre,6,Vendedor_6,2,67,0.1,120.6,paid
+290,2026-03-13 16:54:17,79,5,Pantalón Chino,Ropa,Instagram,5,Vendedor_5,5,73,0.1,328.5,pending
+291,2025-12-10 16:54:17,336,8,Campera Denim,Ropa,Web,10,Vendedor_10,2,83,0.2,132.8,pending
+292,2025-10-04 16:54:17,87,16,Sandalias Beach,Calzado,Instagram,8,Vendedor_8,4,81,0.1,291.6,pending
+293,2025-10-30 16:54:17,484,6,Pantalón Cargo,Ropa,Mercado Libre,1,Vendedor_1,5,24,0.0,120.0,paid
+294,2026-02-10 16:54:17,5,14,Cinturón Casual,Accesorios,Instagram,4,Vendedor_4,1,55,0.05,52.25,pending
+295,2026-03-02 16:54:17,9,12,Short Deportivo,Ropa,Mercado Libre,10,Vendedor_10,5,81,0.15,344.25,pending
+296,2026-03-13 16:54:17,9,1,Zapatillas Urban,Calzado,Facebook,9,Vendedor_9,3,128,0.1,345.6,paid
+297,2026-02-21 16:54:17,318,4,Remera Oversize,Ropa,Web,9,Vendedor_9,2,50,0.05,95.0,pending
+298,2025-12-06 16:54:17,290,9,Gorra Classic,Accesorios,Instagram,2,Vendedor_2,3,35,0.15,89.25,paid
+299,2025-09-23 16:54:17,195,10,Mochila City,Accesorios,Facebook,2,Vendedor_2,1,15,0.15,12.75,pending
+300,2025-10-05 16:54:17,433,2,Zapatillas Running,Calzado,Facebook,1,Vendedor_1,2,70,0.15,119.0,pending
+301,2026-02-21 16:54:17,462,19,Riñonera Sport,Accesorios,Facebook,9,Vendedor_9,1,24,0.05,22.8,pending
+302,2026-02-26 16:54:17,92,2,Zapatillas Running,Calzado,Web,5,Vendedor_5,5,132,0.0,660.0,paid
+303,2025-10-18 16:54:17,84,7,Campera Rompeviento,Ropa,Instagram,3,Vendedor_3,4,29,0.1,104.4,pending
+304,2025-12-23 16:54:17,382,18,Camisa Lino,Ropa,Web,7,Vendedor_7,2,30,0.2,48.0,paid
+305,2025-11-26 16:54:17,394,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,1,63,0.2,50.4,pending
+306,2025-10-06 16:54:17,183,1,Zapatillas Urban,Calzado,Facebook,5,Vendedor_5,4,122,0.05,463.6,pending
+307,2025-09-24 16:54:17,152,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,4,30,0.2,96.0,paid
+308,2026-01-08 16:54:17,163,3,Remera Básica,Ropa,Web,3,Vendedor_3,4,39,0.15,132.6,paid
+309,2026-03-16 16:54:17,53,3,Remera Básica,Ropa,Instagram,5,Vendedor_5,4,66,0.1,237.6,paid
+310,2025-11-27 16:54:17,53,6,Pantalón Cargo,Ropa,Mercado Libre,8,Vendedor_8,5,85,0.15,361.25,paid
+311,2025-10-27 16:54:17,7,12,Short Deportivo,Ropa,Web,2,Vendedor_2,5,61,0.15,259.25,pending
+312,2026-02-24 16:54:17,87,13,Medias Training,Accesorios,Facebook,9,Vendedor_9,2,46,0.2,73.6,paid
+313,2026-01-08 16:54:17,33,5,Pantalón Chino,Ropa,Instagram,5,Vendedor_5,3,83,0.05,236.55,pending
+314,2025-11-30 16:54:17,185,9,Gorra Classic,Accesorios,Web,5,Vendedor_5,4,60,0.0,240.0,paid
+315,2025-10-16 16:54:17,70,16,Sandalias Beach,Calzado,Web,10,Vendedor_10,2,118,0.0,236.0,paid
+316,2025-12-22 16:54:17,172,13,Medias Training,Accesorios,Facebook,10,Vendedor_10,4,31,0.15,105.4,paid
+317,2025-12-25 16:54:17,91,10,Mochila City,Accesorios,Facebook,10,Vendedor_10,2,40,0.1,72.0,pending
+318,2025-09-21 16:54:17,167,10,Mochila City,Accesorios,Facebook,8,Vendedor_8,5,60,0.05,285.0,pending
+319,2025-12-14 16:54:17,280,13,Medias Training,Accesorios,Instagram,2,Vendedor_2,5,22,0.2,88.0,paid
+320,2026-01-23 16:54:17,420,15,Botas Trekking,Calzado,Facebook,8,Vendedor_8,3,166,0.0,498.0,pending
+321,2025-10-06 16:54:17,367,5,Pantalón Chino,Ropa,Facebook,5,Vendedor_5,2,52,0.05,98.8,pending
+322,2025-11-23 16:54:17,260,3,Remera Básica,Ropa,Facebook,10,Vendedor_10,4,71,0.2,227.2,paid
+323,2025-09-19 16:54:17,394,12,Short Deportivo,Ropa,Instagram,9,Vendedor_9,5,30,0.0,150.0,pending
+324,2025-10-03 16:54:17,495,6,Pantalón Cargo,Ropa,Facebook,10,Vendedor_10,1,71,0.1,63.9,paid
+325,2026-02-20 16:54:17,286,1,Zapatillas Urban,Calzado,Instagram,5,Vendedor_5,2,125,0.2,200.0,pending
+326,2025-12-07 16:54:17,177,12,Short Deportivo,Ropa,Mercado Libre,8,Vendedor_8,5,84,0.05,399.0,pending
+327,2026-01-01 16:54:17,179,4,Remera Oversize,Ropa,Web,7,Vendedor_7,1,34,0.05,32.3,pending
+328,2026-01-24 16:54:17,50,15,Botas Trekking,Calzado,Facebook,9,Vendedor_9,4,104,0.15,353.6,pending
+329,2026-02-28 16:54:17,435,11,Buzo Hoodie,Ropa,Web,5,Vendedor_5,1,34,0.0,34.0,paid
+330,2026-01-14 16:54:17,170,6,Pantalón Cargo,Ropa,Facebook,9,Vendedor_9,2,90,0.05,171.0,pending
+331,2025-12-04 16:54:17,15,8,Campera Denim,Ropa,Instagram,3,Vendedor_3,2,75,0.15,127.5,pending
+332,2025-11-28 16:54:17,106,19,Riñonera Sport,Accesorios,Web,7,Vendedor_7,1,55,0.05,52.25,paid
+333,2026-02-19 16:54:17,101,19,Riñonera Sport,Accesorios,Facebook,9,Vendedor_9,2,33,0.1,59.4,paid
+334,2025-09-27 16:54:17,306,9,Gorra Classic,Accesorios,Facebook,8,Vendedor_8,5,50,0.1,225.0,pending
+335,2026-02-16 16:54:17,89,19,Riñonera Sport,Accesorios,Web,6,Vendedor_6,3,39,0.2,93.6,paid
+336,2025-12-27 16:54:17,94,5,Pantalón Chino,Ropa,Web,2,Vendedor_2,2,59,0.0,118.0,paid
+337,2025-12-08 16:54:17,197,17,Camisa Oxford,Ropa,Facebook,7,Vendedor_7,5,37,0.2,148.0,paid
+338,2025-10-06 16:54:17,251,16,Sandalias Beach,Calzado,Web,9,Vendedor_9,2,131,0.05,248.9,paid
+339,2025-12-27 16:54:17,488,6,Pantalón Cargo,Ropa,Mercado Libre,8,Vendedor_8,5,26,0.1,117.0,pending
+340,2026-01-27 16:54:17,210,5,Pantalón Chino,Ropa,Facebook,7,Vendedor_7,5,84,0.15,357.0,pending
+341,2025-11-12 16:54:17,408,15,Botas Trekking,Calzado,Instagram,3,Vendedor_3,1,132,0.0,132.0,pending
+342,2026-01-06 16:54:17,400,2,Zapatillas Running,Calzado,Facebook,4,Vendedor_4,5,96,0.05,456.0,pending
+343,2025-11-07 16:54:17,397,18,Camisa Lino,Ropa,Web,2,Vendedor_2,5,34,0.1,153.0,paid
+344,2025-10-29 16:54:17,153,15,Botas Trekking,Calzado,Mercado Libre,4,Vendedor_4,4,73,0.05,277.4,pending
+345,2025-12-18 16:54:17,108,9,Gorra Classic,Accesorios,Web,2,Vendedor_2,4,17,0.05,64.6,pending
+346,2025-10-11 16:54:17,292,6,Pantalón Cargo,Ropa,Web,3,Vendedor_3,2,46,0.0,92.0,pending
+347,2025-10-31 16:54:17,149,20,Piluso Trend,Accesorios,Web,3,Vendedor_3,3,55,0.1,148.5,paid
+348,2025-12-02 16:54:17,128,5,Pantalón Chino,Ropa,Instagram,1,Vendedor_1,3,36,0.05,102.6,pending
+349,2025-09-25 16:54:17,324,8,Campera Denim,Ropa,Web,7,Vendedor_7,4,38,0.2,121.6,pending
+350,2025-11-22 16:54:17,384,13,Medias Training,Accesorios,Web,2,Vendedor_2,1,35,0.2,28.0,pending
+351,2025-11-13 16:54:17,375,15,Botas Trekking,Calzado,Facebook,6,Vendedor_6,5,60,0.0,300.0,pending
+352,2025-11-01 16:54:17,254,3,Remera Básica,Ropa,Web,7,Vendedor_7,2,74,0.05,140.6,pending
+353,2025-12-21 16:54:17,437,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,5,18,0.2,72.0,pending
+354,2026-03-06 16:54:17,476,2,Zapatillas Running,Calzado,Instagram,2,Vendedor_2,4,62,0.0,248.0,pending
+355,2026-03-17 16:54:17,452,15,Botas Trekking,Calzado,Web,7,Vendedor_7,2,148,0.05,281.2,paid
+356,2026-02-22 16:54:17,341,9,Gorra Classic,Accesorios,Instagram,6,Vendedor_6,3,15,0.1,40.5,paid
+357,2025-10-08 16:54:17,361,13,Medias Training,Accesorios,Mercado Libre,5,Vendedor_5,2,37,0.0,74.0,paid
+358,2025-11-15 16:54:17,349,7,Campera Rompeviento,Ropa,Facebook,2,Vendedor_2,2,48,0.2,76.8,paid
+359,2025-09-20 16:54:17,356,1,Zapatillas Urban,Calzado,Instagram,6,Vendedor_6,1,170,0.15,144.5,pending
+360,2026-01-18 16:54:17,161,3,Remera Básica,Ropa,Web,7,Vendedor_7,1,33,0.0,33.0,pending
+361,2025-12-10 16:54:17,289,5,Pantalón Chino,Ropa,Mercado Libre,3,Vendedor_3,2,28,0.2,44.8,paid
+362,2025-12-18 16:54:17,316,15,Botas Trekking,Calzado,Facebook,4,Vendedor_4,2,177,0.15,300.9,paid
+363,2026-02-20 16:54:17,494,3,Remera Básica,Ropa,Facebook,3,Vendedor_3,1,69,0.1,62.1,pending
+364,2026-01-13 16:54:17,308,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,1,51,0.2,40.8,paid
+365,2026-01-24 16:54:17,383,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,5,42,0.05,199.5,pending
+366,2026-01-15 16:54:17,256,2,Zapatillas Running,Calzado,Mercado Libre,8,Vendedor_8,4,74,0.05,281.2,paid
+367,2025-12-26 16:54:17,280,12,Short Deportivo,Ropa,Instagram,3,Vendedor_3,4,73,0.1,262.8,pending
+368,2026-03-13 16:54:17,111,3,Remera Básica,Ropa,Mercado Libre,10,Vendedor_10,1,21,0.1,18.9,paid
+369,2025-11-08 16:54:17,217,13,Medias Training,Accesorios,Facebook,5,Vendedor_5,5,59,0.15,250.75,paid
+370,2025-10-31 16:54:17,159,18,Camisa Lino,Ropa,Mercado Libre,10,Vendedor_10,2,55,0.0,110.0,paid
+371,2025-10-31 16:54:17,358,5,Pantalón Chino,Ropa,Facebook,6,Vendedor_6,4,28,0.1,100.8,paid
+372,2026-01-14 16:54:17,314,2,Zapatillas Running,Calzado,Mercado Libre,2,Vendedor_2,4,74,0.15,251.6,pending
+373,2026-02-15 16:54:17,255,6,Pantalón Cargo,Ropa,Web,1,Vendedor_1,2,21,0.05,39.9,pending
+374,2025-12-12 16:54:17,172,6,Pantalón Cargo,Ropa,Facebook,3,Vendedor_3,3,35,0.0,105.0,pending
+375,2026-03-01 16:54:17,234,17,Camisa Oxford,Ropa,Web,5,Vendedor_5,5,29,0.15,123.25,paid
+376,2025-10-23 16:54:17,396,16,Sandalias Beach,Calzado,Mercado Libre,3,Vendedor_3,3,80,0.1,216.0,paid
+377,2025-11-07 16:54:17,24,8,Campera Denim,Ropa,Facebook,1,Vendedor_1,1,21,0.05,19.95,pending
+378,2026-02-07 16:54:17,115,13,Medias Training,Accesorios,Web,3,Vendedor_3,1,45,0.15,38.25,paid
+379,2025-12-26 16:54:17,62,14,Cinturón Casual,Accesorios,Mercado Libre,5,Vendedor_5,1,46,0.1,41.4,paid
+380,2025-11-05 16:54:17,444,8,Campera Denim,Ropa,Web,1,Vendedor_1,4,28,0.15,95.2,pending
+381,2026-02-23 16:54:17,103,11,Buzo Hoodie,Ropa,Web,9,Vendedor_9,4,21,0.1,75.6,pending
+382,2026-01-14 16:54:17,396,20,Piluso Trend,Accesorios,Instagram,8,Vendedor_8,3,47,0.15,119.85,paid
+383,2026-03-16 16:54:17,178,5,Pantalón Chino,Ropa,Mercado Libre,7,Vendedor_7,1,49,0.2,39.2,pending
+384,2025-09-30 16:54:17,272,1,Zapatillas Urban,Calzado,Instagram,7,Vendedor_7,3,73,0.05,208.05,pending
+385,2026-03-02 16:54:17,472,16,Sandalias Beach,Calzado,Instagram,3,Vendedor_3,3,71,0.0,213.0,pending
+386,2025-11-20 16:54:17,69,12,Short Deportivo,Ropa,Facebook,2,Vendedor_2,5,32,0.2,128.0,paid
+387,2025-10-23 16:54:17,122,19,Riñonera Sport,Accesorios,Web,1,Vendedor_1,4,52,0.05,197.6,pending
+388,2025-12-07 16:54:17,120,11,Buzo Hoodie,Ropa,Mercado Libre,6,Vendedor_6,3,77,0.1,207.9,paid
+389,2025-10-19 16:54:17,231,5,Pantalón Chino,Ropa,Facebook,2,Vendedor_2,2,33,0.05,62.7,pending
+390,2026-02-15 16:54:17,232,14,Cinturón Casual,Accesorios,Web,9,Vendedor_9,3,59,0.05,168.15,pending
+391,2026-02-15 16:54:17,424,9,Gorra Classic,Accesorios,Mercado Libre,2,Vendedor_2,2,53,0.1,95.4,paid
+392,2026-02-08 16:54:17,263,11,Buzo Hoodie,Ropa,Mercado Libre,2,Vendedor_2,2,65,0.15,110.5,pending
+393,2026-02-01 16:54:17,384,9,Gorra Classic,Accesorios,Instagram,1,Vendedor_1,4,38,0.2,121.6,paid
+394,2026-02-19 16:54:17,426,15,Botas Trekking,Calzado,Instagram,3,Vendedor_3,1,61,0.0,61.0,paid
+395,2025-12-05 16:54:17,12,7,Campera Rompeviento,Ropa,Mercado Libre,6,Vendedor_6,1,53,0.0,53.0,paid
+396,2026-02-13 16:54:17,483,15,Botas Trekking,Calzado,Facebook,2,Vendedor_2,3,75,0.0,225.0,paid
+397,2025-10-22 16:54:17,196,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,4,83,0.0,332.0,paid
+398,2026-01-22 16:54:17,453,12,Short Deportivo,Ropa,Instagram,3,Vendedor_3,3,55,0.15,140.25,paid
+399,2025-10-10 16:54:17,256,20,Piluso Trend,Accesorios,Facebook,10,Vendedor_10,2,51,0.1,91.8,pending
+400,2026-02-23 16:54:17,103,2,Zapatillas Running,Calzado,Instagram,5,Vendedor_5,4,77,0.15,261.8,paid
+401,2025-12-16 16:54:17,177,13,Medias Training,Accesorios,Web,8,Vendedor_8,5,60,0.15,255.0,pending
+402,2026-01-30 16:54:17,16,9,Gorra Classic,Accesorios,Web,1,Vendedor_1,3,48,0.05,136.8,paid
+403,2025-11-02 16:54:17,52,16,Sandalias Beach,Calzado,Instagram,6,Vendedor_6,5,89,0.05,422.75,paid
+404,2025-11-01 16:54:17,182,9,Gorra Classic,Accesorios,Instagram,1,Vendedor_1,2,46,0.15,78.2,paid
+405,2025-10-17 16:54:17,486,8,Campera Denim,Ropa,Instagram,6,Vendedor_6,3,23,0.1,62.1,paid
+406,2025-10-30 16:54:17,47,16,Sandalias Beach,Calzado,Mercado Libre,5,Vendedor_5,2,122,0.0,244.0,paid
+407,2026-01-20 16:54:17,170,20,Piluso Trend,Accesorios,Instagram,1,Vendedor_1,5,40,0.0,200.0,paid
+408,2026-01-31 16:54:17,301,11,Buzo Hoodie,Ropa,Instagram,6,Vendedor_6,1,22,0.05,20.9,paid
+409,2025-12-14 16:54:17,52,17,Camisa Oxford,Ropa,Web,2,Vendedor_2,3,70,0.2,168.0,pending
+410,2026-02-11 16:54:17,90,11,Buzo Hoodie,Ropa,Web,3,Vendedor_3,4,82,0.1,295.2,paid
+411,2026-02-01 16:54:17,66,19,Riñonera Sport,Accesorios,Instagram,7,Vendedor_7,3,56,0.1,151.2,paid
+412,2025-12-07 16:54:17,163,19,Riñonera Sport,Accesorios,Instagram,10,Vendedor_10,1,21,0.2,16.8,paid
+413,2026-02-09 16:54:17,164,16,Sandalias Beach,Calzado,Instagram,6,Vendedor_6,1,90,0.1,81.0,paid
+414,2025-11-23 16:54:17,355,11,Buzo Hoodie,Ropa,Mercado Libre,1,Vendedor_1,3,46,0.05,131.1,pending
+415,2026-02-18 16:54:17,376,9,Gorra Classic,Accesorios,Facebook,1,Vendedor_1,1,34,0.15,28.9,paid
+416,2025-11-11 16:54:17,52,14,Cinturón Casual,Accesorios,Facebook,7,Vendedor_7,3,44,0.15,112.2,paid
+417,2025-11-22 16:54:17,164,6,Pantalón Cargo,Ropa,Web,2,Vendedor_2,1,57,0.0,57.0,paid
+418,2025-12-20 16:54:17,281,3,Remera Básica,Ropa,Mercado Libre,3,Vendedor_3,4,40,0.0,160.0,pending
+419,2025-10-11 16:54:17,311,20,Piluso Trend,Accesorios,Facebook,8,Vendedor_8,1,37,0.05,35.15,paid
+420,2026-02-20 16:54:17,357,2,Zapatillas Running,Calzado,Web,6,Vendedor_6,2,84,0.15,142.8,pending
+421,2026-01-16 16:54:17,282,10,Mochila City,Accesorios,Facebook,2,Vendedor_2,1,35,0.2,28.0,paid
+422,2025-12-15 16:54:17,422,2,Zapatillas Running,Calzado,Facebook,1,Vendedor_1,4,71,0.1,255.6,paid
+423,2026-03-11 16:54:17,243,4,Remera Oversize,Ropa,Mercado Libre,4,Vendedor_4,2,57,0.0,114.0,pending
+424,2025-11-17 16:54:17,199,13,Medias Training,Accesorios,Instagram,8,Vendedor_8,3,15,0.2,36.0,pending
+425,2025-12-13 16:54:17,226,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,4,12,0.1,43.2,pending
+426,2026-01-08 16:54:17,44,8,Campera Denim,Ropa,Web,10,Vendedor_10,1,39,0.0,39.0,pending
+427,2026-01-18 16:54:17,215,19,Riñonera Sport,Accesorios,Facebook,9,Vendedor_9,1,34,0.2,27.2,paid
+428,2025-12-31 16:54:17,258,16,Sandalias Beach,Calzado,Instagram,2,Vendedor_2,4,175,0.0,700.0,paid
+429,2026-02-01 16:54:17,65,15,Botas Trekking,Calzado,Mercado Libre,3,Vendedor_3,2,163,0.05,309.7,pending
+430,2025-09-24 16:54:17,133,3,Remera Básica,Ropa,Web,7,Vendedor_7,2,38,0.2,60.8,paid
+431,2025-12-08 16:54:17,439,3,Remera Básica,Ropa,Web,9,Vendedor_9,4,90,0.1,324.0,pending
+432,2025-09-19 16:54:17,58,1,Zapatillas Urban,Calzado,Facebook,10,Vendedor_10,5,126,0.15,535.5,paid
+433,2025-10-23 16:54:17,289,5,Pantalón Chino,Ropa,Mercado Libre,10,Vendedor_10,5,32,0.0,160.0,pending
+434,2025-12-19 16:54:17,293,18,Camisa Lino,Ropa,Facebook,7,Vendedor_7,3,69,0.15,175.95,paid
+435,2026-01-06 16:54:17,203,6,Pantalón Cargo,Ropa,Web,7,Vendedor_7,2,71,0.0,142.0,paid
+436,2025-11-16 16:54:17,419,2,Zapatillas Running,Calzado,Web,5,Vendedor_5,3,62,0.1,167.4,pending
+437,2025-11-12 16:54:17,499,9,Gorra Classic,Accesorios,Facebook,2,Vendedor_2,2,18,0.1,32.4,pending
+438,2025-12-01 16:54:17,109,9,Gorra Classic,Accesorios,Facebook,10,Vendedor_10,1,22,0.15,18.7,pending
+439,2025-12-12 16:54:17,160,17,Camisa Oxford,Ropa,Facebook,1,Vendedor_1,5,40,0.0,200.0,paid
+440,2025-10-23 16:54:17,429,17,Camisa Oxford,Ropa,Mercado Libre,1,Vendedor_1,2,44,0.05,83.6,paid
+441,2025-11-21 16:54:17,141,2,Zapatillas Running,Calzado,Web,1,Vendedor_1,3,150,0.05,427.5,pending
+442,2025-12-06 16:54:17,251,17,Camisa Oxford,Ropa,Facebook,2,Vendedor_2,1,50,0.1,45.0,paid
+443,2025-10-18 16:54:17,429,16,Sandalias Beach,Calzado,Web,9,Vendedor_9,3,104,0.05,296.4,paid
+444,2026-03-10 16:54:17,400,10,Mochila City,Accesorios,Instagram,7,Vendedor_7,1,20,0.2,16.0,paid
+445,2025-09-25 16:54:17,11,8,Campera Denim,Ropa,Mercado Libre,4,Vendedor_4,3,72,0.2,172.8,pending
+446,2025-10-03 16:54:17,130,5,Pantalón Chino,Ropa,Web,3,Vendedor_3,5,21,0.05,99.75,pending
+447,2025-12-11 16:54:17,239,14,Cinturón Casual,Accesorios,Web,6,Vendedor_6,4,26,0.05,98.8,pending
+448,2026-02-19 16:54:17,288,19,Riñonera Sport,Accesorios,Web,1,Vendedor_1,5,52,0.1,234.0,pending
+449,2025-11-14 16:54:17,442,4,Remera Oversize,Ropa,Web,2,Vendedor_2,3,55,0.1,148.5,pending
+450,2026-01-28 16:54:17,461,10,Mochila City,Accesorios,Mercado Libre,3,Vendedor_3,5,58,0.05,275.5,pending
+451,2025-09-24 16:54:17,133,11,Buzo Hoodie,Ropa,Facebook,3,Vendedor_3,1,83,0.1,74.7,pending
+452,2026-03-08 16:54:17,372,13,Medias Training,Accesorios,Instagram,10,Vendedor_10,5,22,0.1,99.0,pending
+453,2025-11-08 16:54:17,50,12,Short Deportivo,Ropa,Facebook,5,Vendedor_5,2,43,0.1,77.4,paid
+454,2025-10-25 16:54:17,114,9,Gorra Classic,Accesorios,Web,3,Vendedor_3,3,51,0.0,153.0,paid
+455,2025-11-30 16:54:17,151,10,Mochila City,Accesorios,Facebook,6,Vendedor_6,3,26,0.2,62.4,paid
+456,2026-03-04 16:54:17,37,16,Sandalias Beach,Calzado,Facebook,10,Vendedor_10,5,180,0.2,720.0,paid
+457,2026-02-15 16:54:17,28,17,Camisa Oxford,Ropa,Instagram,7,Vendedor_7,5,58,0.15,246.5,paid
+458,2025-12-20 16:54:17,162,7,Campera Rompeviento,Ropa,Instagram,7,Vendedor_7,5,78,0.05,370.5,paid
+459,2025-12-22 16:54:17,3,16,Sandalias Beach,Calzado,Facebook,3,Vendedor_3,3,141,0.0,423.0,pending
+460,2026-02-02 16:54:17,67,7,Campera Rompeviento,Ropa,Facebook,10,Vendedor_10,2,82,0.0,164.0,pending
+461,2025-11-28 16:54:17,274,13,Medias Training,Accesorios,Instagram,8,Vendedor_8,4,10,0.0,40.0,pending
+462,2025-12-25 16:54:17,321,1,Zapatillas Urban,Calzado,Instagram,9,Vendedor_9,2,62,0.0,124.0,paid
+463,2025-12-28 16:54:17,302,12,Short Deportivo,Ropa,Web,3,Vendedor_3,1,69,0.2,55.2,paid
+464,2026-03-06 16:54:17,306,3,Remera Básica,Ropa,Web,5,Vendedor_5,3,78,0.2,187.2,pending
+465,2025-12-20 16:54:17,486,5,Pantalón Chino,Ropa,Facebook,8,Vendedor_8,3,44,0.05,125.4,paid
+466,2026-01-19 16:54:17,259,8,Campera Denim,Ropa,Instagram,3,Vendedor_3,2,22,0.2,35.2,paid
+467,2025-10-02 16:54:17,320,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,4,52,0.2,166.4,paid
+468,2025-10-01 16:54:17,228,4,Remera Oversize,Ropa,Facebook,1,Vendedor_1,1,34,0.15,28.9,paid
+469,2026-01-12 16:54:17,155,18,Camisa Lino,Ropa,Facebook,8,Vendedor_8,2,46,0.0,92.0,paid
+470,2026-01-07 16:54:17,426,17,Camisa Oxford,Ropa,Mercado Libre,10,Vendedor_10,5,37,0.15,157.25,paid
+471,2026-02-16 16:54:17,103,10,Mochila City,Accesorios,Web,2,Vendedor_2,4,22,0.2,70.4,paid
+472,2025-09-18 16:54:17,281,12,Short Deportivo,Ropa,Facebook,7,Vendedor_7,3,40,0.0,120.0,paid
+473,2025-12-23 16:54:17,465,16,Sandalias Beach,Calzado,Mercado Libre,4,Vendedor_4,1,61,0.0,61.0,pending
+474,2026-02-22 16:54:17,330,5,Pantalón Chino,Ropa,Instagram,9,Vendedor_9,1,32,0.1,28.8,pending
+475,2026-01-09 16:54:17,448,10,Mochila City,Accesorios,Mercado Libre,8,Vendedor_8,1,16,0.05,15.2,pending
+476,2025-09-25 16:54:17,436,12,Short Deportivo,Ropa,Mercado Libre,6,Vendedor_6,4,34,0.0,136.0,paid
+477,2025-09-29 16:54:17,490,5,Pantalón Chino,Ropa,Web,3,Vendedor_3,3,65,0.15,165.75,paid
+478,2025-12-20 16:54:17,493,12,Short Deportivo,Ropa,Facebook,3,Vendedor_3,1,71,0.15,60.35,pending
+479,2025-09-22 16:54:17,58,13,Medias Training,Accesorios,Instagram,8,Vendedor_8,4,51,0.05,193.8,paid
+480,2026-02-19 16:54:17,348,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,5,81,0.2,324.0,paid
+481,2025-12-10 16:54:17,248,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,5,11,0.05,52.25,paid
+482,2025-11-25 16:54:17,7,14,Cinturón Casual,Accesorios,Instagram,1,Vendedor_1,1,26,0.1,23.4,pending
+483,2025-11-04 16:54:17,247,17,Camisa Oxford,Ropa,Web,10,Vendedor_10,1,75,0.05,71.25,pending
+484,2025-10-26 16:54:17,259,5,Pantalón Chino,Ropa,Facebook,10,Vendedor_10,1,21,0.05,19.95,pending
+485,2026-02-26 16:54:17,497,6,Pantalón Cargo,Ropa,Web,8,Vendedor_8,3,50,0.1,135.0,paid
+486,2026-01-19 16:54:17,41,17,Camisa Oxford,Ropa,Facebook,9,Vendedor_9,4,71,0.05,269.8,pending
+487,2025-11-23 16:54:17,61,19,Riñonera Sport,Accesorios,Facebook,2,Vendedor_2,4,38,0.1,136.8,paid
+488,2025-12-04 16:54:17,423,4,Remera Oversize,Ropa,Mercado Libre,7,Vendedor_7,1,90,0.0,90.0,pending
+489,2025-10-25 16:54:17,423,17,Camisa Oxford,Ropa,Mercado Libre,4,Vendedor_4,4,63,0.1,226.8,paid
+490,2025-12-23 16:54:17,367,15,Botas Trekking,Calzado,Web,9,Vendedor_9,5,136,0.15,578.0,pending
+491,2026-02-21 16:54:17,425,4,Remera Oversize,Ropa,Web,4,Vendedor_4,1,63,0.1,56.7,pending
+492,2026-03-06 16:54:17,55,4,Remera Oversize,Ropa,Web,3,Vendedor_3,4,37,0.15,125.8,paid
+493,2026-02-15 16:54:17,367,7,Campera Rompeviento,Ropa,Web,7,Vendedor_7,2,78,0.05,148.2,paid
+494,2026-03-06 16:54:17,235,14,Cinturón Casual,Accesorios,Instagram,10,Vendedor_10,1,59,0.15,50.15,pending
+495,2025-11-02 16:54:17,430,1,Zapatillas Urban,Calzado,Facebook,1,Vendedor_1,5,179,0.15,760.75,paid
+496,2026-02-01 16:54:17,311,19,Riñonera Sport,Accesorios,Web,3,Vendedor_3,1,34,0.2,27.2,pending
+497,2025-10-13 16:54:17,497,14,Cinturón Casual,Accesorios,Web,4,Vendedor_4,3,35,0.1,94.5,pending
+498,2026-02-10 16:54:17,432,5,Pantalón Chino,Ropa,Web,7,Vendedor_7,5,85,0.1,382.5,paid
+499,2026-01-23 16:54:17,364,7,Campera Rompeviento,Ropa,Instagram,10,Vendedor_10,3,64,0.05,182.4,pending
+500,2025-12-17 16:54:17,147,4,Remera Oversize,Ropa,Facebook,9,Vendedor_9,4,73,0.2,233.6,paid
+501,2026-02-18 16:54:17,344,17,Camisa Oxford,Ropa,Mercado Libre,1,Vendedor_1,4,38,0.0,152.0,paid
+502,2026-02-04 16:54:17,354,9,Gorra Classic,Accesorios,Web,5,Vendedor_5,3,19,0.0,57.0,paid
+503,2026-03-09 16:54:17,445,18,Camisa Lino,Ropa,Instagram,6,Vendedor_6,4,33,0.2,105.6,pending
+504,2025-11-07 16:54:17,214,8,Campera Denim,Ropa,Web,5,Vendedor_5,1,68,0.15,57.8,paid
+505,2026-01-12 16:54:17,425,1,Zapatillas Urban,Calzado,Instagram,4,Vendedor_4,5,171,0.15,726.75,pending
+506,2025-10-29 16:54:17,151,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,2,59,0.05,112.1,paid
+507,2026-01-29 16:54:17,21,3,Remera Básica,Ropa,Facebook,3,Vendedor_3,5,35,0.15,148.75,pending
+508,2026-01-09 16:54:17,170,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,2,52,0.0,104.0,paid
+509,2026-02-06 16:54:17,432,2,Zapatillas Running,Calzado,Web,6,Vendedor_6,5,66,0.2,264.0,pending
+510,2025-10-28 16:54:17,270,19,Riñonera Sport,Accesorios,Instagram,6,Vendedor_6,1,60,0.1,54.0,paid
+511,2026-02-28 16:54:17,275,17,Camisa Oxford,Ropa,Facebook,9,Vendedor_9,2,73,0.2,116.8,paid
+512,2026-01-20 16:54:17,151,12,Short Deportivo,Ropa,Instagram,4,Vendedor_4,3,62,0.1,167.4,pending
+513,2025-10-02 16:54:17,124,18,Camisa Lino,Ropa,Instagram,1,Vendedor_1,1,64,0.15,54.4,paid
+514,2025-12-10 16:54:17,371,11,Buzo Hoodie,Ropa,Web,2,Vendedor_2,4,52,0.2,166.4,paid
+515,2025-12-12 16:54:17,23,17,Camisa Oxford,Ropa,Web,9,Vendedor_9,5,77,0.15,327.25,paid
+516,2025-11-06 16:54:17,274,11,Buzo Hoodie,Ropa,Mercado Libre,2,Vendedor_2,1,41,0.2,32.8,paid
+517,2025-09-27 16:54:17,276,7,Campera Rompeviento,Ropa,Facebook,4,Vendedor_4,4,33,0.05,125.4,paid
+518,2026-03-11 16:54:17,38,5,Pantalón Chino,Ropa,Mercado Libre,8,Vendedor_8,3,24,0.0,72.0,paid
+519,2025-10-26 16:54:17,209,9,Gorra Classic,Accesorios,Facebook,2,Vendedor_2,5,24,0.1,108.0,pending
+520,2025-11-27 16:54:17,274,13,Medias Training,Accesorios,Mercado Libre,6,Vendedor_6,1,34,0.0,34.0,paid
+521,2026-03-06 16:54:17,149,19,Riñonera Sport,Accesorios,Web,2,Vendedor_2,3,42,0.0,126.0,paid
+522,2025-11-25 16:54:17,243,10,Mochila City,Accesorios,Instagram,7,Vendedor_7,4,52,0.0,208.0,paid
+523,2025-12-07 16:54:17,347,5,Pantalón Chino,Ropa,Web,9,Vendedor_9,3,38,0.1,102.6,paid
+524,2025-10-26 16:54:17,294,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,1,25,0.0,25.0,paid
+525,2026-01-23 16:54:17,73,10,Mochila City,Accesorios,Instagram,6,Vendedor_6,2,36,0.2,57.6,paid
+526,2025-10-11 16:54:17,344,8,Campera Denim,Ropa,Mercado Libre,5,Vendedor_5,2,34,0.05,64.6,pending
+527,2026-02-27 16:54:17,102,18,Camisa Lino,Ropa,Facebook,5,Vendedor_5,1,52,0.0,52.0,pending
+528,2026-02-13 16:54:17,36,12,Short Deportivo,Ropa,Instagram,4,Vendedor_4,1,56,0.2,44.8,pending
+529,2025-11-22 16:54:17,356,16,Sandalias Beach,Calzado,Instagram,6,Vendedor_6,5,144,0.1,648.0,pending
+530,2025-11-28 16:54:17,403,11,Buzo Hoodie,Ropa,Instagram,3,Vendedor_3,1,60,0.05,57.0,pending
+531,2025-12-15 16:54:17,229,9,Gorra Classic,Accesorios,Web,3,Vendedor_3,3,40,0.15,102.0,pending
+532,2025-10-27 16:54:17,42,16,Sandalias Beach,Calzado,Web,2,Vendedor_2,2,142,0.2,227.2,paid
+533,2026-01-26 16:54:17,435,18,Camisa Lino,Ropa,Mercado Libre,5,Vendedor_5,1,29,0.0,29.0,pending
+534,2026-01-22 16:54:17,458,19,Riñonera Sport,Accesorios,Facebook,1,Vendedor_1,5,26,0.2,104.0,paid
+535,2025-12-07 16:54:17,238,12,Short Deportivo,Ropa,Mercado Libre,4,Vendedor_4,5,57,0.05,270.75,pending
+536,2025-11-09 16:54:17,72,12,Short Deportivo,Ropa,Facebook,1,Vendedor_1,2,41,0.2,65.6,paid
+537,2025-10-24 16:54:17,21,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,2,81,0.1,145.8,pending
+538,2026-03-01 16:54:17,343,8,Campera Denim,Ropa,Instagram,5,Vendedor_5,3,49,0.0,147.0,pending
+539,2025-11-17 16:54:17,53,13,Medias Training,Accesorios,Web,8,Vendedor_8,1,12,0.1,10.8,pending
+540,2025-10-29 16:54:17,188,19,Riñonera Sport,Accesorios,Mercado Libre,10,Vendedor_10,2,34,0.15,57.8,pending
+541,2026-01-19 16:54:17,250,13,Medias Training,Accesorios,Facebook,9,Vendedor_9,4,32,0.1,115.2,paid
+542,2026-02-10 16:54:17,264,17,Camisa Oxford,Ropa,Web,8,Vendedor_8,2,49,0.0,98.0,paid
+543,2026-01-29 16:54:17,213,5,Pantalón Chino,Ropa,Web,3,Vendedor_3,3,35,0.05,99.75,paid
+544,2025-09-26 16:54:17,83,16,Sandalias Beach,Calzado,Facebook,8,Vendedor_8,4,86,0.2,275.2,paid
+545,2026-03-06 16:54:17,323,8,Campera Denim,Ropa,Mercado Libre,3,Vendedor_3,5,40,0.05,190.0,paid
+546,2026-02-03 16:54:17,307,2,Zapatillas Running,Calzado,Mercado Libre,5,Vendedor_5,2,126,0.15,214.2,pending
+547,2026-01-21 16:54:17,88,3,Remera Básica,Ropa,Instagram,8,Vendedor_8,5,80,0.15,340.0,pending
+548,2026-02-09 16:54:17,136,20,Piluso Trend,Accesorios,Instagram,10,Vendedor_10,2,49,0.2,78.4,pending
+549,2025-10-16 16:54:17,198,15,Botas Trekking,Calzado,Instagram,10,Vendedor_10,1,89,0.15,75.65,paid
+550,2026-01-25 16:54:17,424,1,Zapatillas Urban,Calzado,Instagram,9,Vendedor_9,5,147,0.15,624.75,paid
+551,2025-11-16 16:54:17,258,6,Pantalón Cargo,Ropa,Mercado Libre,10,Vendedor_10,5,24,0.2,96.0,paid
+552,2025-09-30 16:54:17,460,16,Sandalias Beach,Calzado,Facebook,3,Vendedor_3,5,129,0.0,645.0,pending
+553,2026-03-06 16:54:17,405,12,Short Deportivo,Ropa,Facebook,9,Vendedor_9,4,49,0.15,166.6,pending
+554,2025-09-20 16:54:17,131,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,1,37,0.05,35.15,paid
+555,2026-01-04 16:54:17,97,3,Remera Básica,Ropa,Mercado Libre,10,Vendedor_10,5,72,0.1,324.0,paid
+556,2025-11-04 16:54:17,336,19,Riñonera Sport,Accesorios,Instagram,2,Vendedor_2,5,10,0.15,42.5,pending
+557,2025-12-15 16:54:17,130,14,Cinturón Casual,Accesorios,Web,2,Vendedor_2,2,37,0.2,59.2,pending
+558,2025-12-14 16:54:17,387,19,Riñonera Sport,Accesorios,Instagram,10,Vendedor_10,3,53,0.15,135.15,pending
+559,2025-10-26 16:54:17,285,18,Camisa Lino,Ropa,Facebook,8,Vendedor_8,2,67,0.2,107.2,pending
+560,2025-10-21 16:54:17,438,10,Mochila City,Accesorios,Mercado Libre,6,Vendedor_6,4,57,0.05,216.6,paid
+561,2025-09-19 16:54:17,206,15,Botas Trekking,Calzado,Web,3,Vendedor_3,1,87,0.2,69.6,paid
+562,2025-12-08 16:54:17,475,6,Pantalón Cargo,Ropa,Facebook,1,Vendedor_1,1,38,0.15,32.3,paid
+563,2026-01-09 16:54:17,20,3,Remera Básica,Ropa,Facebook,4,Vendedor_4,3,30,0.2,72.0,pending
+564,2025-10-01 16:54:17,30,20,Piluso Trend,Accesorios,Instagram,9,Vendedor_9,3,55,0.2,132.0,pending
+565,2026-03-15 16:54:17,18,15,Botas Trekking,Calzado,Instagram,4,Vendedor_4,5,96,0.05,456.0,paid
+566,2025-12-15 16:54:17,142,2,Zapatillas Running,Calzado,Facebook,4,Vendedor_4,1,80,0.0,80.0,pending
+567,2025-12-04 16:54:17,378,13,Medias Training,Accesorios,Mercado Libre,10,Vendedor_10,2,43,0.0,86.0,paid
+568,2026-01-04 16:54:17,494,18,Camisa Lino,Ropa,Web,9,Vendedor_9,5,64,0.1,288.0,paid
+569,2026-01-27 16:54:17,134,20,Piluso Trend,Accesorios,Instagram,8,Vendedor_8,4,46,0.0,184.0,pending
+570,2026-02-18 16:54:17,175,17,Camisa Oxford,Ropa,Mercado Libre,9,Vendedor_9,1,84,0.1,75.6,pending
+571,2025-10-21 16:54:17,248,18,Camisa Lino,Ropa,Instagram,5,Vendedor_5,4,68,0.2,217.6,pending
+572,2025-09-24 16:54:17,247,15,Botas Trekking,Calzado,Mercado Libre,8,Vendedor_8,5,170,0.0,850.0,pending
+573,2025-12-10 16:54:17,490,3,Remera Básica,Ropa,Web,4,Vendedor_4,2,60,0.15,102.0,paid
+574,2026-01-13 16:54:17,39,9,Gorra Classic,Accesorios,Instagram,5,Vendedor_5,1,35,0.1,31.5,pending
+575,2025-12-17 16:54:17,485,11,Buzo Hoodie,Ropa,Instagram,4,Vendedor_4,5,54,0.05,256.5,pending
+576,2026-01-16 16:54:17,104,7,Campera Rompeviento,Ropa,Instagram,4,Vendedor_4,3,46,0.05,131.1,pending
+577,2026-02-18 16:54:17,4,5,Pantalón Chino,Ropa,Mercado Libre,2,Vendedor_2,1,83,0.2,66.4,pending
+578,2025-10-10 16:54:17,94,12,Short Deportivo,Ropa,Web,6,Vendedor_6,4,55,0.15,187.0,pending
+579,2025-10-21 16:54:17,245,8,Campera Denim,Ropa,Mercado Libre,3,Vendedor_3,1,87,0.15,73.95,pending
+580,2025-09-23 16:54:17,236,13,Medias Training,Accesorios,Web,3,Vendedor_3,4,17,0.2,54.4,paid
+581,2025-09-26 16:54:17,167,1,Zapatillas Urban,Calzado,Web,4,Vendedor_4,4,134,0.0,536.0,pending
+582,2025-10-28 16:54:17,491,6,Pantalón Cargo,Ropa,Web,5,Vendedor_5,2,54,0.15,91.8,pending
+583,2025-11-10 16:54:17,187,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,2,73,0.1,131.4,pending
+584,2026-01-30 16:54:17,417,15,Botas Trekking,Calzado,Mercado Libre,10,Vendedor_10,2,133,0.05,252.7,pending
+585,2025-10-26 16:54:17,410,8,Campera Denim,Ropa,Instagram,7,Vendedor_7,4,45,0.05,171.0,pending
+586,2026-01-31 16:54:17,274,1,Zapatillas Urban,Calzado,Web,7,Vendedor_7,4,77,0.2,246.4,pending
+587,2026-01-12 16:54:17,51,10,Mochila City,Accesorios,Instagram,9,Vendedor_9,5,13,0.15,55.25,paid
+588,2026-01-11 16:54:17,134,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,1,77,0.1,69.3,pending
+589,2025-10-26 16:54:17,63,18,Camisa Lino,Ropa,Web,5,Vendedor_5,3,22,0.15,56.1,paid
+590,2025-10-21 16:54:17,182,19,Riñonera Sport,Accesorios,Web,9,Vendedor_9,2,59,0.1,106.2,pending
+591,2026-02-25 16:54:17,324,15,Botas Trekking,Calzado,Instagram,7,Vendedor_7,5,96,0.15,408.0,paid
+592,2025-11-30 16:54:17,41,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,5,71,0.0,355.0,pending
+593,2025-12-27 16:54:17,331,8,Campera Denim,Ropa,Facebook,6,Vendedor_6,3,54,0.2,129.6,pending
+594,2025-12-15 16:54:17,86,15,Botas Trekking,Calzado,Instagram,10,Vendedor_10,5,117,0.15,497.25,paid
+595,2026-01-16 16:54:17,204,5,Pantalón Chino,Ropa,Mercado Libre,5,Vendedor_5,1,46,0.05,43.7,paid
+596,2025-11-16 16:54:17,269,3,Remera Básica,Ropa,Mercado Libre,9,Vendedor_9,1,23,0.15,19.55,paid
+597,2025-10-10 16:54:17,159,9,Gorra Classic,Accesorios,Instagram,3,Vendedor_3,1,51,0.15,43.35,paid
+598,2025-11-24 16:54:17,15,10,Mochila City,Accesorios,Mercado Libre,3,Vendedor_3,2,43,0.05,81.7,pending
+599,2025-11-16 16:54:17,228,11,Buzo Hoodie,Ropa,Instagram,8,Vendedor_8,5,54,0.2,216.0,paid
+600,2025-10-16 16:54:17,328,19,Riñonera Sport,Accesorios,Web,8,Vendedor_8,5,37,0.2,148.0,pending
+601,2025-10-30 16:54:17,188,16,Sandalias Beach,Calzado,Facebook,4,Vendedor_4,1,116,0.1,104.4,pending
+602,2025-12-30 16:54:17,177,5,Pantalón Chino,Ropa,Web,1,Vendedor_1,1,86,0.05,81.7,pending
+603,2026-03-15 16:54:17,393,18,Camisa Lino,Ropa,Facebook,8,Vendedor_8,4,58,0.0,232.0,pending
+604,2026-01-17 16:54:17,211,20,Piluso Trend,Accesorios,Facebook,1,Vendedor_1,5,33,0.05,156.75,pending
+605,2026-02-04 16:54:17,41,8,Campera Denim,Ropa,Facebook,7,Vendedor_7,4,48,0.1,172.8,paid
+606,2025-10-12 16:54:17,212,17,Camisa Oxford,Ropa,Instagram,5,Vendedor_5,3,88,0.1,237.6,paid
+607,2026-02-11 16:54:17,232,6,Pantalón Cargo,Ropa,Web,5,Vendedor_5,1,78,0.2,62.4,pending
+608,2025-12-25 16:54:17,12,7,Campera Rompeviento,Ropa,Instagram,1,Vendedor_1,2,26,0.2,41.6,paid
+609,2026-01-08 16:54:17,120,10,Mochila City,Accesorios,Mercado Libre,3,Vendedor_3,4,56,0.0,224.0,paid
+610,2025-11-11 16:54:17,403,1,Zapatillas Urban,Calzado,Facebook,4,Vendedor_4,3,113,0.1,305.1,pending
+611,2025-09-20 16:54:17,29,15,Botas Trekking,Calzado,Web,1,Vendedor_1,3,70,0.05,199.5,pending
+612,2025-10-29 16:54:17,419,3,Remera Básica,Ropa,Facebook,8,Vendedor_8,2,44,0.1,79.2,paid
+613,2026-01-13 16:54:17,102,4,Remera Oversize,Ropa,Facebook,7,Vendedor_7,4,51,0.0,204.0,paid
+614,2025-09-28 16:54:17,480,17,Camisa Oxford,Ropa,Web,4,Vendedor_4,4,69,0.1,248.4,paid
+615,2025-10-28 16:54:17,327,2,Zapatillas Running,Calzado,Web,9,Vendedor_9,1,92,0.15,78.2,paid
+616,2026-03-04 16:54:17,167,12,Short Deportivo,Ropa,Mercado Libre,4,Vendedor_4,1,50,0.15,42.5,paid
+617,2025-10-19 16:54:17,5,9,Gorra Classic,Accesorios,Mercado Libre,2,Vendedor_2,4,60,0.05,228.0,pending
+618,2026-02-06 16:54:17,256,20,Piluso Trend,Accesorios,Mercado Libre,6,Vendedor_6,1,25,0.05,23.75,pending
+619,2026-03-02 16:54:17,406,2,Zapatillas Running,Calzado,Mercado Libre,6,Vendedor_6,2,149,0.2,238.4,paid
+620,2026-01-17 16:54:17,413,16,Sandalias Beach,Calzado,Facebook,6,Vendedor_6,5,160,0.1,720.0,paid
+621,2025-09-22 16:54:17,129,1,Zapatillas Urban,Calzado,Mercado Libre,7,Vendedor_7,3,152,0.05,433.2,pending
+622,2025-10-25 16:54:17,98,15,Botas Trekking,Calzado,Instagram,5,Vendedor_5,5,149,0.15,633.25,pending
+623,2025-11-18 16:54:17,36,11,Buzo Hoodie,Ropa,Instagram,5,Vendedor_5,5,90,0.05,427.5,pending
+624,2026-01-09 16:54:17,398,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,3,39,0.0,117.0,paid
+625,2025-10-10 16:54:17,370,1,Zapatillas Urban,Calzado,Mercado Libre,6,Vendedor_6,5,90,0.1,405.0,pending
+626,2025-11-03 16:54:17,145,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,5,39,0.2,156.0,pending
+627,2026-02-17 16:54:17,428,11,Buzo Hoodie,Ropa,Instagram,2,Vendedor_2,5,28,0.0,140.0,paid
+628,2026-01-25 16:54:17,17,2,Zapatillas Running,Calzado,Facebook,2,Vendedor_2,4,84,0.0,336.0,pending
+629,2025-10-09 16:54:17,114,17,Camisa Oxford,Ropa,Mercado Libre,10,Vendedor_10,3,26,0.1,70.2,paid
+630,2025-10-01 16:54:17,185,7,Campera Rompeviento,Ropa,Facebook,8,Vendedor_8,1,79,0.0,79.0,pending
+631,2025-10-11 16:54:17,428,2,Zapatillas Running,Calzado,Web,5,Vendedor_5,5,65,0.0,325.0,paid
+632,2025-11-05 16:54:17,198,7,Campera Rompeviento,Ropa,Instagram,2,Vendedor_2,1,49,0.2,39.2,paid
+633,2025-09-30 16:54:17,384,17,Camisa Oxford,Ropa,Facebook,4,Vendedor_4,5,42,0.2,168.0,paid
+634,2025-12-16 16:54:17,406,19,Riñonera Sport,Accesorios,Instagram,8,Vendedor_8,4,16,0.05,60.8,pending
+635,2025-12-21 16:54:17,463,17,Camisa Oxford,Ropa,Web,3,Vendedor_3,5,76,0.1,342.0,pending
+636,2025-12-02 16:54:17,280,12,Short Deportivo,Ropa,Instagram,7,Vendedor_7,3,50,0.2,120.0,pending
+637,2026-01-11 16:54:17,1,18,Camisa Lino,Ropa,Mercado Libre,6,Vendedor_6,4,77,0.15,261.8,pending
+638,2026-03-13 16:54:17,154,20,Piluso Trend,Accesorios,Instagram,9,Vendedor_9,2,29,0.0,58.0,paid
+639,2026-03-12 16:54:17,293,11,Buzo Hoodie,Ropa,Instagram,5,Vendedor_5,5,85,0.2,340.0,paid
+640,2025-11-20 16:54:17,188,2,Zapatillas Running,Calzado,Instagram,6,Vendedor_6,2,77,0.1,138.6,paid
+641,2025-12-31 16:54:17,470,9,Gorra Classic,Accesorios,Instagram,2,Vendedor_2,5,35,0.2,140.0,paid
+642,2025-11-14 16:54:17,329,11,Buzo Hoodie,Ropa,Web,3,Vendedor_3,4,32,0.2,102.4,paid
+643,2025-12-10 16:54:17,179,19,Riñonera Sport,Accesorios,Facebook,2,Vendedor_2,1,59,0.1,53.1,pending
+644,2026-01-18 16:54:17,157,4,Remera Oversize,Ropa,Mercado Libre,10,Vendedor_10,1,68,0.0,68.0,pending
+645,2025-10-24 16:54:17,79,18,Camisa Lino,Ropa,Mercado Libre,3,Vendedor_3,3,84,0.05,239.4,pending
+646,2025-10-16 16:54:17,222,15,Botas Trekking,Calzado,Web,10,Vendedor_10,5,71,0.05,337.25,pending
+647,2026-02-12 16:54:17,382,5,Pantalón Chino,Ropa,Mercado Libre,6,Vendedor_6,1,80,0.2,64.0,pending
+648,2026-02-24 16:54:17,391,9,Gorra Classic,Accesorios,Instagram,7,Vendedor_7,5,37,0.05,175.75,pending
+649,2026-01-26 16:54:17,316,18,Camisa Lino,Ropa,Instagram,8,Vendedor_8,4,45,0.2,144.0,paid
+650,2026-01-08 16:54:17,344,3,Remera Básica,Ropa,Facebook,7,Vendedor_7,3,31,0.0,93.0,pending
+651,2025-12-18 16:54:17,336,12,Short Deportivo,Ropa,Mercado Libre,4,Vendedor_4,3,64,0.2,153.6,pending
+652,2025-12-18 16:54:17,23,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,4,38,0.15,129.2,paid
+653,2026-02-06 16:54:17,486,12,Short Deportivo,Ropa,Instagram,2,Vendedor_2,1,26,0.05,24.7,pending
+654,2025-12-20 16:54:17,12,1,Zapatillas Urban,Calzado,Web,2,Vendedor_2,3,117,0.15,298.35,paid
+655,2026-01-22 16:54:17,281,18,Camisa Lino,Ropa,Facebook,4,Vendedor_4,5,86,0.1,387.0,paid
+656,2025-12-11 16:54:17,88,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,5,65,0.1,292.5,pending
+657,2025-09-20 16:54:17,336,7,Campera Rompeviento,Ropa,Mercado Libre,10,Vendedor_10,3,26,0.15,66.3,paid
+658,2025-09-29 16:54:17,150,13,Medias Training,Accesorios,Facebook,5,Vendedor_5,3,16,0.0,48.0,paid
+659,2025-11-07 16:54:17,273,13,Medias Training,Accesorios,Mercado Libre,2,Vendedor_2,3,41,0.2,98.4,paid
+660,2025-11-09 16:54:17,127,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,5,22,0.0,110.0,pending
+661,2025-12-07 16:54:17,182,16,Sandalias Beach,Calzado,Web,3,Vendedor_3,1,104,0.1,93.6,paid
+662,2026-01-06 16:54:17,484,17,Camisa Oxford,Ropa,Web,1,Vendedor_1,3,69,0.0,207.0,paid
+663,2025-12-20 16:54:17,267,5,Pantalón Chino,Ropa,Instagram,7,Vendedor_7,2,31,0.15,52.7,pending
+664,2025-10-22 16:54:17,169,8,Campera Denim,Ropa,Facebook,3,Vendedor_3,4,59,0.2,188.8,paid
+665,2025-10-01 16:54:17,442,7,Campera Rompeviento,Ropa,Instagram,3,Vendedor_3,5,89,0.05,422.75,pending
+666,2026-02-11 16:54:17,35,17,Camisa Oxford,Ropa,Mercado Libre,7,Vendedor_7,2,40,0.1,72.0,paid
+667,2026-02-08 16:54:17,156,11,Buzo Hoodie,Ropa,Facebook,1,Vendedor_1,3,72,0.15,183.6,pending
+668,2026-01-28 16:54:17,391,5,Pantalón Chino,Ropa,Web,2,Vendedor_2,2,43,0.0,86.0,paid
+669,2026-01-17 16:54:17,353,20,Piluso Trend,Accesorios,Facebook,4,Vendedor_4,1,32,0.0,32.0,paid
+670,2025-10-14 16:54:17,252,17,Camisa Oxford,Ropa,Facebook,8,Vendedor_8,3,43,0.15,109.65,paid
+671,2026-01-27 16:54:17,474,6,Pantalón Cargo,Ropa,Web,4,Vendedor_4,1,72,0.0,72.0,pending
+672,2025-09-27 16:54:17,475,8,Campera Denim,Ropa,Facebook,4,Vendedor_4,2,28,0.05,53.2,pending
+673,2025-11-20 16:54:17,312,11,Buzo Hoodie,Ropa,Facebook,4,Vendedor_4,4,71,0.0,284.0,pending
+674,2025-10-12 16:54:17,329,13,Medias Training,Accesorios,Mercado Libre,10,Vendedor_10,5,44,0.2,176.0,paid
+675,2025-11-21 16:54:17,203,15,Botas Trekking,Calzado,Mercado Libre,1,Vendedor_1,2,126,0.2,201.6,pending
+676,2025-10-07 16:54:17,204,17,Camisa Oxford,Ropa,Web,1,Vendedor_1,2,57,0.15,96.9,pending
+677,2026-02-03 16:54:17,354,15,Botas Trekking,Calzado,Instagram,7,Vendedor_7,3,138,0.0,414.0,pending
+678,2026-02-22 16:54:17,481,15,Botas Trekking,Calzado,Instagram,9,Vendedor_9,1,83,0.2,66.4,pending
+679,2025-12-25 16:54:17,303,14,Cinturón Casual,Accesorios,Instagram,8,Vendedor_8,1,21,0.15,17.85,pending
+680,2026-01-12 16:54:17,59,3,Remera Básica,Ropa,Facebook,6,Vendedor_6,2,35,0.0,70.0,pending
+681,2025-11-03 16:54:17,282,3,Remera Básica,Ropa,Facebook,7,Vendedor_7,5,40,0.15,170.0,paid
+682,2025-12-22 16:54:17,92,6,Pantalón Cargo,Ropa,Mercado Libre,10,Vendedor_10,2,40,0.05,76.0,pending
+683,2025-12-28 16:54:17,61,10,Mochila City,Accesorios,Instagram,8,Vendedor_8,3,50,0.05,142.5,paid
+684,2025-10-09 16:54:17,438,1,Zapatillas Urban,Calzado,Facebook,5,Vendedor_5,1,118,0.15,100.3,paid
+685,2025-11-11 16:54:17,233,20,Piluso Trend,Accesorios,Facebook,4,Vendedor_4,2,47,0.15,79.9,pending
+686,2025-10-15 16:54:17,143,3,Remera Básica,Ropa,Instagram,10,Vendedor_10,1,51,0.2,40.8,paid
+687,2026-02-08 16:54:17,438,6,Pantalón Cargo,Ropa,Mercado Libre,1,Vendedor_1,3,24,0.05,68.4,pending
+688,2026-02-23 16:54:17,83,11,Buzo Hoodie,Ropa,Web,1,Vendedor_1,1,73,0.05,69.35,paid
+689,2025-10-20 16:54:17,166,15,Botas Trekking,Calzado,Web,6,Vendedor_6,1,71,0.1,63.9,pending
+690,2025-11-28 16:54:17,69,3,Remera Básica,Ropa,Mercado Libre,9,Vendedor_9,1,57,0.15,48.45,pending
+691,2025-11-03 16:54:17,314,11,Buzo Hoodie,Ropa,Mercado Libre,7,Vendedor_7,5,46,0.05,218.5,paid
+692,2025-10-07 16:54:17,479,19,Riñonera Sport,Accesorios,Web,9,Vendedor_9,1,40,0.2,32.0,pending
+693,2025-12-26 16:54:17,182,20,Piluso Trend,Accesorios,Instagram,5,Vendedor_5,5,46,0.2,184.0,pending
+694,2025-10-07 16:54:17,120,17,Camisa Oxford,Ropa,Web,8,Vendedor_8,4,43,0.2,137.6,paid
+695,2026-02-15 16:54:17,378,1,Zapatillas Urban,Calzado,Instagram,1,Vendedor_1,4,140,0.0,560.0,pending
+696,2026-03-06 16:54:17,6,14,Cinturón Casual,Accesorios,Instagram,6,Vendedor_6,3,45,0.05,128.25,pending
+697,2026-02-28 16:54:17,166,9,Gorra Classic,Accesorios,Mercado Libre,5,Vendedor_5,3,42,0.2,100.8,paid
+698,2025-12-20 16:54:17,100,11,Buzo Hoodie,Ropa,Web,7,Vendedor_7,5,23,0.05,109.25,pending
+699,2025-11-16 16:54:17,322,16,Sandalias Beach,Calzado,Facebook,1,Vendedor_1,2,121,0.05,229.9,pending
+700,2025-12-02 16:54:17,372,15,Botas Trekking,Calzado,Web,1,Vendedor_1,5,98,0.2,392.0,paid
+701,2025-10-21 16:54:17,144,7,Campera Rompeviento,Ropa,Mercado Libre,6,Vendedor_6,3,28,0.05,79.8,pending
+702,2025-10-08 16:54:17,200,13,Medias Training,Accesorios,Instagram,9,Vendedor_9,2,46,0.2,73.6,paid
+703,2025-09-18 16:54:17,45,10,Mochila City,Accesorios,Facebook,6,Vendedor_6,1,27,0.15,22.95,paid
+704,2025-11-22 16:54:17,90,12,Short Deportivo,Ropa,Mercado Libre,5,Vendedor_5,2,87,0.1,156.6,pending
+705,2026-01-25 16:54:17,410,2,Zapatillas Running,Calzado,Facebook,2,Vendedor_2,4,124,0.0,496.0,paid
+706,2025-12-20 16:54:17,74,7,Campera Rompeviento,Ropa,Mercado Libre,8,Vendedor_8,5,59,0.1,265.5,paid
+707,2026-03-08 16:54:17,3,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,4,86,0.0,344.0,paid
+708,2026-02-23 16:54:17,267,20,Piluso Trend,Accesorios,Web,6,Vendedor_6,4,12,0.0,48.0,paid
+709,2025-12-28 16:54:17,147,19,Riñonera Sport,Accesorios,Web,4,Vendedor_4,3,22,0.05,62.7,pending
+710,2025-09-27 16:54:17,141,15,Botas Trekking,Calzado,Mercado Libre,2,Vendedor_2,3,79,0.05,225.15,paid
+711,2025-10-25 16:54:17,180,20,Piluso Trend,Accesorios,Web,9,Vendedor_9,1,23,0.2,18.4,pending
+712,2025-09-18 16:54:17,37,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,5,51,0.05,242.25,pending
+713,2025-11-24 16:54:17,463,18,Camisa Lino,Ropa,Mercado Libre,1,Vendedor_1,2,23,0.15,39.1,paid
+714,2026-03-04 16:54:17,361,13,Medias Training,Accesorios,Facebook,2,Vendedor_2,4,35,0.05,133.0,pending
+715,2025-12-22 16:54:17,291,10,Mochila City,Accesorios,Instagram,4,Vendedor_4,5,15,0.15,63.75,paid
+716,2026-02-21 16:54:17,241,15,Botas Trekking,Calzado,Instagram,8,Vendedor_8,3,147,0.15,374.85,paid
+717,2025-10-11 16:54:17,359,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,3,70,0.05,199.5,pending
+718,2025-11-13 16:54:17,180,15,Botas Trekking,Calzado,Facebook,1,Vendedor_1,1,120,0.0,120.0,pending
+719,2026-01-04 16:54:17,53,6,Pantalón Cargo,Ropa,Facebook,6,Vendedor_6,5,36,0.2,144.0,paid
+720,2025-10-26 16:54:17,206,11,Buzo Hoodie,Ropa,Facebook,2,Vendedor_2,3,88,0.15,224.4,paid
+721,2026-01-14 16:54:17,34,20,Piluso Trend,Accesorios,Web,9,Vendedor_9,2,40,0.15,68.0,paid
+722,2025-11-27 16:54:17,279,19,Riñonera Sport,Accesorios,Instagram,7,Vendedor_7,5,60,0.1,270.0,paid
+723,2025-10-22 16:54:17,285,3,Remera Básica,Ropa,Mercado Libre,8,Vendedor_8,1,79,0.1,71.1,pending
+724,2025-12-29 16:54:17,395,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,1,33,0.2,26.4,pending
+725,2025-10-03 16:54:17,455,16,Sandalias Beach,Calzado,Mercado Libre,1,Vendedor_1,1,87,0.05,82.65,paid
+726,2025-11-22 16:54:17,296,5,Pantalón Chino,Ropa,Facebook,9,Vendedor_9,3,69,0.2,165.6,paid
+727,2025-09-24 16:54:17,368,7,Campera Rompeviento,Ropa,Web,6,Vendedor_6,3,58,0.15,147.9,paid
+728,2026-03-15 16:54:17,437,19,Riñonera Sport,Accesorios,Web,10,Vendedor_10,5,35,0.05,166.25,paid
+729,2025-10-28 16:54:17,441,12,Short Deportivo,Ropa,Web,1,Vendedor_1,1,65,0.0,65.0,paid
+730,2025-11-27 16:54:17,208,8,Campera Denim,Ropa,Facebook,10,Vendedor_10,4,60,0.15,204.0,pending
+731,2026-01-22 16:54:17,285,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,4,37,0.05,140.6,pending
+732,2026-02-06 16:54:17,37,14,Cinturón Casual,Accesorios,Mercado Libre,5,Vendedor_5,2,18,0.0,36.0,paid
+733,2025-09-30 16:54:17,329,16,Sandalias Beach,Calzado,Facebook,7,Vendedor_7,2,70,0.05,133.0,pending
+734,2025-11-29 16:54:17,218,20,Piluso Trend,Accesorios,Facebook,10,Vendedor_10,2,39,0.2,62.4,pending
+735,2026-01-19 16:54:17,256,12,Short Deportivo,Ropa,Instagram,3,Vendedor_3,4,20,0.2,64.0,pending
+736,2025-10-29 16:54:17,291,14,Cinturón Casual,Accesorios,Facebook,10,Vendedor_10,3,12,0.0,36.0,pending
+737,2025-10-20 16:54:17,440,4,Remera Oversize,Ropa,Web,8,Vendedor_8,1,38,0.2,30.4,pending
+738,2026-02-25 16:54:17,242,17,Camisa Oxford,Ropa,Mercado Libre,9,Vendedor_9,5,31,0.05,147.25,pending
+739,2026-03-04 16:54:17,241,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,5,59,0.0,295.0,pending
+740,2025-12-23 16:54:17,86,19,Riñonera Sport,Accesorios,Mercado Libre,7,Vendedor_7,3,28,0.1,75.6,pending
+741,2026-01-10 16:54:17,294,19,Riñonera Sport,Accesorios,Mercado Libre,1,Vendedor_1,4,47,0.05,178.6,pending
+742,2026-03-11 16:54:17,259,20,Piluso Trend,Accesorios,Mercado Libre,5,Vendedor_5,4,15,0.05,57.0,pending
+743,2026-02-12 16:54:17,8,9,Gorra Classic,Accesorios,Mercado Libre,10,Vendedor_10,3,27,0.1,72.9,paid
+744,2026-02-07 16:54:17,401,19,Riñonera Sport,Accesorios,Instagram,8,Vendedor_8,3,21,0.1,56.7,pending
+745,2025-11-02 16:54:17,305,6,Pantalón Cargo,Ropa,Instagram,1,Vendedor_1,3,30,0.05,85.5,pending
+746,2025-12-09 16:54:17,108,14,Cinturón Casual,Accesorios,Web,4,Vendedor_4,4,56,0.05,212.8,paid
+747,2026-02-16 16:54:17,244,9,Gorra Classic,Accesorios,Web,1,Vendedor_1,2,39,0.15,66.3,pending
+748,2026-01-17 16:54:17,75,18,Camisa Lino,Ropa,Facebook,7,Vendedor_7,4,80,0.1,288.0,paid
+749,2025-11-23 16:54:17,50,10,Mochila City,Accesorios,Web,7,Vendedor_7,3,43,0.0,129.0,pending
+750,2025-10-02 16:54:17,411,20,Piluso Trend,Accesorios,Mercado Libre,5,Vendedor_5,3,27,0.1,72.9,pending
+751,2025-12-07 16:54:17,395,19,Riñonera Sport,Accesorios,Instagram,8,Vendedor_8,2,56,0.2,89.6,pending
+752,2025-12-27 16:54:17,7,6,Pantalón Cargo,Ropa,Facebook,9,Vendedor_9,1,21,0.0,21.0,paid
+753,2026-02-19 16:54:17,129,17,Camisa Oxford,Ropa,Instagram,8,Vendedor_8,3,48,0.1,129.6,paid
+754,2025-10-10 16:54:17,337,1,Zapatillas Urban,Calzado,Instagram,2,Vendedor_2,1,180,0.2,144.0,paid
+755,2026-02-23 16:54:17,412,4,Remera Oversize,Ropa,Instagram,10,Vendedor_10,2,68,0.2,108.8,paid
+756,2026-01-12 16:54:17,473,6,Pantalón Cargo,Ropa,Web,5,Vendedor_5,4,29,0.15,98.6,pending
+757,2026-01-11 16:54:17,196,11,Buzo Hoodie,Ropa,Facebook,3,Vendedor_3,1,55,0.0,55.0,pending
+758,2026-01-10 16:54:17,252,2,Zapatillas Running,Calzado,Instagram,5,Vendedor_5,2,116,0.0,232.0,pending
+759,2025-10-03 16:54:17,394,6,Pantalón Cargo,Ropa,Facebook,8,Vendedor_8,1,38,0.2,30.4,paid
+760,2025-10-04 16:54:17,53,20,Piluso Trend,Accesorios,Mercado Libre,2,Vendedor_2,4,55,0.1,198.0,paid
+761,2025-10-22 16:54:17,77,3,Remera Básica,Ropa,Mercado Libre,5,Vendedor_5,4,22,0.15,74.8,paid
+762,2026-01-08 16:54:17,2,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,3,35,0.2,84.0,pending
+763,2025-12-04 16:54:17,197,14,Cinturón Casual,Accesorios,Facebook,2,Vendedor_2,5,24,0.0,120.0,paid
+764,2025-10-31 16:54:17,206,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,3,53,0.1,143.1,paid
+765,2025-11-01 16:54:17,332,12,Short Deportivo,Ropa,Instagram,6,Vendedor_6,1,78,0.1,70.2,paid
+766,2026-03-07 16:54:17,459,18,Camisa Lino,Ropa,Mercado Libre,7,Vendedor_7,2,58,0.15,98.6,pending
+767,2026-02-24 16:54:17,99,16,Sandalias Beach,Calzado,Mercado Libre,8,Vendedor_8,2,77,0.0,154.0,paid
+768,2025-12-08 16:54:17,256,16,Sandalias Beach,Calzado,Facebook,2,Vendedor_2,5,142,0.1,639.0,paid
+769,2025-12-21 16:54:17,208,2,Zapatillas Running,Calzado,Mercado Libre,1,Vendedor_1,3,160,0.0,480.0,paid
+770,2025-11-20 16:54:17,19,17,Camisa Oxford,Ropa,Instagram,9,Vendedor_9,2,49,0.0,98.0,pending
+771,2025-11-17 16:54:17,8,1,Zapatillas Urban,Calzado,Instagram,10,Vendedor_10,1,91,0.05,86.45,paid
+772,2026-02-21 16:54:17,33,10,Mochila City,Accesorios,Mercado Libre,8,Vendedor_8,5,20,0.2,80.0,paid
+773,2025-10-16 16:54:17,219,16,Sandalias Beach,Calzado,Web,10,Vendedor_10,2,68,0.05,129.2,pending
+774,2026-02-15 16:54:17,429,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,5,37,0.1,166.5,paid
+775,2026-02-01 16:54:17,73,19,Riñonera Sport,Accesorios,Facebook,6,Vendedor_6,1,17,0.1,15.3,paid
+776,2025-10-27 16:54:17,21,12,Short Deportivo,Ropa,Instagram,3,Vendedor_3,4,51,0.2,163.2,paid
+777,2025-12-11 16:54:17,4,20,Piluso Trend,Accesorios,Mercado Libre,3,Vendedor_3,1,41,0.0,41.0,paid
+778,2025-09-18 16:54:17,355,3,Remera Básica,Ropa,Instagram,10,Vendedor_10,3,73,0.15,186.15,paid
+779,2025-10-05 16:54:17,123,5,Pantalón Chino,Ropa,Instagram,5,Vendedor_5,5,77,0.15,327.25,paid
+780,2026-01-30 16:54:17,179,20,Piluso Trend,Accesorios,Facebook,8,Vendedor_8,5,15,0.1,67.5,paid
+781,2026-01-16 16:54:17,317,18,Camisa Lino,Ropa,Web,4,Vendedor_4,1,87,0.0,87.0,paid
+782,2025-10-08 16:54:17,58,15,Botas Trekking,Calzado,Instagram,4,Vendedor_4,3,66,0.05,188.1,pending
+783,2026-01-31 16:54:17,146,16,Sandalias Beach,Calzado,Instagram,3,Vendedor_3,1,66,0.1,59.4,pending
+784,2025-12-22 16:54:17,380,9,Gorra Classic,Accesorios,Mercado Libre,10,Vendedor_10,4,12,0.0,48.0,paid
+785,2026-03-10 16:54:17,459,6,Pantalón Cargo,Ropa,Instagram,8,Vendedor_8,5,34,0.0,170.0,pending
+786,2025-10-20 16:54:17,118,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,4,22,0.1,79.2,pending
+787,2026-02-20 16:54:17,457,8,Campera Denim,Ropa,Instagram,4,Vendedor_4,4,45,0.15,153.0,paid
+788,2025-10-19 16:54:17,75,16,Sandalias Beach,Calzado,Instagram,8,Vendedor_8,1,173,0.15,147.05,pending
+789,2025-12-08 16:54:17,324,6,Pantalón Cargo,Ropa,Web,6,Vendedor_6,2,78,0.05,148.2,pending
+790,2025-12-22 16:54:17,70,7,Campera Rompeviento,Ropa,Mercado Libre,3,Vendedor_3,1,27,0.1,24.3,pending
+791,2025-11-30 16:54:17,310,15,Botas Trekking,Calzado,Instagram,3,Vendedor_3,3,88,0.1,237.6,paid
+792,2025-10-27 16:54:17,251,19,Riñonera Sport,Accesorios,Instagram,4,Vendedor_4,1,36,0.2,28.8,pending
+793,2026-01-05 16:54:17,127,15,Botas Trekking,Calzado,Web,1,Vendedor_1,4,154,0.05,585.2,pending
+794,2026-01-20 16:54:17,214,19,Riñonera Sport,Accesorios,Mercado Libre,10,Vendedor_10,2,46,0.0,92.0,paid
+795,2025-11-08 16:54:17,246,16,Sandalias Beach,Calzado,Mercado Libre,1,Vendedor_1,4,127,0.15,431.8,pending
+796,2026-01-15 16:54:17,355,16,Sandalias Beach,Calzado,Facebook,2,Vendedor_2,5,156,0.0,780.0,paid
+797,2025-12-16 16:54:17,246,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,2,31,0.0,62.0,paid
+798,2025-10-22 16:54:17,396,15,Botas Trekking,Calzado,Instagram,10,Vendedor_10,1,118,0.15,100.3,pending
+799,2025-12-13 16:54:17,458,6,Pantalón Cargo,Ropa,Web,8,Vendedor_8,1,29,0.15,24.65,paid
+800,2025-11-28 16:54:17,407,10,Mochila City,Accesorios,Instagram,5,Vendedor_5,5,44,0.2,176.0,paid
+801,2025-12-22 16:54:17,455,20,Piluso Trend,Accesorios,Mercado Libre,1,Vendedor_1,5,53,0.1,238.5,paid
+802,2025-12-14 16:54:17,188,13,Medias Training,Accesorios,Instagram,8,Vendedor_8,5,12,0.1,54.0,paid
+803,2026-01-24 16:54:17,59,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,3,50,0.2,120.0,paid
+804,2025-12-25 16:54:17,142,8,Campera Denim,Ropa,Mercado Libre,6,Vendedor_6,3,84,0.15,214.2,paid
+805,2025-12-19 16:54:17,425,12,Short Deportivo,Ropa,Mercado Libre,8,Vendedor_8,4,84,0.2,268.8,pending
+806,2025-09-25 16:54:17,189,18,Camisa Lino,Ropa,Mercado Libre,9,Vendedor_9,3,77,0.2,184.8,paid
+807,2026-02-23 16:54:17,148,15,Botas Trekking,Calzado,Mercado Libre,2,Vendedor_2,4,174,0.05,661.2,paid
+808,2026-01-06 16:54:17,448,6,Pantalón Cargo,Ropa,Instagram,2,Vendedor_2,2,83,0.05,157.7,paid
+809,2025-12-01 16:54:17,216,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,2,40,0.1,72.0,paid
+810,2026-01-28 16:54:17,331,10,Mochila City,Accesorios,Web,2,Vendedor_2,1,24,0.2,19.2,pending
+811,2025-12-20 16:54:17,432,19,Riñonera Sport,Accesorios,Facebook,6,Vendedor_6,4,47,0.2,150.4,pending
+812,2025-10-23 16:54:17,117,10,Mochila City,Accesorios,Facebook,3,Vendedor_3,3,20,0.1,54.0,pending
+813,2026-03-05 16:54:17,490,10,Mochila City,Accesorios,Instagram,3,Vendedor_3,3,28,0.15,71.4,paid
+814,2026-01-03 16:54:17,122,18,Camisa Lino,Ropa,Mercado Libre,3,Vendedor_3,2,39,0.05,74.1,paid
+815,2025-10-21 16:54:17,95,11,Buzo Hoodie,Ropa,Instagram,3,Vendedor_3,4,53,0.1,190.8,paid
+816,2025-12-19 16:54:17,500,11,Buzo Hoodie,Ropa,Instagram,3,Vendedor_3,3,77,0.2,184.8,pending
+817,2026-03-11 16:54:17,476,4,Remera Oversize,Ropa,Web,7,Vendedor_7,4,38,0.15,129.2,paid
+818,2025-10-29 16:54:17,243,1,Zapatillas Urban,Calzado,Web,9,Vendedor_9,3,142,0.1,383.4,paid
+819,2025-11-24 16:54:17,461,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,1,56,0.15,47.6,paid
+820,2026-02-16 16:54:17,431,18,Camisa Lino,Ropa,Instagram,5,Vendedor_5,1,71,0.2,56.8,pending
+821,2026-02-22 16:54:17,270,12,Short Deportivo,Ropa,Instagram,6,Vendedor_6,1,44,0.2,35.2,pending
+822,2026-03-12 16:54:17,500,7,Campera Rompeviento,Ropa,Facebook,2,Vendedor_2,5,77,0.0,385.0,paid
+823,2025-12-26 16:54:17,466,16,Sandalias Beach,Calzado,Web,10,Vendedor_10,5,125,0.0,625.0,pending
+824,2025-11-28 16:54:17,146,5,Pantalón Chino,Ropa,Web,6,Vendedor_6,4,67,0.0,268.0,pending
+825,2025-11-23 16:54:17,380,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,1,23,0.15,19.55,pending
+826,2026-02-04 16:54:17,307,10,Mochila City,Accesorios,Mercado Libre,7,Vendedor_7,4,18,0.2,57.6,paid
+827,2025-12-30 16:54:17,478,7,Campera Rompeviento,Ropa,Facebook,8,Vendedor_8,5,62,0.0,310.0,paid
+828,2025-12-03 16:54:17,237,1,Zapatillas Urban,Calzado,Instagram,5,Vendedor_5,4,82,0.2,262.4,paid
+829,2025-12-10 16:54:17,422,6,Pantalón Cargo,Ropa,Web,5,Vendedor_5,5,82,0.0,410.0,pending
+830,2025-10-25 16:54:17,79,16,Sandalias Beach,Calzado,Web,8,Vendedor_8,2,63,0.0,126.0,pending
+831,2026-02-14 16:54:17,465,16,Sandalias Beach,Calzado,Instagram,5,Vendedor_5,4,82,0.15,278.8,paid
+832,2026-01-06 16:54:17,247,4,Remera Oversize,Ropa,Facebook,8,Vendedor_8,1,66,0.2,52.8,pending
+833,2025-09-21 16:54:17,9,16,Sandalias Beach,Calzado,Web,2,Vendedor_2,3,125,0.2,300.0,paid
+834,2026-03-03 16:54:17,183,19,Riñonera Sport,Accesorios,Instagram,3,Vendedor_3,3,39,0.05,111.15,paid
+835,2025-12-15 16:54:17,150,9,Gorra Classic,Accesorios,Mercado Libre,7,Vendedor_7,3,13,0.1,35.1,paid
+836,2026-02-21 16:54:17,447,6,Pantalón Cargo,Ropa,Web,10,Vendedor_10,2,89,0.1,160.2,pending
+837,2025-09-23 16:54:17,181,9,Gorra Classic,Accesorios,Instagram,6,Vendedor_6,1,44,0.2,35.2,paid
+838,2025-11-05 16:54:17,175,5,Pantalón Chino,Ropa,Instagram,5,Vendedor_5,3,82,0.15,209.1,paid
+839,2026-02-06 16:54:17,315,7,Campera Rompeviento,Ropa,Mercado Libre,9,Vendedor_9,2,44,0.2,70.4,pending
+840,2026-02-26 16:54:17,246,15,Botas Trekking,Calzado,Web,2,Vendedor_2,2,178,0.0,356.0,pending
+841,2026-02-10 16:54:17,89,12,Short Deportivo,Ropa,Web,8,Vendedor_8,5,86,0.1,387.0,paid
+842,2026-01-20 16:54:17,65,4,Remera Oversize,Ropa,Instagram,3,Vendedor_3,2,49,0.1,88.2,paid
+843,2025-11-29 16:54:17,388,3,Remera Básica,Ropa,Facebook,2,Vendedor_2,1,22,0.15,18.7,paid
+844,2026-02-18 16:54:17,61,7,Campera Rompeviento,Ropa,Web,1,Vendedor_1,5,27,0.15,114.75,paid
+845,2025-12-30 16:54:17,106,3,Remera Básica,Ropa,Instagram,1,Vendedor_1,1,35,0.2,28.0,paid
+846,2026-03-10 16:54:17,179,12,Short Deportivo,Ropa,Web,2,Vendedor_2,2,55,0.2,88.0,paid
+847,2025-10-12 16:54:17,420,17,Camisa Oxford,Ropa,Mercado Libre,4,Vendedor_4,5,28,0.0,140.0,paid
+848,2026-01-04 16:54:17,474,7,Campera Rompeviento,Ropa,Instagram,3,Vendedor_3,5,20,0.0,100.0,pending
+849,2025-09-20 16:54:17,93,12,Short Deportivo,Ropa,Web,10,Vendedor_10,2,76,0.0,152.0,pending
+850,2026-01-22 16:54:17,390,14,Cinturón Casual,Accesorios,Web,9,Vendedor_9,2,36,0.0,72.0,paid
+851,2026-02-17 16:54:17,361,15,Botas Trekking,Calzado,Web,9,Vendedor_9,2,123,0.1,221.4,paid
+852,2025-12-24 16:54:17,234,3,Remera Básica,Ropa,Web,8,Vendedor_8,1,69,0.1,62.1,pending
+853,2025-10-27 16:54:17,439,8,Campera Denim,Ropa,Mercado Libre,7,Vendedor_7,3,74,0.05,210.9,pending
+854,2026-01-31 16:54:17,225,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,4,33,0.15,112.2,paid
+855,2025-12-06 16:54:17,34,5,Pantalón Chino,Ropa,Web,7,Vendedor_7,5,33,0.05,156.75,paid
+856,2026-01-25 16:54:17,430,11,Buzo Hoodie,Ropa,Facebook,10,Vendedor_10,4,35,0.05,133.0,pending
+857,2025-10-20 16:54:17,183,9,Gorra Classic,Accesorios,Facebook,10,Vendedor_10,3,58,0.15,147.9,pending
+858,2025-11-07 16:54:17,56,16,Sandalias Beach,Calzado,Mercado Libre,5,Vendedor_5,2,158,0.15,268.6,pending
+859,2025-11-10 16:54:17,378,16,Sandalias Beach,Calzado,Mercado Libre,4,Vendedor_4,2,63,0.0,126.0,paid
+860,2025-09-25 16:54:17,348,16,Sandalias Beach,Calzado,Web,1,Vendedor_1,2,108,0.2,172.8,paid
+861,2025-10-09 16:54:17,339,10,Mochila City,Accesorios,Facebook,10,Vendedor_10,1,58,0.0,58.0,pending
+862,2026-01-01 16:54:17,278,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,4,84,0.1,302.4,paid
+863,2025-11-27 16:54:17,437,2,Zapatillas Running,Calzado,Facebook,2,Vendedor_2,4,117,0.1,421.2,pending
+864,2026-03-08 16:54:17,453,15,Botas Trekking,Calzado,Instagram,1,Vendedor_1,2,131,0.1,235.8,pending
+865,2026-02-11 16:54:17,292,14,Cinturón Casual,Accesorios,Facebook,5,Vendedor_5,4,41,0.0,164.0,pending
+866,2025-10-25 16:54:17,135,16,Sandalias Beach,Calzado,Facebook,3,Vendedor_3,5,67,0.15,284.75,pending
+867,2025-09-25 16:54:17,15,20,Piluso Trend,Accesorios,Mercado Libre,6,Vendedor_6,3,30,0.0,90.0,paid
+868,2025-12-18 16:54:17,50,12,Short Deportivo,Ropa,Facebook,10,Vendedor_10,1,63,0.15,53.55,pending
+869,2025-12-02 16:54:17,121,12,Short Deportivo,Ropa,Web,6,Vendedor_6,1,51,0.05,48.45,paid
+870,2025-12-29 16:54:17,276,3,Remera Básica,Ropa,Web,2,Vendedor_2,3,41,0.0,123.0,paid
+871,2025-09-30 16:54:17,137,15,Botas Trekking,Calzado,Mercado Libre,7,Vendedor_7,5,125,0.15,531.25,pending
+872,2026-03-12 16:54:17,166,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,4,46,0.15,156.4,pending
+873,2025-09-22 16:54:17,416,4,Remera Oversize,Ropa,Web,4,Vendedor_4,3,83,0.2,199.2,paid
+874,2025-12-31 16:54:17,326,20,Piluso Trend,Accesorios,Mercado Libre,6,Vendedor_6,4,22,0.15,74.8,paid
+875,2026-01-09 16:54:17,412,10,Mochila City,Accesorios,Instagram,1,Vendedor_1,3,46,0.15,117.3,paid
+876,2026-02-21 16:54:17,291,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,3,27,0.0,81.0,pending
+877,2025-12-19 16:54:17,222,7,Campera Rompeviento,Ropa,Web,2,Vendedor_2,3,84,0.1,226.8,paid
+878,2025-12-05 16:54:17,344,14,Cinturón Casual,Accesorios,Instagram,5,Vendedor_5,5,42,0.15,178.5,paid
+879,2026-01-29 16:54:17,138,17,Camisa Oxford,Ropa,Facebook,10,Vendedor_10,4,47,0.15,159.8,paid
+880,2026-01-25 16:54:17,78,17,Camisa Oxford,Ropa,Web,6,Vendedor_6,4,38,0.05,144.4,pending
+881,2025-12-26 16:54:17,422,14,Cinturón Casual,Accesorios,Web,2,Vendedor_2,2,36,0.1,64.8,paid
+882,2025-09-23 16:54:17,59,9,Gorra Classic,Accesorios,Instagram,10,Vendedor_10,2,35,0.05,66.5,paid
+883,2026-01-14 16:54:17,224,1,Zapatillas Urban,Calzado,Facebook,5,Vendedor_5,4,122,0.2,390.4,paid
+884,2026-02-05 16:54:17,405,7,Campera Rompeviento,Ropa,Web,5,Vendedor_5,2,23,0.1,41.4,paid
+885,2025-11-13 16:54:17,161,2,Zapatillas Running,Calzado,Web,1,Vendedor_1,1,170,0.0,170.0,paid
+886,2025-12-14 16:54:17,121,14,Cinturón Casual,Accesorios,Mercado Libre,2,Vendedor_2,4,56,0.05,212.8,paid
+887,2025-09-28 16:54:17,453,17,Camisa Oxford,Ropa,Mercado Libre,10,Vendedor_10,5,52,0.15,221.0,paid
+888,2026-02-14 16:54:17,413,20,Piluso Trend,Accesorios,Instagram,6,Vendedor_6,3,47,0.15,119.85,pending
+889,2026-02-09 16:54:17,226,7,Campera Rompeviento,Ropa,Facebook,2,Vendedor_2,2,47,0.1,84.6,pending
+890,2026-03-03 16:54:17,163,19,Riñonera Sport,Accesorios,Facebook,8,Vendedor_8,5,33,0.0,165.0,pending
+891,2026-01-05 16:54:17,421,8,Campera Denim,Ropa,Web,3,Vendedor_3,3,80,0.1,216.0,paid
+892,2026-03-09 16:54:17,197,20,Piluso Trend,Accesorios,Web,1,Vendedor_1,2,26,0.2,41.6,pending
+893,2025-11-01 16:54:17,466,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,4,69,0.0,276.0,pending
+894,2026-02-22 16:54:17,469,10,Mochila City,Accesorios,Facebook,4,Vendedor_4,3,23,0.05,65.55,pending
+895,2026-03-09 16:54:17,242,14,Cinturón Casual,Accesorios,Facebook,5,Vendedor_5,1,59,0.15,50.15,pending
+896,2026-02-20 16:54:17,181,14,Cinturón Casual,Accesorios,Facebook,3,Vendedor_3,3,42,0.0,126.0,pending
+897,2025-09-21 16:54:17,323,15,Botas Trekking,Calzado,Facebook,1,Vendedor_1,1,142,0.05,134.9,paid
+898,2025-12-05 16:54:17,43,1,Zapatillas Urban,Calzado,Mercado Libre,4,Vendedor_4,3,100,0.2,240.0,paid
+899,2025-11-05 16:54:17,232,8,Campera Denim,Ropa,Facebook,3,Vendedor_3,5,72,0.1,324.0,paid
+900,2026-02-01 16:54:17,44,9,Gorra Classic,Accesorios,Facebook,10,Vendedor_10,3,28,0.05,79.8,pending
+901,2025-12-07 16:54:17,486,6,Pantalón Cargo,Ropa,Mercado Libre,7,Vendedor_7,5,48,0.0,240.0,paid
+902,2025-11-19 16:54:17,206,3,Remera Básica,Ropa,Facebook,4,Vendedor_4,3,41,0.0,123.0,pending
+903,2026-02-23 16:54:17,368,5,Pantalón Chino,Ropa,Facebook,6,Vendedor_6,2,35,0.0,70.0,pending
+904,2026-02-15 16:54:17,148,16,Sandalias Beach,Calzado,Facebook,4,Vendedor_4,2,84,0.1,151.2,pending
+905,2025-11-27 16:54:17,373,5,Pantalón Chino,Ropa,Instagram,4,Vendedor_4,5,47,0.1,211.5,pending
+906,2025-12-03 16:54:17,121,6,Pantalón Cargo,Ropa,Facebook,3,Vendedor_3,1,57,0.1,51.3,paid
+907,2025-10-19 16:54:17,69,12,Short Deportivo,Ropa,Web,8,Vendedor_8,1,21,0.15,17.85,pending
+908,2025-12-09 16:54:17,49,7,Campera Rompeviento,Ropa,Mercado Libre,7,Vendedor_7,5,52,0.0,260.0,paid
+909,2026-01-16 16:54:17,130,11,Buzo Hoodie,Ropa,Facebook,8,Vendedor_8,3,25,0.0,75.0,pending
+910,2025-09-27 16:54:17,298,13,Medias Training,Accesorios,Instagram,6,Vendedor_6,2,45,0.0,90.0,pending
+911,2025-11-09 16:54:17,46,6,Pantalón Cargo,Ropa,Web,8,Vendedor_8,3,79,0.05,225.15,pending
+912,2026-01-10 16:54:17,256,5,Pantalón Chino,Ropa,Web,2,Vendedor_2,3,25,0.05,71.25,pending
+913,2026-01-04 16:54:17,265,14,Cinturón Casual,Accesorios,Web,5,Vendedor_5,5,58,0.1,261.0,pending
+914,2025-12-27 16:54:17,97,6,Pantalón Cargo,Ropa,Instagram,8,Vendedor_8,2,76,0.0,152.0,paid
+915,2026-01-30 16:54:17,362,8,Campera Denim,Ropa,Facebook,1,Vendedor_1,4,53,0.05,201.4,pending
+916,2025-11-11 16:54:17,249,4,Remera Oversize,Ropa,Facebook,1,Vendedor_1,4,65,0.2,208.0,pending
+917,2026-02-08 16:54:17,445,4,Remera Oversize,Ropa,Web,2,Vendedor_2,3,31,0.05,88.35,paid
+918,2025-11-07 16:54:17,498,6,Pantalón Cargo,Ropa,Mercado Libre,5,Vendedor_5,5,47,0.2,188.0,paid
+919,2026-02-26 16:54:17,455,14,Cinturón Casual,Accesorios,Web,4,Vendedor_4,4,53,0.0,212.0,paid
+920,2025-09-24 16:54:17,476,10,Mochila City,Accesorios,Mercado Libre,2,Vendedor_2,4,33,0.2,105.6,pending
+921,2026-03-10 16:54:17,322,5,Pantalón Chino,Ropa,Web,2,Vendedor_2,4,81,0.15,275.4,paid
+922,2026-03-06 16:54:17,67,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,4,61,0.2,195.2,paid
+923,2025-12-25 16:54:17,196,10,Mochila City,Accesorios,Mercado Libre,1,Vendedor_1,1,45,0.2,36.0,pending
+924,2026-01-31 16:54:17,437,9,Gorra Classic,Accesorios,Instagram,4,Vendedor_4,4,15,0.0,60.0,paid
+925,2025-12-04 16:54:17,252,13,Medias Training,Accesorios,Facebook,5,Vendedor_5,2,17,0.1,30.6,pending
+926,2026-02-12 16:54:17,103,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,1,33,0.2,26.4,pending
+927,2025-11-16 16:54:17,47,13,Medias Training,Accesorios,Facebook,5,Vendedor_5,5,48,0.15,204.0,pending
+928,2026-01-29 16:54:17,263,20,Piluso Trend,Accesorios,Web,7,Vendedor_7,4,15,0.0,60.0,pending
+929,2025-10-03 16:54:17,43,8,Campera Denim,Ropa,Web,3,Vendedor_3,4,87,0.2,278.4,pending
+930,2026-02-25 16:54:17,351,14,Cinturón Casual,Accesorios,Web,8,Vendedor_8,3,19,0.05,54.15,paid
+931,2025-11-28 16:54:17,40,17,Camisa Oxford,Ropa,Mercado Libre,5,Vendedor_5,5,26,0.2,104.0,paid
+932,2025-11-29 16:54:17,417,17,Camisa Oxford,Ropa,Web,7,Vendedor_7,1,79,0.2,63.2,pending
+933,2025-10-19 16:54:17,380,9,Gorra Classic,Accesorios,Facebook,2,Vendedor_2,5,11,0.0,55.0,paid
+934,2025-12-07 16:54:17,161,6,Pantalón Cargo,Ropa,Facebook,1,Vendedor_1,1,73,0.1,65.7,pending
+935,2026-01-09 16:54:17,41,20,Piluso Trend,Accesorios,Web,6,Vendedor_6,2,23,0.05,43.7,paid
+936,2025-11-01 16:54:17,7,14,Cinturón Casual,Accesorios,Instagram,1,Vendedor_1,1,35,0.0,35.0,pending
+937,2025-09-21 16:54:17,156,15,Botas Trekking,Calzado,Web,7,Vendedor_7,5,152,0.15,646.0,pending
+938,2026-02-23 16:54:17,58,10,Mochila City,Accesorios,Mercado Libre,3,Vendedor_3,2,10,0.05,19.0,paid
+939,2026-01-23 16:54:17,224,1,Zapatillas Urban,Calzado,Instagram,8,Vendedor_8,2,143,0.05,271.7,paid
+940,2025-11-19 16:54:17,60,10,Mochila City,Accesorios,Instagram,3,Vendedor_3,4,37,0.0,148.0,paid
+941,2025-11-13 16:54:17,300,15,Botas Trekking,Calzado,Instagram,8,Vendedor_8,1,170,0.15,144.5,paid
+942,2025-10-23 16:54:17,53,10,Mochila City,Accesorios,Facebook,7,Vendedor_7,1,31,0.0,31.0,pending
+943,2025-10-20 16:54:17,250,16,Sandalias Beach,Calzado,Facebook,10,Vendedor_10,5,97,0.0,485.0,pending
+944,2025-10-17 16:54:17,271,17,Camisa Oxford,Ropa,Mercado Libre,10,Vendedor_10,4,49,0.0,196.0,pending
+945,2025-12-27 16:54:17,456,19,Riñonera Sport,Accesorios,Facebook,9,Vendedor_9,1,27,0.15,22.95,paid
+946,2025-10-09 16:54:17,11,16,Sandalias Beach,Calzado,Instagram,6,Vendedor_6,4,149,0.15,506.6,pending
+947,2025-11-17 16:54:17,113,7,Campera Rompeviento,Ropa,Web,6,Vendedor_6,4,49,0.2,156.8,pending
+948,2026-01-01 16:54:17,410,5,Pantalón Chino,Ropa,Instagram,7,Vendedor_7,4,66,0.15,224.4,paid
+949,2025-09-22 16:54:17,103,10,Mochila City,Accesorios,Instagram,2,Vendedor_2,4,18,0.05,68.4,pending
+950,2025-12-01 16:54:17,286,4,Remera Oversize,Ropa,Mercado Libre,8,Vendedor_8,3,50,0.05,142.5,paid
+951,2026-01-10 16:54:17,17,12,Short Deportivo,Ropa,Mercado Libre,6,Vendedor_6,2,42,0.2,67.2,pending
+952,2026-02-16 16:54:17,115,14,Cinturón Casual,Accesorios,Facebook,10,Vendedor_10,2,17,0.2,27.2,pending
+953,2025-12-17 16:54:17,437,11,Buzo Hoodie,Ropa,Mercado Libre,1,Vendedor_1,5,54,0.05,256.5,paid
+954,2025-11-20 16:54:17,313,15,Botas Trekking,Calzado,Mercado Libre,2,Vendedor_2,1,160,0.2,128.0,paid
+955,2026-02-19 16:54:17,81,17,Camisa Oxford,Ropa,Web,3,Vendedor_3,1,46,0.1,41.4,pending
+956,2025-11-10 16:54:17,420,17,Camisa Oxford,Ropa,Instagram,2,Vendedor_2,2,66,0.1,118.8,paid
+957,2025-11-25 16:54:17,175,7,Campera Rompeviento,Ropa,Web,7,Vendedor_7,1,51,0.15,43.35,paid
+958,2026-01-08 16:54:17,78,3,Remera Básica,Ropa,Facebook,6,Vendedor_6,4,66,0.05,250.8,paid
+959,2025-11-28 16:54:17,407,5,Pantalón Chino,Ropa,Web,7,Vendedor_7,4,78,0.2,249.6,paid
+960,2026-02-08 16:54:17,44,15,Botas Trekking,Calzado,Web,1,Vendedor_1,5,180,0.0,900.0,pending
+961,2026-02-03 16:54:17,339,13,Medias Training,Accesorios,Instagram,7,Vendedor_7,1,35,0.0,35.0,paid
+962,2026-01-01 16:54:17,370,17,Camisa Oxford,Ropa,Web,7,Vendedor_7,4,90,0.1,324.0,pending
+963,2026-01-05 16:54:17,359,1,Zapatillas Urban,Calzado,Facebook,9,Vendedor_9,5,177,0.05,840.75,pending
+964,2025-10-29 16:54:17,455,7,Campera Rompeviento,Ropa,Facebook,10,Vendedor_10,5,76,0.1,342.0,paid
+965,2026-02-24 16:54:17,372,10,Mochila City,Accesorios,Instagram,1,Vendedor_1,5,31,0.15,131.75,pending
+966,2026-02-22 16:54:17,175,7,Campera Rompeviento,Ropa,Instagram,9,Vendedor_9,5,59,0.2,236.0,paid
+967,2025-10-30 16:54:17,372,1,Zapatillas Urban,Calzado,Facebook,10,Vendedor_10,3,90,0.1,243.0,paid
+968,2025-12-12 16:54:17,25,2,Zapatillas Running,Calzado,Mercado Libre,5,Vendedor_5,5,105,0.0,525.0,pending
+969,2025-10-22 16:54:17,413,10,Mochila City,Accesorios,Instagram,1,Vendedor_1,4,31,0.05,117.8,pending
+970,2026-01-04 16:54:17,267,10,Mochila City,Accesorios,Instagram,10,Vendedor_10,2,55,0.15,93.5,paid
+971,2025-11-05 16:54:17,51,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,2,66,0.15,112.2,pending
+972,2026-02-25 16:54:17,244,14,Cinturón Casual,Accesorios,Instagram,2,Vendedor_2,1,37,0.05,35.15,pending
+973,2025-12-13 16:54:17,447,3,Remera Básica,Ropa,Web,9,Vendedor_9,4,86,0.15,292.4,pending
+974,2025-11-25 16:54:17,259,14,Cinturón Casual,Accesorios,Instagram,8,Vendedor_8,4,20,0.05,76.0,pending
+975,2026-02-12 16:54:17,234,15,Botas Trekking,Calzado,Facebook,9,Vendedor_9,5,75,0.05,356.25,paid
+976,2025-10-25 16:54:17,62,6,Pantalón Cargo,Ropa,Web,6,Vendedor_6,1,72,0.0,72.0,pending
+977,2025-11-04 16:54:17,192,2,Zapatillas Running,Calzado,Web,3,Vendedor_3,1,107,0.1,96.3,pending
+978,2026-03-10 16:54:17,216,16,Sandalias Beach,Calzado,Mercado Libre,3,Vendedor_3,2,160,0.2,256.0,pending
+979,2026-01-21 16:54:17,281,10,Mochila City,Accesorios,Web,3,Vendedor_3,4,10,0.0,40.0,paid
+980,2025-12-01 16:54:17,232,2,Zapatillas Running,Calzado,Web,8,Vendedor_8,5,99,0.2,396.0,pending
+981,2025-10-13 16:54:17,390,16,Sandalias Beach,Calzado,Facebook,3,Vendedor_3,2,124,0.15,210.8,pending
+982,2025-12-24 16:54:17,120,5,Pantalón Chino,Ropa,Facebook,2,Vendedor_2,5,72,0.15,306.0,pending
+983,2026-03-06 16:54:17,363,18,Camisa Lino,Ropa,Mercado Libre,8,Vendedor_8,3,31,0.05,88.35,pending
+984,2025-10-03 16:54:17,490,18,Camisa Lino,Ropa,Mercado Libre,2,Vendedor_2,5,30,0.05,142.5,paid
+985,2025-11-09 16:54:17,93,16,Sandalias Beach,Calzado,Mercado Libre,1,Vendedor_1,1,144,0.2,115.2,pending
+986,2026-01-14 16:54:17,311,7,Campera Rompeviento,Ropa,Web,10,Vendedor_10,4,30,0.2,96.0,pending
+987,2026-03-06 16:54:17,93,19,Riñonera Sport,Accesorios,Facebook,8,Vendedor_8,1,31,0.15,26.35,paid
+988,2025-12-26 16:54:17,51,17,Camisa Oxford,Ropa,Instagram,7,Vendedor_7,3,31,0.0,93.0,pending
+989,2026-01-30 16:54:17,488,5,Pantalón Chino,Ropa,Facebook,5,Vendedor_5,1,39,0.1,35.1,paid
+990,2025-10-11 16:54:17,153,2,Zapatillas Running,Calzado,Facebook,6,Vendedor_6,2,63,0.0,126.0,paid
+991,2026-02-09 16:54:17,483,11,Buzo Hoodie,Ropa,Mercado Libre,7,Vendedor_7,3,53,0.15,135.15,paid
+992,2026-01-15 16:54:17,261,7,Campera Rompeviento,Ropa,Facebook,10,Vendedor_10,5,50,0.15,212.5,paid
+993,2026-03-02 16:54:17,34,9,Gorra Classic,Accesorios,Facebook,6,Vendedor_6,4,45,0.15,153.0,paid
+994,2025-10-06 16:54:17,494,14,Cinturón Casual,Accesorios,Mercado Libre,4,Vendedor_4,1,27,0.2,21.6,paid
+995,2025-10-02 16:54:17,43,18,Camisa Lino,Ropa,Instagram,3,Vendedor_3,3,72,0.15,183.6,paid
+996,2025-10-30 16:54:17,493,12,Short Deportivo,Ropa,Facebook,3,Vendedor_3,2,88,0.15,149.6,paid
+997,2025-11-19 16:54:17,1,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,3,143,0.05,407.55,pending
+998,2025-10-15 16:54:17,300,9,Gorra Classic,Accesorios,Web,5,Vendedor_5,4,32,0.05,121.6,paid
+999,2025-11-01 16:54:17,203,6,Pantalón Cargo,Ropa,Mercado Libre,10,Vendedor_10,1,58,0.0,58.0,paid
+1000,2026-01-05 16:54:17,453,18,Camisa Lino,Ropa,Web,7,Vendedor_7,2,84,0.1,151.2,pending
+1001,2026-01-07 16:54:17,236,15,Botas Trekking,Calzado,Web,4,Vendedor_4,3,103,0.05,293.55,paid
+1002,2025-10-03 16:54:17,462,5,Pantalón Chino,Ropa,Mercado Libre,1,Vendedor_1,5,80,0.0,400.0,paid
+1003,2025-10-26 16:54:17,404,14,Cinturón Casual,Accesorios,Mercado Libre,8,Vendedor_8,4,44,0.0,176.0,paid
+1004,2025-09-26 16:54:17,424,15,Botas Trekking,Calzado,Web,2,Vendedor_2,3,164,0.15,418.2,pending
+1005,2025-09-20 16:54:17,480,6,Pantalón Cargo,Ropa,Instagram,1,Vendedor_1,1,79,0.1,71.1,pending
+1006,2026-01-20 16:54:17,99,1,Zapatillas Urban,Calzado,Mercado Libre,1,Vendedor_1,3,147,0.1,396.9,pending
+1007,2026-01-17 16:54:17,253,8,Campera Denim,Ropa,Instagram,8,Vendedor_8,3,24,0.1,64.8,paid
+1008,2025-10-05 16:54:17,257,7,Campera Rompeviento,Ropa,Facebook,7,Vendedor_7,1,55,0.2,44.0,paid
+1009,2026-01-27 16:54:17,302,18,Camisa Lino,Ropa,Instagram,10,Vendedor_10,5,42,0.0,210.0,paid
+1010,2026-01-10 16:54:17,99,5,Pantalón Chino,Ropa,Mercado Libre,10,Vendedor_10,2,86,0.1,154.8,pending
+1011,2025-11-21 16:54:17,222,18,Camisa Lino,Ropa,Facebook,1,Vendedor_1,4,26,0.1,93.6,pending
+1012,2025-09-24 16:54:17,265,4,Remera Oversize,Ropa,Mercado Libre,9,Vendedor_9,4,83,0.1,298.8,paid
+1013,2026-01-05 16:54:17,3,2,Zapatillas Running,Calzado,Facebook,7,Vendedor_7,5,117,0.1,526.5,paid
+1014,2026-02-25 16:54:17,491,11,Buzo Hoodie,Ropa,Mercado Libre,10,Vendedor_10,1,48,0.15,40.8,paid
+1015,2026-02-03 16:54:17,15,7,Campera Rompeviento,Ropa,Facebook,6,Vendedor_6,3,28,0.0,84.0,pending
+1016,2025-10-17 16:54:17,243,1,Zapatillas Urban,Calzado,Instagram,6,Vendedor_6,3,91,0.0,273.0,pending
+1017,2025-12-22 16:54:17,398,2,Zapatillas Running,Calzado,Facebook,9,Vendedor_9,2,180,0.0,360.0,paid
+1018,2025-10-20 16:54:17,194,15,Botas Trekking,Calzado,Web,2,Vendedor_2,1,67,0.0,67.0,paid
+1019,2026-03-02 16:54:17,321,5,Pantalón Chino,Ropa,Facebook,8,Vendedor_8,1,58,0.2,46.4,paid
+1020,2025-09-25 16:54:17,436,4,Remera Oversize,Ropa,Facebook,1,Vendedor_1,5,26,0.1,117.0,pending
+1021,2025-10-10 16:54:17,197,4,Remera Oversize,Ropa,Facebook,7,Vendedor_7,2,21,0.15,35.7,pending
+1022,2025-10-10 16:54:17,233,20,Piluso Trend,Accesorios,Web,2,Vendedor_2,3,51,0.0,153.0,paid
+1023,2026-02-19 16:54:17,405,4,Remera Oversize,Ropa,Instagram,1,Vendedor_1,5,28,0.2,112.0,paid
+1024,2026-01-11 16:54:17,228,17,Camisa Oxford,Ropa,Instagram,6,Vendedor_6,4,81,0.2,259.2,paid
+1025,2026-03-06 16:54:17,224,5,Pantalón Chino,Ropa,Web,1,Vendedor_1,2,59,0.2,94.4,pending
+1026,2025-10-30 16:54:17,309,19,Riñonera Sport,Accesorios,Web,3,Vendedor_3,2,40,0.1,72.0,pending
+1027,2026-03-15 16:54:17,122,12,Short Deportivo,Ropa,Mercado Libre,9,Vendedor_9,5,38,0.0,190.0,pending
+1028,2026-01-26 16:54:17,97,12,Short Deportivo,Ropa,Facebook,4,Vendedor_4,2,28,0.1,50.4,pending
+1029,2025-09-21 16:54:17,316,20,Piluso Trend,Accesorios,Web,6,Vendedor_6,5,46,0.1,207.0,pending
+1030,2026-02-04 16:54:17,113,11,Buzo Hoodie,Ropa,Mercado Libre,2,Vendedor_2,4,25,0.15,85.0,paid
+1031,2025-11-18 16:54:17,377,8,Campera Denim,Ropa,Web,10,Vendedor_10,2,50,0.15,85.0,pending
+1032,2025-12-05 16:54:17,38,7,Campera Rompeviento,Ropa,Web,3,Vendedor_3,1,66,0.0,66.0,paid
+1033,2026-02-16 16:54:17,324,18,Camisa Lino,Ropa,Web,3,Vendedor_3,3,76,0.05,216.6,paid
+1034,2026-01-26 16:54:17,454,1,Zapatillas Urban,Calzado,Web,4,Vendedor_4,3,82,0.05,233.7,paid
+1035,2025-10-27 16:54:17,91,11,Buzo Hoodie,Ropa,Web,4,Vendedor_4,2,45,0.0,90.0,paid
+1036,2025-09-25 16:54:17,174,1,Zapatillas Urban,Calzado,Instagram,3,Vendedor_3,4,143,0.0,572.0,pending
+1037,2026-01-15 16:54:17,482,15,Botas Trekking,Calzado,Facebook,6,Vendedor_6,3,144,0.05,410.4,paid
+1038,2026-02-09 16:54:17,194,4,Remera Oversize,Ropa,Web,3,Vendedor_3,2,44,0.2,70.4,pending
+1039,2025-11-28 16:54:17,301,20,Piluso Trend,Accesorios,Instagram,4,Vendedor_4,1,58,0.2,46.4,pending
+1040,2025-12-24 16:54:17,436,5,Pantalón Chino,Ropa,Facebook,4,Vendedor_4,1,55,0.05,52.25,paid
+1041,2025-11-17 16:54:17,199,3,Remera Básica,Ropa,Web,10,Vendedor_10,1,41,0.2,32.8,pending
+1042,2025-11-19 16:54:17,356,17,Camisa Oxford,Ropa,Facebook,3,Vendedor_3,3,67,0.2,160.8,pending
+1043,2026-01-08 16:54:17,333,16,Sandalias Beach,Calzado,Mercado Libre,10,Vendedor_10,4,141,0.2,451.2,paid
+1044,2026-01-25 16:54:17,157,8,Campera Denim,Ropa,Facebook,8,Vendedor_8,2,70,0.05,133.0,pending
+1045,2026-02-05 16:54:17,69,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,3,45,0.0,135.0,pending
+1046,2025-11-05 16:54:17,239,15,Botas Trekking,Calzado,Web,6,Vendedor_6,2,134,0.0,268.0,pending
+1047,2025-11-18 16:54:17,163,15,Botas Trekking,Calzado,Web,7,Vendedor_7,4,107,0.15,363.8,pending
+1048,2026-01-31 16:54:17,184,1,Zapatillas Urban,Calzado,Mercado Libre,8,Vendedor_8,2,93,0.0,186.0,pending
+1049,2025-11-06 16:54:17,51,17,Camisa Oxford,Ropa,Mercado Libre,9,Vendedor_9,1,55,0.05,52.25,paid
+1050,2026-03-08 16:54:17,346,12,Short Deportivo,Ropa,Web,9,Vendedor_9,2,62,0.05,117.8,pending
+1051,2025-09-24 16:54:17,71,10,Mochila City,Accesorios,Web,5,Vendedor_5,2,55,0.2,88.0,paid
+1052,2026-01-04 16:54:17,388,10,Mochila City,Accesorios,Mercado Libre,6,Vendedor_6,4,35,0.2,112.0,pending
+1053,2026-02-07 16:54:17,243,17,Camisa Oxford,Ropa,Instagram,7,Vendedor_7,2,49,0.05,93.1,pending
+1054,2025-12-20 16:54:17,220,15,Botas Trekking,Calzado,Facebook,2,Vendedor_2,3,168,0.05,478.8,paid
+1055,2025-11-22 16:54:17,296,15,Botas Trekking,Calzado,Instagram,9,Vendedor_9,1,107,0.05,101.65,pending
+1056,2025-11-10 16:54:17,218,1,Zapatillas Urban,Calzado,Facebook,6,Vendedor_6,3,88,0.15,224.4,pending
+1057,2025-10-18 16:54:17,79,11,Buzo Hoodie,Ropa,Web,1,Vendedor_1,5,24,0.05,114.0,pending
+1058,2026-01-24 16:54:17,97,13,Medias Training,Accesorios,Facebook,7,Vendedor_7,1,44,0.15,37.4,paid
+1059,2025-10-23 16:54:17,54,11,Buzo Hoodie,Ropa,Instagram,8,Vendedor_8,3,31,0.05,88.35,paid
+1060,2025-11-12 16:54:17,467,20,Piluso Trend,Accesorios,Facebook,1,Vendedor_1,2,22,0.0,44.0,pending
+1061,2026-01-17 16:54:17,30,7,Campera Rompeviento,Ropa,Web,5,Vendedor_5,5,28,0.15,119.0,paid
+1062,2025-12-24 16:54:17,67,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,4,40,0.0,160.0,pending
+1063,2025-12-08 16:54:17,222,3,Remera Básica,Ropa,Facebook,4,Vendedor_4,2,46,0.1,82.8,paid
+1064,2025-10-21 16:54:17,367,20,Piluso Trend,Accesorios,Facebook,5,Vendedor_5,5,22,0.2,88.0,pending
+1065,2026-03-16 16:54:17,310,7,Campera Rompeviento,Ropa,Instagram,3,Vendedor_3,4,28,0.15,95.2,pending
+1066,2025-11-12 16:54:17,378,19,Riñonera Sport,Accesorios,Mercado Libre,8,Vendedor_8,4,46,0.0,184.0,pending
+1067,2025-12-19 16:54:17,213,15,Botas Trekking,Calzado,Instagram,5,Vendedor_5,4,138,0.05,524.4,paid
+1068,2025-11-27 16:54:17,358,20,Piluso Trend,Accesorios,Mercado Libre,8,Vendedor_8,4,52,0.05,197.6,pending
+1069,2026-01-15 16:54:17,150,2,Zapatillas Running,Calzado,Mercado Libre,3,Vendedor_3,3,172,0.2,412.8,paid
+1070,2025-12-02 16:54:17,387,16,Sandalias Beach,Calzado,Mercado Libre,9,Vendedor_9,1,107,0.0,107.0,pending
+1071,2025-11-22 16:54:17,23,14,Cinturón Casual,Accesorios,Facebook,3,Vendedor_3,3,23,0.2,55.2,paid
+1072,2025-10-05 16:54:17,439,3,Remera Básica,Ropa,Instagram,8,Vendedor_8,4,63,0.15,214.2,pending
+1073,2026-03-15 16:54:17,168,2,Zapatillas Running,Calzado,Facebook,5,Vendedor_5,1,150,0.05,142.5,pending
+1074,2026-02-28 16:54:17,366,15,Botas Trekking,Calzado,Facebook,2,Vendedor_2,5,144,0.05,684.0,paid
+1075,2026-01-05 16:54:17,311,16,Sandalias Beach,Calzado,Mercado Libre,3,Vendedor_3,2,167,0.0,334.0,paid
+1076,2026-02-14 16:54:17,344,10,Mochila City,Accesorios,Mercado Libre,9,Vendedor_9,4,20,0.0,80.0,pending
+1077,2025-11-25 16:54:17,458,5,Pantalón Chino,Ropa,Instagram,6,Vendedor_6,2,47,0.0,94.0,pending
+1078,2025-10-06 16:54:17,228,2,Zapatillas Running,Calzado,Mercado Libre,9,Vendedor_9,1,109,0.1,98.1,paid
+1079,2025-12-11 16:54:17,103,2,Zapatillas Running,Calzado,Mercado Libre,4,Vendedor_4,2,107,0.05,203.3,paid
+1080,2026-03-10 16:54:17,113,14,Cinturón Casual,Accesorios,Mercado Libre,1,Vendedor_1,3,22,0.0,66.0,paid
+1081,2026-03-06 16:54:17,166,6,Pantalón Cargo,Ropa,Instagram,7,Vendedor_7,5,33,0.1,148.5,paid
+1082,2025-12-06 16:54:17,55,18,Camisa Lino,Ropa,Web,7,Vendedor_7,1,49,0.05,46.55,pending
+1083,2026-03-14 16:54:17,109,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,3,21,0.15,53.55,paid
+1084,2025-09-30 16:54:17,35,3,Remera Básica,Ropa,Instagram,5,Vendedor_5,5,67,0.0,335.0,pending
+1085,2025-10-15 16:54:17,406,10,Mochila City,Accesorios,Instagram,8,Vendedor_8,1,55,0.2,44.0,pending
+1086,2025-10-15 16:54:17,90,4,Remera Oversize,Ropa,Web,6,Vendedor_6,4,37,0.1,133.2,pending
+1087,2025-12-22 16:54:17,262,3,Remera Básica,Ropa,Instagram,1,Vendedor_1,5,77,0.15,327.25,paid
+1088,2026-03-12 16:54:17,378,8,Campera Denim,Ropa,Facebook,10,Vendedor_10,1,59,0.05,56.05,paid
+1089,2026-02-25 16:54:17,152,20,Piluso Trend,Accesorios,Instagram,1,Vendedor_1,2,33,0.15,56.1,paid
+1090,2026-01-24 16:54:17,485,13,Medias Training,Accesorios,Facebook,1,Vendedor_1,2,56,0.2,89.6,pending
+1091,2026-01-05 16:54:17,332,5,Pantalón Chino,Ropa,Web,6,Vendedor_6,1,86,0.15,73.1,paid
+1092,2025-12-23 16:54:17,28,8,Campera Denim,Ropa,Instagram,6,Vendedor_6,2,46,0.2,73.6,paid
+1093,2025-12-10 16:54:17,323,20,Piluso Trend,Accesorios,Mercado Libre,9,Vendedor_9,3,21,0.15,53.55,paid
+1094,2026-02-28 16:54:17,481,16,Sandalias Beach,Calzado,Instagram,4,Vendedor_4,1,141,0.05,133.95,paid
+1095,2026-02-01 16:54:17,260,3,Remera Básica,Ropa,Mercado Libre,10,Vendedor_10,5,46,0.05,218.5,pending
+1096,2025-12-28 16:54:17,91,15,Botas Trekking,Calzado,Instagram,3,Vendedor_3,2,91,0.15,154.7,pending
+1097,2025-10-21 16:54:17,41,10,Mochila City,Accesorios,Web,8,Vendedor_8,2,27,0.15,45.9,pending
+1098,2026-02-03 16:54:17,313,13,Medias Training,Accesorios,Facebook,8,Vendedor_8,4,37,0.2,118.4,paid
+1099,2026-03-12 16:54:17,389,16,Sandalias Beach,Calzado,Web,7,Vendedor_7,4,169,0.0,676.0,paid
+1100,2026-02-01 16:54:17,233,18,Camisa Lino,Ropa,Web,5,Vendedor_5,4,79,0.1,284.4,pending
+1101,2025-10-13 16:54:17,367,18,Camisa Lino,Ropa,Facebook,8,Vendedor_8,1,62,0.05,58.9,paid
+1102,2026-01-28 16:54:17,252,5,Pantalón Chino,Ropa,Facebook,1,Vendedor_1,1,84,0.1,75.6,pending
+1103,2025-12-12 16:54:17,37,13,Medias Training,Accesorios,Facebook,7,Vendedor_7,4,29,0.2,92.8,paid
+1104,2025-12-09 16:54:17,491,4,Remera Oversize,Ropa,Web,10,Vendedor_10,2,44,0.15,74.8,pending
+1105,2025-11-12 16:54:17,377,17,Camisa Oxford,Ropa,Instagram,6,Vendedor_6,1,69,0.15,58.65,paid
+1106,2026-03-09 16:54:17,134,16,Sandalias Beach,Calzado,Facebook,6,Vendedor_6,1,149,0.05,141.55,paid
+1107,2026-01-13 16:54:17,7,9,Gorra Classic,Accesorios,Mercado Libre,10,Vendedor_10,5,52,0.05,247.0,paid
+1108,2025-12-06 16:54:17,449,13,Medias Training,Accesorios,Facebook,10,Vendedor_10,1,43,0.05,40.85,paid
+1109,2026-01-12 16:54:17,301,14,Cinturón Casual,Accesorios,Web,5,Vendedor_5,5,44,0.15,187.0,pending
+1110,2026-02-18 16:54:17,384,3,Remera Básica,Ropa,Instagram,10,Vendedor_10,3,38,0.1,102.6,pending
+1111,2026-03-16 16:54:17,36,10,Mochila City,Accesorios,Facebook,3,Vendedor_3,4,10,0.0,40.0,pending
+1112,2025-11-27 16:54:17,361,10,Mochila City,Accesorios,Instagram,3,Vendedor_3,2,33,0.05,62.7,paid
+1113,2026-01-30 16:54:17,417,16,Sandalias Beach,Calzado,Instagram,9,Vendedor_9,1,117,0.2,93.6,paid
+1114,2026-03-02 16:54:17,226,7,Campera Rompeviento,Ropa,Mercado Libre,3,Vendedor_3,2,53,0.15,90.1,paid
+1115,2026-01-01 16:54:17,33,3,Remera Básica,Ropa,Web,2,Vendedor_2,4,35,0.1,126.0,paid
+1116,2026-01-16 16:54:17,5,19,Riñonera Sport,Accesorios,Mercado Libre,8,Vendedor_8,4,53,0.0,212.0,pending
+1117,2025-09-28 16:54:17,268,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,1,72,0.05,68.4,pending
+1118,2025-11-04 16:54:17,310,20,Piluso Trend,Accesorios,Facebook,5,Vendedor_5,4,40,0.1,144.0,pending
+1119,2025-09-24 16:54:17,341,12,Short Deportivo,Ropa,Facebook,6,Vendedor_6,3,50,0.1,135.0,pending
+1120,2026-03-03 16:54:17,234,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,3,16,0.0,48.0,paid
+1121,2025-10-14 16:54:17,189,1,Zapatillas Urban,Calzado,Facebook,2,Vendedor_2,5,95,0.05,451.25,pending
+1122,2025-12-02 16:54:17,325,17,Camisa Oxford,Ropa,Web,4,Vendedor_4,1,61,0.0,61.0,paid
+1123,2025-09-25 16:54:17,379,11,Buzo Hoodie,Ropa,Mercado Libre,8,Vendedor_8,2,82,0.15,139.4,pending
+1124,2025-11-16 16:54:17,100,14,Cinturón Casual,Accesorios,Instagram,2,Vendedor_2,4,28,0.2,89.6,paid
+1125,2025-11-10 16:54:17,87,5,Pantalón Chino,Ropa,Facebook,2,Vendedor_2,3,90,0.15,229.5,paid
+1126,2025-09-29 16:54:17,88,16,Sandalias Beach,Calzado,Mercado Libre,9,Vendedor_9,2,91,0.05,172.9,paid
+1127,2026-03-10 16:54:17,113,14,Cinturón Casual,Accesorios,Web,3,Vendedor_3,3,34,0.1,91.8,pending
+1128,2025-09-28 16:54:17,408,4,Remera Oversize,Ropa,Web,3,Vendedor_3,5,82,0.0,410.0,paid
+1129,2025-10-15 16:54:17,335,19,Riñonera Sport,Accesorios,Facebook,2,Vendedor_2,3,34,0.15,86.7,paid
+1130,2026-01-10 16:54:17,46,8,Campera Denim,Ropa,Web,2,Vendedor_2,3,31,0.0,93.0,paid
+1131,2025-10-22 16:54:17,296,4,Remera Oversize,Ropa,Mercado Libre,6,Vendedor_6,2,60,0.15,102.0,pending
+1132,2025-10-17 16:54:17,217,2,Zapatillas Running,Calzado,Web,9,Vendedor_9,2,168,0.15,285.6,pending
+1133,2025-11-04 16:54:17,203,5,Pantalón Chino,Ropa,Mercado Libre,10,Vendedor_10,5,48,0.0,240.0,pending
+1134,2026-02-08 16:54:17,76,11,Buzo Hoodie,Ropa,Web,5,Vendedor_5,2,83,0.15,141.1,paid
+1135,2025-10-15 16:54:17,141,2,Zapatillas Running,Calzado,Facebook,6,Vendedor_6,3,124,0.0,372.0,paid
+1136,2026-01-02 16:54:17,79,16,Sandalias Beach,Calzado,Instagram,7,Vendedor_7,1,163,0.1,146.7,paid
+1137,2026-01-31 16:54:17,12,2,Zapatillas Running,Calzado,Facebook,8,Vendedor_8,4,98,0.05,372.4,pending
+1138,2025-09-25 16:54:17,201,14,Cinturón Casual,Accesorios,Mercado Libre,8,Vendedor_8,3,58,0.15,147.9,pending
+1139,2025-09-20 16:54:17,68,10,Mochila City,Accesorios,Web,4,Vendedor_4,5,35,0.0,175.0,paid
+1140,2025-11-20 16:54:17,357,10,Mochila City,Accesorios,Facebook,3,Vendedor_3,5,18,0.15,76.5,pending
+1141,2026-01-23 16:54:17,372,5,Pantalón Chino,Ropa,Mercado Libre,4,Vendedor_4,2,21,0.1,37.8,paid
+1142,2025-11-28 16:54:17,499,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,1,16,0.1,14.4,paid
+1143,2026-02-15 16:54:17,497,2,Zapatillas Running,Calzado,Instagram,9,Vendedor_9,3,135,0.15,344.25,pending
+1144,2026-03-09 16:54:17,155,8,Campera Denim,Ropa,Instagram,2,Vendedor_2,2,70,0.15,119.0,pending
+1145,2025-11-19 16:54:17,6,3,Remera Básica,Ropa,Mercado Libre,7,Vendedor_7,3,76,0.1,205.2,paid
+1146,2026-02-14 16:54:17,301,3,Remera Básica,Ropa,Facebook,8,Vendedor_8,5,48,0.0,240.0,pending
+1147,2025-10-17 16:54:17,153,4,Remera Oversize,Ropa,Instagram,3,Vendedor_3,4,81,0.15,275.4,paid
+1148,2026-03-01 16:54:17,202,11,Buzo Hoodie,Ropa,Facebook,9,Vendedor_9,2,71,0.0,142.0,paid
+1149,2025-10-19 16:54:17,93,17,Camisa Oxford,Ropa,Instagram,9,Vendedor_9,1,46,0.0,46.0,paid
+1150,2025-11-23 16:54:17,295,18,Camisa Lino,Ropa,Instagram,6,Vendedor_6,1,25,0.05,23.75,paid
+1151,2025-10-25 16:54:17,260,3,Remera Básica,Ropa,Web,5,Vendedor_5,1,30,0.0,30.0,pending
+1152,2026-02-02 16:54:17,24,18,Camisa Lino,Ropa,Web,7,Vendedor_7,1,51,0.1,45.9,pending
+1153,2025-10-21 16:54:17,311,5,Pantalón Chino,Ropa,Instagram,8,Vendedor_8,3,86,0.1,232.2,paid
+1154,2026-01-16 16:54:17,439,2,Zapatillas Running,Calzado,Instagram,1,Vendedor_1,2,78,0.1,140.4,paid
+1155,2025-10-27 16:54:17,66,20,Piluso Trend,Accesorios,Facebook,4,Vendedor_4,5,32,0.1,144.0,paid
+1156,2026-01-11 16:54:17,234,18,Camisa Lino,Ropa,Mercado Libre,5,Vendedor_5,4,40,0.15,136.0,pending
+1157,2025-09-21 16:54:17,323,14,Cinturón Casual,Accesorios,Web,3,Vendedor_3,5,23,0.0,115.0,paid
+1158,2025-10-24 16:54:17,421,12,Short Deportivo,Ropa,Instagram,9,Vendedor_9,5,40,0.15,170.0,pending
+1159,2025-12-10 16:54:17,139,14,Cinturón Casual,Accesorios,Mercado Libre,1,Vendedor_1,5,25,0.0,125.0,paid
+1160,2025-12-03 16:54:17,466,18,Camisa Lino,Ropa,Web,2,Vendedor_2,3,31,0.1,83.7,pending
+1161,2026-01-19 16:54:17,497,5,Pantalón Chino,Ropa,Instagram,5,Vendedor_5,1,32,0.15,27.2,pending
+1162,2026-02-14 16:54:17,421,4,Remera Oversize,Ropa,Facebook,3,Vendedor_3,5,59,0.2,236.0,paid
+1163,2025-12-18 16:54:17,312,17,Camisa Oxford,Ropa,Mercado Libre,10,Vendedor_10,3,90,0.1,243.0,paid
+1164,2025-12-26 16:54:17,283,6,Pantalón Cargo,Ropa,Facebook,7,Vendedor_7,2,64,0.2,102.4,pending
+1165,2026-02-13 16:54:17,366,19,Riñonera Sport,Accesorios,Instagram,5,Vendedor_5,1,53,0.2,42.4,paid
+1166,2025-12-11 16:54:17,363,5,Pantalón Chino,Ropa,Instagram,10,Vendedor_10,3,26,0.1,70.2,pending
+1167,2026-01-30 16:54:17,258,15,Botas Trekking,Calzado,Web,8,Vendedor_8,3,162,0.15,413.1,pending
+1168,2025-11-04 16:54:17,486,14,Cinturón Casual,Accesorios,Web,4,Vendedor_4,3,50,0.0,150.0,pending
+1169,2026-02-22 16:54:17,85,11,Buzo Hoodie,Ropa,Mercado Libre,2,Vendedor_2,1,50,0.0,50.0,paid
+1170,2025-10-27 16:54:17,478,10,Mochila City,Accesorios,Instagram,8,Vendedor_8,1,37,0.2,29.6,pending
+1171,2025-11-06 16:54:17,316,16,Sandalias Beach,Calzado,Instagram,9,Vendedor_9,1,111,0.0,111.0,paid
+1172,2025-09-19 16:54:17,351,14,Cinturón Casual,Accesorios,Mercado Libre,9,Vendedor_9,3,25,0.2,60.0,pending
+1173,2025-09-26 16:54:17,188,6,Pantalón Cargo,Ropa,Instagram,9,Vendedor_9,2,42,0.0,84.0,pending
+1174,2025-11-29 16:54:17,497,2,Zapatillas Running,Calzado,Mercado Libre,8,Vendedor_8,4,81,0.1,291.6,pending
+1175,2025-10-30 16:54:17,151,8,Campera Denim,Ropa,Web,2,Vendedor_2,3,58,0.15,147.9,paid
+1176,2025-10-07 16:54:17,476,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,4,87,0.1,313.2,pending
+1177,2025-11-13 16:54:17,236,20,Piluso Trend,Accesorios,Web,1,Vendedor_1,3,10,0.2,24.0,pending
+1178,2026-02-18 16:54:17,182,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,3,43,0.15,109.65,paid
+1179,2025-11-12 16:54:17,461,14,Cinturón Casual,Accesorios,Instagram,4,Vendedor_4,1,43,0.2,34.4,pending
+1180,2025-11-13 16:54:17,241,4,Remera Oversize,Ropa,Facebook,1,Vendedor_1,2,52,0.05,98.8,pending
+1181,2025-12-14 16:54:17,56,10,Mochila City,Accesorios,Facebook,7,Vendedor_7,2,44,0.1,79.2,pending
+1182,2026-02-10 16:54:17,453,6,Pantalón Cargo,Ropa,Instagram,6,Vendedor_6,4,20,0.1,72.0,paid
+1183,2026-01-04 16:54:17,381,7,Campera Rompeviento,Ropa,Web,1,Vendedor_1,2,70,0.15,119.0,paid
+1184,2025-09-28 16:54:17,216,6,Pantalón Cargo,Ropa,Facebook,4,Vendedor_4,4,54,0.0,216.0,pending
+1185,2025-12-24 16:54:17,57,5,Pantalón Chino,Ropa,Mercado Libre,7,Vendedor_7,5,69,0.05,327.75,paid
+1186,2026-02-06 16:54:17,27,5,Pantalón Chino,Ropa,Web,6,Vendedor_6,5,21,0.05,99.75,pending
+1187,2026-03-15 16:54:17,249,20,Piluso Trend,Accesorios,Mercado Libre,7,Vendedor_7,4,28,0.1,100.8,pending
+1188,2025-10-10 16:54:17,144,8,Campera Denim,Ropa,Mercado Libre,3,Vendedor_3,5,43,0.05,204.25,pending
+1189,2025-09-28 16:54:17,359,8,Campera Denim,Ropa,Instagram,7,Vendedor_7,2,80,0.0,160.0,paid
+1190,2025-10-07 16:54:17,206,19,Riñonera Sport,Accesorios,Mercado Libre,3,Vendedor_3,2,17,0.05,32.3,pending
+1191,2026-02-08 16:54:17,443,7,Campera Rompeviento,Ropa,Mercado Libre,7,Vendedor_7,1,45,0.0,45.0,pending
+1192,2025-11-03 16:54:17,219,14,Cinturón Casual,Accesorios,Facebook,5,Vendedor_5,2,24,0.1,43.2,paid
+1193,2025-11-28 16:54:17,187,17,Camisa Oxford,Ropa,Web,1,Vendedor_1,3,34,0.1,91.8,pending
+1194,2026-01-13 16:54:17,1,14,Cinturón Casual,Accesorios,Mercado Libre,6,Vendedor_6,1,21,0.0,21.0,pending
+1195,2026-01-03 16:54:17,95,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,3,32,0.15,81.6,pending
+1196,2025-12-22 16:54:17,350,12,Short Deportivo,Ropa,Instagram,5,Vendedor_5,1,32,0.0,32.0,pending
+1197,2025-12-15 16:54:17,333,12,Short Deportivo,Ropa,Web,10,Vendedor_10,5,67,0.05,318.25,paid
+1198,2025-12-09 16:54:17,62,19,Riñonera Sport,Accesorios,Mercado Libre,2,Vendedor_2,1,18,0.2,14.4,paid
+1199,2025-09-18 16:54:17,317,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,1,29,0.2,23.2,pending
+1200,2026-01-25 16:54:17,99,16,Sandalias Beach,Calzado,Facebook,9,Vendedor_9,2,65,0.05,123.5,pending
+1201,2025-12-19 16:54:17,35,18,Camisa Lino,Ropa,Facebook,6,Vendedor_6,4,35,0.15,119.0,pending
+1202,2025-11-09 16:54:17,149,17,Camisa Oxford,Ropa,Mercado Libre,1,Vendedor_1,2,55,0.05,104.5,paid
+1203,2025-12-06 16:54:17,85,7,Campera Rompeviento,Ropa,Facebook,8,Vendedor_8,5,85,0.0,425.0,pending
+1204,2025-12-08 16:54:17,95,18,Camisa Lino,Ropa,Mercado Libre,7,Vendedor_7,5,54,0.05,256.5,paid
+1205,2026-01-21 16:54:17,234,19,Riñonera Sport,Accesorios,Web,10,Vendedor_10,1,60,0.2,48.0,pending
+1206,2026-01-01 16:54:17,115,8,Campera Denim,Ropa,Mercado Libre,5,Vendedor_5,5,35,0.05,166.25,paid
+1207,2026-03-07 16:54:17,448,10,Mochila City,Accesorios,Mercado Libre,3,Vendedor_3,3,18,0.1,48.6,paid
+1208,2025-11-01 16:54:17,498,7,Campera Rompeviento,Ropa,Web,2,Vendedor_2,1,64,0.2,51.2,pending
+1209,2025-09-18 16:54:17,460,3,Remera Básica,Ropa,Web,9,Vendedor_9,3,37,0.15,94.35,pending
+1210,2025-10-08 16:54:17,91,2,Zapatillas Running,Calzado,Web,1,Vendedor_1,3,88,0.1,237.6,paid
+1211,2025-09-30 16:54:17,446,18,Camisa Lino,Ropa,Instagram,10,Vendedor_10,1,68,0.1,61.2,pending
+1212,2025-12-24 16:54:17,229,8,Campera Denim,Ropa,Instagram,5,Vendedor_5,2,70,0.05,133.0,pending
+1213,2026-02-08 16:54:17,236,12,Short Deportivo,Ropa,Instagram,8,Vendedor_8,1,83,0.05,78.85,paid
+1214,2025-10-23 16:54:17,159,7,Campera Rompeviento,Ropa,Instagram,8,Vendedor_8,2,56,0.0,112.0,paid
+1215,2025-09-23 16:54:17,37,13,Medias Training,Accesorios,Facebook,10,Vendedor_10,2,14,0.05,26.6,paid
+1216,2025-10-03 16:54:17,71,15,Botas Trekking,Calzado,Mercado Libre,7,Vendedor_7,1,152,0.2,121.6,paid
+1217,2025-12-09 16:54:17,68,13,Medias Training,Accesorios,Instagram,1,Vendedor_1,1,10,0.0,10.0,paid
+1218,2026-02-09 16:54:17,491,9,Gorra Classic,Accesorios,Mercado Libre,10,Vendedor_10,1,60,0.0,60.0,pending
+1219,2026-01-25 16:54:17,158,3,Remera Básica,Ropa,Web,3,Vendedor_3,4,76,0.05,288.8,pending
+1220,2026-01-14 16:54:17,64,5,Pantalón Chino,Ropa,Mercado Libre,1,Vendedor_1,5,54,0.2,216.0,paid
+1221,2025-10-29 16:54:17,73,4,Remera Oversize,Ropa,Mercado Libre,5,Vendedor_5,1,85,0.15,72.25,paid
+1222,2026-01-18 16:54:17,336,1,Zapatillas Urban,Calzado,Web,7,Vendedor_7,4,78,0.1,280.8,paid
+1223,2025-09-23 16:54:17,115,13,Medias Training,Accesorios,Mercado Libre,2,Vendedor_2,4,20,0.0,80.0,pending
+1224,2026-02-26 16:54:17,473,12,Short Deportivo,Ropa,Mercado Libre,10,Vendedor_10,3,35,0.1,94.5,paid
+1225,2026-02-07 16:54:17,308,20,Piluso Trend,Accesorios,Instagram,3,Vendedor_3,4,43,0.1,154.8,pending
+1226,2025-09-28 16:54:17,449,5,Pantalón Chino,Ropa,Mercado Libre,5,Vendedor_5,5,56,0.1,252.0,pending
+1227,2025-09-29 16:54:17,404,16,Sandalias Beach,Calzado,Mercado Libre,6,Vendedor_6,3,163,0.0,489.0,paid
+1228,2025-12-26 16:54:17,418,5,Pantalón Chino,Ropa,Mercado Libre,3,Vendedor_3,4,77,0.15,261.8,paid
+1229,2025-11-28 16:54:17,66,19,Riñonera Sport,Accesorios,Instagram,5,Vendedor_5,2,15,0.1,27.0,pending
+1230,2025-12-26 16:54:17,309,12,Short Deportivo,Ropa,Web,8,Vendedor_8,4,81,0.15,275.4,paid
+1231,2025-12-09 16:54:17,274,8,Campera Denim,Ropa,Facebook,7,Vendedor_7,5,83,0.2,332.0,paid
+1232,2026-02-24 16:54:17,398,13,Medias Training,Accesorios,Instagram,10,Vendedor_10,4,43,0.2,137.6,paid
+1233,2025-12-15 16:54:17,286,8,Campera Denim,Ropa,Facebook,1,Vendedor_1,2,22,0.1,39.6,paid
+1234,2026-03-02 16:54:17,236,4,Remera Oversize,Ropa,Instagram,6,Vendedor_6,3,37,0.1,99.9,pending
+1235,2026-01-23 16:54:17,493,8,Campera Denim,Ropa,Instagram,4,Vendedor_4,1,37,0.0,37.0,pending
+1236,2025-09-20 16:54:17,340,1,Zapatillas Urban,Calzado,Mercado Libre,7,Vendedor_7,3,66,0.0,198.0,pending
+1237,2026-02-05 16:54:17,41,20,Piluso Trend,Accesorios,Instagram,1,Vendedor_1,2,33,0.05,62.7,paid
+1238,2025-10-23 16:54:17,241,1,Zapatillas Urban,Calzado,Instagram,7,Vendedor_7,2,157,0.05,298.3,pending
+1239,2025-12-02 16:54:17,147,16,Sandalias Beach,Calzado,Mercado Libre,6,Vendedor_6,4,160,0.0,640.0,paid
+1240,2025-10-04 16:54:17,258,2,Zapatillas Running,Calzado,Instagram,1,Vendedor_1,5,156,0.05,741.0,paid
+1241,2025-11-29 16:54:17,471,13,Medias Training,Accesorios,Web,8,Vendedor_8,5,55,0.1,247.5,paid
+1242,2026-02-05 16:54:17,487,14,Cinturón Casual,Accesorios,Instagram,5,Vendedor_5,1,43,0.15,36.55,paid
+1243,2025-10-10 16:54:17,422,13,Medias Training,Accesorios,Mercado Libre,1,Vendedor_1,2,35,0.05,66.5,pending
+1244,2025-12-27 16:54:17,412,16,Sandalias Beach,Calzado,Web,7,Vendedor_7,4,81,0.0,324.0,pending
+1245,2026-01-07 16:54:17,309,7,Campera Rompeviento,Ropa,Web,2,Vendedor_2,1,29,0.1,26.1,paid
+1246,2026-01-04 16:54:17,109,8,Campera Denim,Ropa,Mercado Libre,3,Vendedor_3,5,33,0.0,165.0,pending
+1247,2025-10-27 16:54:17,44,7,Campera Rompeviento,Ropa,Mercado Libre,4,Vendedor_4,1,50,0.1,45.0,pending
+1248,2026-03-05 16:54:17,5,2,Zapatillas Running,Calzado,Web,6,Vendedor_6,1,180,0.1,162.0,pending
+1249,2025-11-09 16:54:17,372,13,Medias Training,Accesorios,Web,4,Vendedor_4,3,58,0.15,147.9,paid
+1250,2025-12-23 16:54:17,414,4,Remera Oversize,Ropa,Instagram,7,Vendedor_7,5,32,0.2,128.0,paid
+1251,2025-12-10 16:54:17,83,19,Riñonera Sport,Accesorios,Instagram,8,Vendedor_8,5,12,0.1,54.0,pending
+1252,2025-10-08 16:54:17,394,3,Remera Básica,Ropa,Instagram,2,Vendedor_2,2,47,0.05,89.3,pending
+1253,2026-02-12 16:54:17,439,15,Botas Trekking,Calzado,Facebook,6,Vendedor_6,3,106,0.2,254.4,paid
+1254,2026-01-15 16:54:17,491,13,Medias Training,Accesorios,Instagram,4,Vendedor_4,5,48,0.0,240.0,pending
+1255,2026-03-14 16:54:17,256,4,Remera Oversize,Ropa,Mercado Libre,3,Vendedor_3,3,90,0.0,270.0,pending
+1256,2026-02-02 16:54:17,296,11,Buzo Hoodie,Ropa,Web,5,Vendedor_5,2,28,0.1,50.4,pending
+1257,2026-02-27 16:54:17,132,3,Remera Básica,Ropa,Facebook,3,Vendedor_3,4,53,0.15,180.2,paid
+1258,2025-10-23 16:54:17,206,4,Remera Oversize,Ropa,Facebook,8,Vendedor_8,1,66,0.1,59.4,paid
+1259,2025-12-14 16:54:17,43,15,Botas Trekking,Calzado,Facebook,9,Vendedor_9,5,100,0.1,450.0,pending
+1260,2025-09-24 16:54:17,380,9,Gorra Classic,Accesorios,Instagram,1,Vendedor_1,5,51,0.0,255.0,paid
+1261,2026-02-19 16:54:17,205,5,Pantalón Chino,Ropa,Mercado Libre,5,Vendedor_5,4,40,0.2,128.0,paid
+1262,2025-11-19 16:54:17,329,13,Medias Training,Accesorios,Facebook,2,Vendedor_2,3,39,0.15,99.45,paid
+1263,2026-01-30 16:54:17,206,3,Remera Básica,Ropa,Web,2,Vendedor_2,4,75,0.05,285.0,paid
+1264,2025-12-20 16:54:17,59,11,Buzo Hoodie,Ropa,Web,10,Vendedor_10,4,47,0.15,159.8,pending
+1265,2025-10-29 16:54:17,164,2,Zapatillas Running,Calzado,Mercado Libre,3,Vendedor_3,4,78,0.05,296.4,pending
+1266,2025-12-15 16:54:17,109,2,Zapatillas Running,Calzado,Mercado Libre,7,Vendedor_7,4,87,0.0,348.0,pending
+1267,2026-01-12 16:54:17,141,9,Gorra Classic,Accesorios,Facebook,3,Vendedor_3,1,19,0.0,19.0,paid
+1268,2025-11-22 16:54:17,95,10,Mochila City,Accesorios,Mercado Libre,7,Vendedor_7,5,23,0.1,103.5,paid
+1269,2025-12-20 16:54:17,483,14,Cinturón Casual,Accesorios,Facebook,5,Vendedor_5,2,22,0.1,39.6,pending
+1270,2025-10-31 16:54:17,200,16,Sandalias Beach,Calzado,Mercado Libre,3,Vendedor_3,4,105,0.2,336.0,paid
+1271,2025-09-28 16:54:17,341,3,Remera Básica,Ropa,Web,10,Vendedor_10,5,38,0.1,171.0,paid
+1272,2025-11-20 16:54:17,406,5,Pantalón Chino,Ropa,Facebook,3,Vendedor_3,4,60,0.0,240.0,pending
+1273,2026-03-17 16:54:17,50,17,Camisa Oxford,Ropa,Mercado Libre,8,Vendedor_8,2,77,0.2,123.2,paid
+1274,2025-11-30 16:54:17,179,7,Campera Rompeviento,Ropa,Instagram,9,Vendedor_9,2,68,0.05,129.2,paid
+1275,2026-03-14 16:54:17,460,19,Riñonera Sport,Accesorios,Web,6,Vendedor_6,3,11,0.1,29.7,paid
+1276,2025-10-02 16:54:17,181,16,Sandalias Beach,Calzado,Facebook,8,Vendedor_8,4,112,0.1,403.2,pending
+1277,2026-01-31 16:54:17,284,4,Remera Oversize,Ropa,Instagram,8,Vendedor_8,4,67,0.05,254.6,pending
+1278,2026-01-04 16:54:17,481,13,Medias Training,Accesorios,Mercado Libre,7,Vendedor_7,3,54,0.2,129.6,paid
+1279,2026-02-23 16:54:17,255,4,Remera Oversize,Ropa,Mercado Libre,1,Vendedor_1,5,72,0.0,360.0,pending
+1280,2025-10-20 16:54:17,115,17,Camisa Oxford,Ropa,Facebook,1,Vendedor_1,3,73,0.05,208.05,pending
+1281,2026-01-26 16:54:17,212,4,Remera Oversize,Ropa,Facebook,8,Vendedor_8,1,64,0.15,54.4,paid
+1282,2026-01-19 16:54:17,158,12,Short Deportivo,Ropa,Facebook,9,Vendedor_9,3,54,0.1,145.8,paid
+1283,2025-12-01 16:54:17,405,1,Zapatillas Urban,Calzado,Web,1,Vendedor_1,1,63,0.05,59.85,pending
+1284,2026-02-02 16:54:17,499,11,Buzo Hoodie,Ropa,Facebook,10,Vendedor_10,4,50,0.2,160.0,paid
+1285,2025-10-04 16:54:17,66,20,Piluso Trend,Accesorios,Facebook,7,Vendedor_7,1,46,0.15,39.1,paid
+1286,2025-12-26 16:54:17,51,13,Medias Training,Accesorios,Instagram,9,Vendedor_9,2,37,0.05,70.3,paid
+1287,2025-12-07 16:54:17,105,19,Riñonera Sport,Accesorios,Mercado Libre,5,Vendedor_5,5,20,0.1,90.0,paid
+1288,2025-11-26 16:54:17,317,1,Zapatillas Urban,Calzado,Mercado Libre,1,Vendedor_1,5,79,0.0,395.0,pending
+1289,2026-02-12 16:54:17,335,1,Zapatillas Urban,Calzado,Instagram,8,Vendedor_8,3,83,0.05,236.55,pending
+1290,2025-10-31 16:54:17,141,7,Campera Rompeviento,Ropa,Mercado Libre,4,Vendedor_4,4,53,0.0,212.0,paid
+1291,2025-10-05 16:54:17,475,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,1,74,0.15,62.9,paid
+1292,2026-01-04 16:54:17,254,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,2,31,0.0,62.0,paid
+1293,2026-02-20 16:54:17,250,13,Medias Training,Accesorios,Mercado Libre,8,Vendedor_8,1,36,0.0,36.0,paid
+1294,2025-12-11 16:54:17,153,14,Cinturón Casual,Accesorios,Mercado Libre,6,Vendedor_6,4,20,0.05,76.0,paid
+1295,2025-10-07 16:54:17,178,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,1,17,0.1,15.3,paid
+1296,2025-11-04 16:54:17,16,6,Pantalón Cargo,Ropa,Mercado Libre,5,Vendedor_5,1,44,0.2,35.2,paid
+1297,2025-12-14 16:54:17,71,7,Campera Rompeviento,Ropa,Instagram,2,Vendedor_2,2,23,0.1,41.4,paid
+1298,2026-01-08 16:54:17,179,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,4,45,0.0,180.0,pending
+1299,2025-11-26 16:54:17,129,16,Sandalias Beach,Calzado,Instagram,9,Vendedor_9,4,178,0.05,676.4,paid
+1300,2025-12-07 16:54:17,160,9,Gorra Classic,Accesorios,Instagram,2,Vendedor_2,5,60,0.2,240.0,paid
+1301,2025-11-27 16:54:17,418,16,Sandalias Beach,Calzado,Web,8,Vendedor_8,4,136,0.1,489.6,paid
+1302,2025-12-09 16:54:17,192,20,Piluso Trend,Accesorios,Mercado Libre,7,Vendedor_7,2,46,0.1,82.8,pending
+1303,2026-03-09 16:54:17,310,6,Pantalón Cargo,Ropa,Web,9,Vendedor_9,3,72,0.1,194.4,pending
+1304,2026-02-16 16:54:17,184,1,Zapatillas Urban,Calzado,Instagram,3,Vendedor_3,3,114,0.05,324.9,paid
+1305,2025-09-30 16:54:17,63,7,Campera Rompeviento,Ropa,Mercado Libre,6,Vendedor_6,3,38,0.1,102.6,pending
+1306,2025-12-23 16:54:17,461,1,Zapatillas Urban,Calzado,Instagram,4,Vendedor_4,4,132,0.1,475.2,paid
+1307,2026-01-04 16:54:17,53,13,Medias Training,Accesorios,Web,10,Vendedor_10,2,43,0.05,81.7,paid
+1308,2025-10-03 16:54:17,102,19,Riñonera Sport,Accesorios,Instagram,7,Vendedor_7,4,30,0.1,108.0,paid
+1309,2025-11-10 16:54:17,64,16,Sandalias Beach,Calzado,Facebook,1,Vendedor_1,3,113,0.0,339.0,paid
+1310,2025-12-24 16:54:17,11,20,Piluso Trend,Accesorios,Web,10,Vendedor_10,4,25,0.2,80.0,paid
+1311,2026-03-16 16:54:17,19,19,Riñonera Sport,Accesorios,Mercado Libre,8,Vendedor_8,3,18,0.15,45.9,pending
+1312,2026-02-28 16:54:17,371,1,Zapatillas Urban,Calzado,Web,8,Vendedor_8,1,166,0.15,141.1,pending
+1313,2025-12-19 16:54:17,314,11,Buzo Hoodie,Ropa,Mercado Libre,7,Vendedor_7,1,60,0.15,51.0,pending
+1314,2025-09-20 16:54:17,432,10,Mochila City,Accesorios,Web,8,Vendedor_8,4,51,0.0,204.0,paid
+1315,2026-01-19 16:54:17,166,1,Zapatillas Urban,Calzado,Facebook,1,Vendedor_1,1,77,0.0,77.0,paid
+1316,2026-02-23 16:54:17,479,6,Pantalón Cargo,Ropa,Mercado Libre,4,Vendedor_4,3,88,0.0,264.0,pending
+1317,2026-02-17 16:54:17,169,2,Zapatillas Running,Calzado,Facebook,1,Vendedor_1,3,69,0.1,186.3,pending
+1318,2026-02-10 16:54:17,164,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,4,35,0.05,133.0,pending
+1319,2025-09-27 16:54:17,296,15,Botas Trekking,Calzado,Facebook,2,Vendedor_2,5,127,0.05,603.25,pending
+1320,2025-12-25 16:54:17,393,9,Gorra Classic,Accesorios,Web,8,Vendedor_8,2,15,0.1,27.0,paid
+1321,2025-10-26 16:54:17,498,12,Short Deportivo,Ropa,Facebook,4,Vendedor_4,2,29,0.0,58.0,paid
+1322,2026-03-14 16:54:17,250,7,Campera Rompeviento,Ropa,Mercado Libre,4,Vendedor_4,4,69,0.05,262.2,pending
+1323,2025-10-17 16:54:17,363,7,Campera Rompeviento,Ropa,Facebook,9,Vendedor_9,5,60,0.1,270.0,paid
+1324,2026-02-18 16:54:17,500,17,Camisa Oxford,Ropa,Facebook,3,Vendedor_3,2,66,0.15,112.2,paid
+1325,2026-01-28 16:54:17,352,13,Medias Training,Accesorios,Web,2,Vendedor_2,3,37,0.05,105.45,paid
+1326,2025-11-19 16:54:17,458,5,Pantalón Chino,Ropa,Facebook,2,Vendedor_2,1,50,0.0,50.0,paid
+1327,2026-03-10 16:54:17,136,9,Gorra Classic,Accesorios,Mercado Libre,8,Vendedor_8,5,38,0.1,171.0,paid
+1328,2025-11-27 16:54:17,221,12,Short Deportivo,Ropa,Web,4,Vendedor_4,2,70,0.2,112.0,paid
+1329,2026-01-07 16:54:17,375,15,Botas Trekking,Calzado,Facebook,6,Vendedor_6,1,66,0.15,56.1,paid
+1330,2026-01-28 16:54:17,272,10,Mochila City,Accesorios,Facebook,7,Vendedor_7,2,48,0.1,86.4,pending
+1331,2025-09-24 16:54:17,59,4,Remera Oversize,Ropa,Mercado Libre,1,Vendedor_1,2,34,0.05,64.6,paid
+1332,2026-01-08 16:54:17,142,19,Riñonera Sport,Accesorios,Instagram,4,Vendedor_4,1,44,0.0,44.0,pending
+1333,2025-12-07 16:54:17,254,13,Medias Training,Accesorios,Instagram,2,Vendedor_2,2,56,0.1,100.8,paid
+1334,2025-12-19 16:54:17,49,7,Campera Rompeviento,Ropa,Instagram,5,Vendedor_5,5,56,0.0,280.0,pending
+1335,2025-09-22 16:54:17,86,10,Mochila City,Accesorios,Instagram,4,Vendedor_4,2,30,0.0,60.0,pending
+1336,2026-02-09 16:54:17,11,15,Botas Trekking,Calzado,Instagram,1,Vendedor_1,4,114,0.1,410.4,pending
+1337,2026-02-02 16:54:17,299,3,Remera Básica,Ropa,Mercado Libre,1,Vendedor_1,5,65,0.15,276.25,pending
+1338,2025-11-17 16:54:17,349,8,Campera Denim,Ropa,Web,2,Vendedor_2,1,22,0.2,17.6,paid
+1339,2025-11-09 16:54:17,156,17,Camisa Oxford,Ropa,Web,3,Vendedor_3,2,32,0.0,64.0,pending
+1340,2025-12-18 16:54:17,130,16,Sandalias Beach,Calzado,Web,9,Vendedor_9,3,144,0.15,367.2,pending
+1341,2025-12-17 16:54:17,397,1,Zapatillas Urban,Calzado,Facebook,5,Vendedor_5,3,174,0.2,417.6,paid
+1342,2025-09-23 16:54:17,439,9,Gorra Classic,Accesorios,Instagram,9,Vendedor_9,1,19,0.15,16.15,paid
+1343,2025-11-10 16:54:17,106,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,2,75,0.1,135.0,paid
+1344,2025-10-05 16:54:17,461,13,Medias Training,Accesorios,Facebook,2,Vendedor_2,3,50,0.2,120.0,paid
+1345,2025-09-25 16:54:17,214,9,Gorra Classic,Accesorios,Web,6,Vendedor_6,3,35,0.2,84.0,pending
+1346,2026-03-07 16:54:17,63,7,Campera Rompeviento,Ropa,Facebook,10,Vendedor_10,5,63,0.2,252.0,pending
+1347,2025-12-19 16:54:17,475,19,Riñonera Sport,Accesorios,Instagram,5,Vendedor_5,1,10,0.15,8.5,pending
+1348,2025-11-04 16:54:17,250,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,5,40,0.1,180.0,paid
+1349,2026-03-14 16:54:17,423,10,Mochila City,Accesorios,Mercado Libre,8,Vendedor_8,1,23,0.1,20.7,paid
+1350,2025-12-29 16:54:17,26,16,Sandalias Beach,Calzado,Web,1,Vendedor_1,4,105,0.0,420.0,paid
+1351,2026-01-04 16:54:17,366,12,Short Deportivo,Ropa,Web,9,Vendedor_9,5,39,0.0,195.0,paid
+1352,2025-11-27 16:54:17,17,7,Campera Rompeviento,Ropa,Facebook,10,Vendedor_10,1,57,0.05,54.15,pending
+1353,2025-09-25 16:54:17,458,8,Campera Denim,Ropa,Web,7,Vendedor_7,4,71,0.0,284.0,pending
+1354,2025-12-28 16:54:17,412,20,Piluso Trend,Accesorios,Instagram,3,Vendedor_3,5,37,0.1,166.5,paid
+1355,2026-02-11 16:54:17,157,9,Gorra Classic,Accesorios,Mercado Libre,7,Vendedor_7,5,22,0.1,99.0,pending
+1356,2025-10-08 16:54:17,401,19,Riñonera Sport,Accesorios,Facebook,8,Vendedor_8,5,21,0.15,89.25,paid
+1357,2025-11-03 16:54:17,240,5,Pantalón Chino,Ropa,Web,8,Vendedor_8,3,84,0.1,226.8,pending
+1358,2025-11-30 16:54:17,14,15,Botas Trekking,Calzado,Facebook,7,Vendedor_7,4,63,0.2,201.6,paid
+1359,2025-10-11 16:54:17,66,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,2,85,0.1,153.0,paid
+1360,2026-02-13 16:54:17,236,13,Medias Training,Accesorios,Mercado Libre,7,Vendedor_7,1,39,0.2,31.2,paid
+1361,2026-01-07 16:54:17,421,2,Zapatillas Running,Calzado,Web,2,Vendedor_2,3,136,0.0,408.0,pending
+1362,2026-03-02 16:54:17,360,11,Buzo Hoodie,Ropa,Instagram,2,Vendedor_2,5,85,0.0,425.0,paid
+1363,2025-11-11 16:54:17,322,18,Camisa Lino,Ropa,Web,3,Vendedor_3,2,39,0.1,70.2,paid
+1364,2025-10-09 16:54:17,79,16,Sandalias Beach,Calzado,Mercado Libre,4,Vendedor_4,1,68,0.0,68.0,paid
+1365,2026-01-24 16:54:17,228,8,Campera Denim,Ropa,Facebook,2,Vendedor_2,4,23,0.2,73.6,paid
+1366,2025-12-31 16:54:17,431,4,Remera Oversize,Ropa,Web,7,Vendedor_7,4,43,0.05,163.4,pending
+1367,2026-02-14 16:54:17,95,20,Piluso Trend,Accesorios,Instagram,7,Vendedor_7,2,50,0.0,100.0,paid
+1368,2025-11-07 16:54:17,149,6,Pantalón Cargo,Ropa,Web,9,Vendedor_9,2,80,0.15,136.0,paid
+1369,2025-11-11 16:54:17,358,19,Riñonera Sport,Accesorios,Mercado Libre,6,Vendedor_6,3,35,0.15,89.25,pending
+1370,2025-11-29 16:54:17,62,14,Cinturón Casual,Accesorios,Facebook,3,Vendedor_3,1,28,0.15,23.8,paid
+1371,2025-12-30 16:54:17,465,19,Riñonera Sport,Accesorios,Web,1,Vendedor_1,5,38,0.0,190.0,paid
+1372,2025-11-20 16:54:17,257,15,Botas Trekking,Calzado,Instagram,5,Vendedor_5,1,80,0.1,72.0,pending
+1373,2025-12-08 16:54:17,181,17,Camisa Oxford,Ropa,Web,9,Vendedor_9,1,42,0.05,39.9,pending
+1374,2026-01-05 16:54:17,193,5,Pantalón Chino,Ropa,Facebook,5,Vendedor_5,4,28,0.15,95.2,paid
+1375,2025-11-08 16:54:17,302,19,Riñonera Sport,Accesorios,Web,9,Vendedor_9,3,18,0.1,48.6,pending
+1376,2026-03-06 16:54:17,341,3,Remera Básica,Ropa,Mercado Libre,1,Vendedor_1,2,49,0.0,98.0,pending
+1377,2025-12-25 16:54:17,373,16,Sandalias Beach,Calzado,Facebook,4,Vendedor_4,2,73,0.05,138.7,pending
+1378,2026-03-02 16:54:17,434,3,Remera Básica,Ropa,Mercado Libre,10,Vendedor_10,3,34,0.0,102.0,pending
+1379,2025-10-13 16:54:17,358,12,Short Deportivo,Ropa,Facebook,1,Vendedor_1,2,61,0.0,122.0,pending
+1380,2025-10-05 16:54:17,130,5,Pantalón Chino,Ropa,Facebook,10,Vendedor_10,5,45,0.05,213.75,pending
+1381,2026-01-19 16:54:17,415,10,Mochila City,Accesorios,Instagram,4,Vendedor_4,2,37,0.2,59.2,paid
+1382,2026-03-11 16:54:17,458,19,Riñonera Sport,Accesorios,Mercado Libre,2,Vendedor_2,2,12,0.05,22.8,pending
+1383,2025-10-23 16:54:17,350,14,Cinturón Casual,Accesorios,Facebook,9,Vendedor_9,1,31,0.05,29.45,paid
+1384,2025-10-22 16:54:17,317,7,Campera Rompeviento,Ropa,Instagram,8,Vendedor_8,5,65,0.1,292.5,paid
+1385,2025-11-28 16:54:17,66,15,Botas Trekking,Calzado,Web,7,Vendedor_7,1,132,0.0,132.0,paid
+1386,2025-11-10 16:54:17,12,4,Remera Oversize,Ropa,Instagram,4,Vendedor_4,1,89,0.1,80.1,pending
+1387,2025-12-08 16:54:17,39,9,Gorra Classic,Accesorios,Instagram,6,Vendedor_6,1,20,0.1,18.0,pending
+1388,2025-10-10 16:54:17,299,13,Medias Training,Accesorios,Facebook,1,Vendedor_1,5,54,0.0,270.0,pending
+1389,2026-03-09 16:54:17,172,1,Zapatillas Urban,Calzado,Mercado Libre,6,Vendedor_6,4,93,0.05,353.4,paid
+1390,2025-10-28 16:54:17,38,7,Campera Rompeviento,Ropa,Mercado Libre,6,Vendedor_6,1,50,0.15,42.5,pending
+1391,2025-12-01 16:54:17,246,3,Remera Básica,Ropa,Instagram,10,Vendedor_10,5,30,0.2,120.0,pending
+1392,2026-02-19 16:54:17,333,2,Zapatillas Running,Calzado,Web,1,Vendedor_1,4,124,0.05,471.2,pending
+1393,2025-12-30 16:54:17,14,16,Sandalias Beach,Calzado,Instagram,4,Vendedor_4,1,179,0.0,179.0,pending
+1394,2025-10-27 16:54:17,357,1,Zapatillas Urban,Calzado,Instagram,8,Vendedor_8,1,109,0.15,92.65,pending
+1395,2025-10-28 16:54:17,460,14,Cinturón Casual,Accesorios,Web,3,Vendedor_3,1,38,0.0,38.0,pending
+1396,2025-12-20 16:54:17,48,7,Campera Rompeviento,Ropa,Mercado Libre,7,Vendedor_7,1,50,0.05,47.5,paid
+1397,2025-10-31 16:54:17,417,14,Cinturón Casual,Accesorios,Mercado Libre,10,Vendedor_10,1,10,0.05,9.5,paid
+1398,2026-02-13 16:54:17,161,2,Zapatillas Running,Calzado,Web,8,Vendedor_8,2,96,0.0,192.0,paid
+1399,2026-02-12 16:54:17,337,10,Mochila City,Accesorios,Mercado Libre,10,Vendedor_10,4,40,0.0,160.0,paid
+1400,2025-10-29 16:54:17,460,9,Gorra Classic,Accesorios,Instagram,4,Vendedor_4,4,55,0.1,198.0,pending
+1401,2025-12-14 16:54:17,270,10,Mochila City,Accesorios,Web,9,Vendedor_9,3,51,0.05,145.35,pending
+1402,2025-11-09 16:54:17,362,18,Camisa Lino,Ropa,Facebook,2,Vendedor_2,1,64,0.15,54.4,pending
+1403,2026-01-24 16:54:17,380,3,Remera Básica,Ropa,Instagram,3,Vendedor_3,5,49,0.1,220.5,paid
+1404,2026-02-09 16:54:17,488,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,2,76,0.15,129.2,paid
+1405,2026-03-09 16:54:17,154,16,Sandalias Beach,Calzado,Mercado Libre,5,Vendedor_5,3,135,0.15,344.25,paid
+1406,2025-10-12 16:54:17,197,9,Gorra Classic,Accesorios,Facebook,7,Vendedor_7,4,11,0.15,37.4,paid
+1407,2026-01-24 16:54:17,27,8,Campera Denim,Ropa,Web,7,Vendedor_7,2,75,0.2,120.0,paid
+1408,2025-12-18 16:54:17,415,18,Camisa Lino,Ropa,Instagram,1,Vendedor_1,5,63,0.1,283.5,paid
+1409,2025-10-09 16:54:17,284,11,Buzo Hoodie,Ropa,Facebook,7,Vendedor_7,4,27,0.0,108.0,pending
+1410,2025-11-19 16:54:17,84,18,Camisa Lino,Ropa,Facebook,7,Vendedor_7,5,86,0.1,387.0,pending
+1411,2026-02-12 16:54:17,128,8,Campera Denim,Ropa,Web,1,Vendedor_1,3,55,0.0,165.0,pending
+1412,2025-12-06 16:54:17,138,19,Riñonera Sport,Accesorios,Web,1,Vendedor_1,5,27,0.1,121.5,paid
+1413,2025-12-29 16:54:17,228,4,Remera Oversize,Ropa,Facebook,10,Vendedor_10,3,53,0.05,151.05,paid
+1414,2026-03-15 16:54:17,327,15,Botas Trekking,Calzado,Instagram,8,Vendedor_8,1,105,0.15,89.25,pending
+1415,2025-10-20 16:54:17,283,2,Zapatillas Running,Calzado,Web,2,Vendedor_2,3,174,0.2,417.6,paid
+1416,2026-01-30 16:54:17,66,15,Botas Trekking,Calzado,Instagram,5,Vendedor_5,3,93,0.15,237.15,paid
+1417,2025-10-10 16:54:17,95,5,Pantalón Chino,Ropa,Facebook,1,Vendedor_1,2,34,0.0,68.0,pending
+1418,2025-10-27 16:54:17,500,2,Zapatillas Running,Calzado,Web,4,Vendedor_4,1,151,0.1,135.9,paid
+1419,2025-10-30 16:54:17,56,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,5,50,0.1,225.0,pending
+1420,2025-11-07 16:54:17,293,4,Remera Oversize,Ropa,Web,2,Vendedor_2,2,46,0.1,82.8,pending
+1421,2025-10-04 16:54:17,168,3,Remera Básica,Ropa,Web,7,Vendedor_7,3,38,0.0,114.0,pending
+1422,2025-10-02 16:54:17,16,14,Cinturón Casual,Accesorios,Instagram,6,Vendedor_6,4,28,0.2,89.6,pending
+1423,2026-01-02 16:54:17,312,2,Zapatillas Running,Calzado,Instagram,3,Vendedor_3,5,63,0.0,315.0,pending
+1424,2025-11-07 16:54:17,426,17,Camisa Oxford,Ropa,Mercado Libre,10,Vendedor_10,3,47,0.15,119.85,paid
+1425,2025-10-02 16:54:17,258,13,Medias Training,Accesorios,Facebook,2,Vendedor_2,1,24,0.2,19.2,paid
+1426,2026-03-04 16:54:17,226,17,Camisa Oxford,Ropa,Web,10,Vendedor_10,4,87,0.2,278.4,pending
+1427,2025-10-21 16:54:17,410,7,Campera Rompeviento,Ropa,Web,5,Vendedor_5,2,62,0.05,117.8,paid
+1428,2025-12-27 16:54:17,186,15,Botas Trekking,Calzado,Mercado Libre,2,Vendedor_2,2,116,0.15,197.2,pending
+1429,2025-11-08 16:54:17,118,18,Camisa Lino,Ropa,Facebook,2,Vendedor_2,3,81,0.2,194.4,pending
+1430,2025-10-23 16:54:17,346,8,Campera Denim,Ropa,Instagram,3,Vendedor_3,5,51,0.15,216.75,pending
+1431,2025-12-20 16:54:17,216,10,Mochila City,Accesorios,Instagram,6,Vendedor_6,1,15,0.15,12.75,pending
+1432,2026-01-30 16:54:17,215,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,1,41,0.0,41.0,pending
+1433,2026-02-13 16:54:17,38,4,Remera Oversize,Ropa,Instagram,1,Vendedor_1,4,23,0.05,87.4,pending
+1434,2025-12-17 16:54:17,124,14,Cinturón Casual,Accesorios,Web,3,Vendedor_3,4,54,0.2,172.8,paid
+1435,2025-12-21 16:54:17,38,11,Buzo Hoodie,Ropa,Web,10,Vendedor_10,5,33,0.0,165.0,pending
+1436,2025-10-07 16:54:17,359,14,Cinturón Casual,Accesorios,Instagram,8,Vendedor_8,4,28,0.15,95.2,paid
+1437,2025-11-07 16:54:17,304,19,Riñonera Sport,Accesorios,Web,2,Vendedor_2,2,10,0.2,16.0,pending
+1438,2025-12-25 16:54:17,144,13,Medias Training,Accesorios,Mercado Libre,8,Vendedor_8,2,42,0.2,67.2,paid
+1439,2025-11-11 16:54:17,460,10,Mochila City,Accesorios,Facebook,6,Vendedor_6,1,46,0.2,36.8,pending
+1440,2025-12-09 16:54:17,417,11,Buzo Hoodie,Ropa,Instagram,6,Vendedor_6,2,38,0.0,76.0,pending
+1441,2026-01-05 16:54:17,178,17,Camisa Oxford,Ropa,Web,10,Vendedor_10,5,60,0.0,300.0,paid
+1442,2026-01-03 16:54:17,454,4,Remera Oversize,Ropa,Instagram,5,Vendedor_5,4,76,0.05,288.8,pending
+1443,2025-10-13 16:54:17,73,9,Gorra Classic,Accesorios,Mercado Libre,2,Vendedor_2,2,52,0.1,93.6,paid
+1444,2025-11-07 16:54:17,276,18,Camisa Lino,Ropa,Instagram,3,Vendedor_3,1,25,0.2,20.0,paid
+1445,2026-03-11 16:54:17,219,16,Sandalias Beach,Calzado,Facebook,6,Vendedor_6,2,96,0.2,153.6,paid
+1446,2026-01-01 16:54:17,253,15,Botas Trekking,Calzado,Web,2,Vendedor_2,1,116,0.15,98.6,paid
+1447,2026-01-05 16:54:17,373,5,Pantalón Chino,Ropa,Mercado Libre,2,Vendedor_2,3,30,0.05,85.5,pending
+1448,2025-11-08 16:54:17,345,6,Pantalón Cargo,Ropa,Mercado Libre,6,Vendedor_6,3,78,0.2,187.2,pending
+1449,2025-11-27 16:54:17,431,2,Zapatillas Running,Calzado,Mercado Libre,2,Vendedor_2,5,100,0.05,475.0,paid
+1450,2026-02-10 16:54:17,136,8,Campera Denim,Ropa,Facebook,10,Vendedor_10,4,48,0.05,182.4,paid
+1451,2026-01-29 16:54:17,326,16,Sandalias Beach,Calzado,Mercado Libre,8,Vendedor_8,3,76,0.05,216.6,paid
+1452,2025-11-26 16:54:17,107,1,Zapatillas Urban,Calzado,Instagram,2,Vendedor_2,4,131,0.2,419.2,paid
+1453,2025-09-22 16:54:17,121,14,Cinturón Casual,Accesorios,Web,5,Vendedor_5,5,34,0.2,136.0,pending
+1454,2025-09-30 16:54:17,343,17,Camisa Oxford,Ropa,Facebook,3,Vendedor_3,3,49,0.1,132.3,pending
+1455,2025-10-15 16:54:17,50,13,Medias Training,Accesorios,Instagram,6,Vendedor_6,5,40,0.1,180.0,paid
+1456,2025-11-30 16:54:17,60,10,Mochila City,Accesorios,Instagram,8,Vendedor_8,3,25,0.15,63.75,pending
+1457,2025-09-29 16:54:17,397,11,Buzo Hoodie,Ropa,Facebook,2,Vendedor_2,3,70,0.05,199.5,pending
+1458,2025-12-02 16:54:17,260,20,Piluso Trend,Accesorios,Instagram,4,Vendedor_4,1,28,0.1,25.2,pending
+1459,2025-10-25 16:54:17,211,2,Zapatillas Running,Calzado,Facebook,6,Vendedor_6,3,146,0.1,394.2,pending
+1460,2025-12-05 16:54:17,373,14,Cinturón Casual,Accesorios,Instagram,5,Vendedor_5,1,27,0.15,22.95,pending
+1461,2025-12-29 16:54:17,449,2,Zapatillas Running,Calzado,Instagram,8,Vendedor_8,4,88,0.2,281.6,paid
+1462,2025-10-11 16:54:17,277,4,Remera Oversize,Ropa,Mercado Libre,10,Vendedor_10,3,36,0.2,86.4,paid
+1463,2026-02-22 16:54:17,33,13,Medias Training,Accesorios,Mercado Libre,6,Vendedor_6,3,59,0.2,141.6,paid
+1464,2025-10-31 16:54:17,441,12,Short Deportivo,Ropa,Instagram,4,Vendedor_4,2,88,0.15,149.6,pending
+1465,2025-12-12 16:54:17,376,6,Pantalón Cargo,Ropa,Instagram,6,Vendedor_6,4,47,0.2,150.4,paid
+1466,2026-03-12 16:54:17,406,2,Zapatillas Running,Calzado,Facebook,9,Vendedor_9,1,124,0.15,105.4,paid
+1467,2026-01-04 16:54:17,18,6,Pantalón Cargo,Ropa,Web,5,Vendedor_5,1,49,0.05,46.55,paid
+1468,2025-10-01 16:54:17,442,13,Medias Training,Accesorios,Mercado Libre,7,Vendedor_7,2,57,0.1,102.6,paid
+1469,2025-11-08 16:54:17,310,3,Remera Básica,Ropa,Instagram,7,Vendedor_7,1,21,0.2,16.8,paid
+1470,2025-12-07 16:54:17,218,19,Riñonera Sport,Accesorios,Mercado Libre,4,Vendedor_4,5,29,0.1,130.5,pending
+1471,2025-11-20 16:54:17,242,9,Gorra Classic,Accesorios,Facebook,4,Vendedor_4,1,26,0.2,20.8,pending
+1472,2026-02-22 16:54:17,248,14,Cinturón Casual,Accesorios,Web,4,Vendedor_4,4,45,0.1,162.0,paid
+1473,2026-03-13 16:54:17,366,13,Medias Training,Accesorios,Mercado Libre,8,Vendedor_8,4,33,0.2,105.6,pending
+1474,2025-10-21 16:54:17,190,8,Campera Denim,Ropa,Facebook,1,Vendedor_1,4,49,0.15,166.6,paid
+1475,2025-12-22 16:54:17,87,10,Mochila City,Accesorios,Instagram,3,Vendedor_3,1,16,0.2,12.8,pending
+1476,2026-01-13 16:54:17,430,19,Riñonera Sport,Accesorios,Facebook,2,Vendedor_2,2,35,0.2,56.0,paid
+1477,2025-11-11 16:54:17,428,2,Zapatillas Running,Calzado,Instagram,5,Vendedor_5,4,99,0.1,356.4,paid
+1478,2025-09-22 16:54:17,138,11,Buzo Hoodie,Ropa,Instagram,10,Vendedor_10,5,72,0.0,360.0,pending
+1479,2025-11-10 16:54:17,363,18,Camisa Lino,Ropa,Facebook,6,Vendedor_6,2,61,0.15,103.7,paid
+1480,2025-11-29 16:54:17,83,4,Remera Oversize,Ropa,Mercado Libre,2,Vendedor_2,4,36,0.0,144.0,paid
+1481,2025-11-25 16:54:17,88,7,Campera Rompeviento,Ropa,Facebook,2,Vendedor_2,1,74,0.15,62.9,paid
+1482,2025-11-30 16:54:17,223,18,Camisa Lino,Ropa,Web,7,Vendedor_7,1,57,0.0,57.0,pending
+1483,2025-12-25 16:54:17,149,17,Camisa Oxford,Ropa,Instagram,10,Vendedor_10,3,41,0.05,116.85,pending
+1484,2025-10-14 16:54:17,480,17,Camisa Oxford,Ropa,Web,5,Vendedor_5,4,79,0.05,300.2,paid
+1485,2025-11-03 16:54:17,92,6,Pantalón Cargo,Ropa,Instagram,8,Vendedor_8,1,60,0.15,51.0,pending
+1486,2026-03-16 16:54:17,276,3,Remera Básica,Ropa,Facebook,5,Vendedor_5,2,45,0.0,90.0,pending
+1487,2026-03-02 16:54:17,180,4,Remera Oversize,Ropa,Instagram,10,Vendedor_10,4,40,0.0,160.0,pending
+1488,2026-01-27 16:54:17,300,1,Zapatillas Urban,Calzado,Web,5,Vendedor_5,3,165,0.15,420.75,pending
+1489,2025-12-04 16:54:17,40,20,Piluso Trend,Accesorios,Instagram,5,Vendedor_5,5,44,0.05,209.0,paid
+1490,2026-01-05 16:54:17,409,7,Campera Rompeviento,Ropa,Facebook,3,Vendedor_3,3,33,0.05,94.05,pending
+1491,2025-10-17 16:54:17,343,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,3,57,0.2,136.8,paid
+1492,2026-03-17 16:54:17,76,6,Pantalón Cargo,Ropa,Instagram,4,Vendedor_4,2,31,0.2,49.6,paid
+1493,2026-03-17 16:54:17,71,16,Sandalias Beach,Calzado,Facebook,6,Vendedor_6,1,174,0.0,174.0,pending
+1494,2025-12-24 16:54:17,124,16,Sandalias Beach,Calzado,Facebook,5,Vendedor_5,5,157,0.0,785.0,pending
+1495,2025-09-18 16:54:17,163,13,Medias Training,Accesorios,Mercado Libre,8,Vendedor_8,3,29,0.2,69.6,paid
+1496,2025-10-06 16:54:17,227,6,Pantalón Cargo,Ropa,Facebook,5,Vendedor_5,2,75,0.2,120.0,pending
+1497,2025-10-26 16:54:17,444,4,Remera Oversize,Ropa,Web,7,Vendedor_7,3,42,0.0,126.0,pending
+1498,2025-11-29 16:54:17,192,12,Short Deportivo,Ropa,Instagram,4,Vendedor_4,5,44,0.15,187.0,paid
+1499,2025-11-24 16:54:17,301,7,Campera Rompeviento,Ropa,Web,6,Vendedor_6,5,44,0.0,220.0,pending
+1500,2025-12-13 16:54:17,140,4,Remera Oversize,Ropa,Mercado Libre,5,Vendedor_5,5,21,0.2,84.0,pending
+1501,2025-12-06 16:54:17,498,16,Sandalias Beach,Calzado,Mercado Libre,1,Vendedor_1,3,95,0.0,285.0,pending
+1502,2025-10-07 16:54:17,384,20,Piluso Trend,Accesorios,Mercado Libre,8,Vendedor_8,4,21,0.15,71.4,paid
+1503,2026-03-10 16:54:17,43,12,Short Deportivo,Ropa,Facebook,10,Vendedor_10,2,42,0.05,79.8,paid
+1504,2025-11-24 16:54:17,143,2,Zapatillas Running,Calzado,Instagram,1,Vendedor_1,3,72,0.2,172.8,paid
+1505,2025-09-26 16:54:17,8,11,Buzo Hoodie,Ropa,Facebook,6,Vendedor_6,2,66,0.2,105.6,pending
+1506,2026-03-01 16:54:17,43,2,Zapatillas Running,Calzado,Instagram,4,Vendedor_4,5,78,0.1,351.0,pending
+1507,2026-01-06 16:54:17,210,2,Zapatillas Running,Calzado,Instagram,10,Vendedor_10,2,148,0.2,236.8,paid
+1508,2026-01-06 16:54:17,239,10,Mochila City,Accesorios,Mercado Libre,9,Vendedor_9,3,17,0.1,45.9,pending
+1509,2026-02-16 16:54:17,163,3,Remera Básica,Ropa,Mercado Libre,2,Vendedor_2,2,31,0.05,58.9,paid
+1510,2026-01-21 16:54:17,158,1,Zapatillas Urban,Calzado,Instagram,6,Vendedor_6,4,70,0.05,266.0,paid
+1511,2026-03-04 16:54:17,72,10,Mochila City,Accesorios,Web,7,Vendedor_7,3,21,0.1,56.7,pending
+1512,2026-01-28 16:54:17,133,8,Campera Denim,Ropa,Facebook,5,Vendedor_5,2,42,0.1,75.6,pending
+1513,2025-11-12 16:54:17,396,3,Remera Básica,Ropa,Facebook,6,Vendedor_6,5,66,0.1,297.0,paid
+1514,2025-10-19 16:54:17,108,2,Zapatillas Running,Calzado,Facebook,7,Vendedor_7,2,128,0.2,204.8,pending
+1515,2026-01-23 16:54:17,47,10,Mochila City,Accesorios,Instagram,6,Vendedor_6,5,45,0.1,202.5,pending
+1516,2025-11-18 16:54:17,338,7,Campera Rompeviento,Ropa,Instagram,5,Vendedor_5,1,34,0.2,27.2,pending
+1517,2025-11-18 16:54:17,194,5,Pantalón Chino,Ropa,Mercado Libre,10,Vendedor_10,3,67,0.2,160.8,pending
+1518,2025-10-07 16:54:17,244,4,Remera Oversize,Ropa,Web,6,Vendedor_6,1,40,0.15,34.0,pending
+1519,2026-01-29 16:54:17,280,4,Remera Oversize,Ropa,Instagram,6,Vendedor_6,3,40,0.15,102.0,paid
+1520,2025-10-11 16:54:17,375,15,Botas Trekking,Calzado,Facebook,8,Vendedor_8,5,133,0.15,565.25,pending
+1521,2026-01-12 16:54:17,348,8,Campera Denim,Ropa,Facebook,6,Vendedor_6,5,63,0.15,267.75,pending
+1522,2026-01-17 16:54:17,397,2,Zapatillas Running,Calzado,Web,9,Vendedor_9,1,113,0.15,96.05,pending
+1523,2026-03-10 16:54:17,454,19,Riñonera Sport,Accesorios,Instagram,3,Vendedor_3,5,20,0.1,90.0,paid
+1524,2025-09-29 16:54:17,406,5,Pantalón Chino,Ropa,Instagram,6,Vendedor_6,1,31,0.1,27.9,pending
+1525,2025-12-06 16:54:17,103,15,Botas Trekking,Calzado,Instagram,3,Vendedor_3,4,60,0.05,228.0,pending
+1526,2026-02-25 16:54:17,47,10,Mochila City,Accesorios,Instagram,3,Vendedor_3,2,23,0.15,39.1,paid
+1527,2025-12-12 16:54:17,52,18,Camisa Lino,Ropa,Facebook,1,Vendedor_1,4,40,0.1,144.0,pending
+1528,2025-11-17 16:54:17,199,7,Campera Rompeviento,Ropa,Instagram,7,Vendedor_7,4,51,0.0,204.0,pending
+1529,2025-12-05 16:54:17,202,5,Pantalón Chino,Ropa,Mercado Libre,6,Vendedor_6,3,74,0.2,177.6,pending
+1530,2025-09-27 16:54:17,92,16,Sandalias Beach,Calzado,Instagram,10,Vendedor_10,1,88,0.2,70.4,pending
+1531,2025-12-20 16:54:17,331,12,Short Deportivo,Ropa,Instagram,9,Vendedor_9,1,70,0.0,70.0,paid
+1532,2026-01-28 16:54:17,48,16,Sandalias Beach,Calzado,Web,1,Vendedor_1,2,98,0.15,166.6,pending
+1533,2025-11-29 16:54:17,346,6,Pantalón Cargo,Ropa,Facebook,3,Vendedor_3,3,59,0.15,150.45,paid
+1534,2025-11-30 16:54:17,428,9,Gorra Classic,Accesorios,Mercado Libre,3,Vendedor_3,2,35,0.2,56.0,pending
+1535,2025-12-19 16:54:17,164,3,Remera Básica,Ropa,Instagram,2,Vendedor_2,4,21,0.05,79.8,pending
+1536,2026-03-15 16:54:17,156,15,Botas Trekking,Calzado,Facebook,8,Vendedor_8,4,114,0.0,456.0,pending
+1537,2025-10-14 16:54:17,365,4,Remera Oversize,Ropa,Web,8,Vendedor_8,5,67,0.15,284.75,pending
+1538,2026-01-31 16:54:17,77,4,Remera Oversize,Ropa,Mercado Libre,7,Vendedor_7,5,69,0.0,345.0,pending
+1539,2026-01-10 16:54:17,223,19,Riñonera Sport,Accesorios,Mercado Libre,4,Vendedor_4,5,49,0.15,208.25,pending
+1540,2026-03-07 16:54:17,26,10,Mochila City,Accesorios,Web,2,Vendedor_2,4,39,0.1,140.4,pending
+1541,2025-12-21 16:54:17,92,14,Cinturón Casual,Accesorios,Web,5,Vendedor_5,1,44,0.1,39.6,pending
+1542,2026-03-13 16:54:17,306,14,Cinturón Casual,Accesorios,Mercado Libre,8,Vendedor_8,3,29,0.0,87.0,pending
+1543,2025-11-01 16:54:17,274,2,Zapatillas Running,Calzado,Mercado Libre,7,Vendedor_7,2,82,0.0,164.0,paid
+1544,2025-10-06 16:54:17,498,5,Pantalón Chino,Ropa,Facebook,8,Vendedor_8,4,55,0.1,198.0,paid
+1545,2025-10-23 16:54:17,191,17,Camisa Oxford,Ropa,Mercado Libre,8,Vendedor_8,1,29,0.1,26.1,paid
+1546,2025-10-05 16:54:17,173,20,Piluso Trend,Accesorios,Web,2,Vendedor_2,4,42,0.0,168.0,pending
+1547,2026-03-12 16:54:17,429,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,3,56,0.0,168.0,paid
+1548,2025-10-22 16:54:17,438,7,Campera Rompeviento,Ropa,Instagram,5,Vendedor_5,3,85,0.2,204.0,paid
+1549,2025-10-22 16:54:17,383,12,Short Deportivo,Ropa,Instagram,8,Vendedor_8,2,75,0.1,135.0,pending
+1550,2025-09-27 16:54:17,348,17,Camisa Oxford,Ropa,Web,1,Vendedor_1,5,71,0.05,337.25,pending
+1551,2025-12-03 16:54:17,337,1,Zapatillas Urban,Calzado,Instagram,4,Vendedor_4,1,160,0.15,136.0,pending
+1552,2025-11-19 16:54:17,116,9,Gorra Classic,Accesorios,Mercado Libre,10,Vendedor_10,3,16,0.05,45.6,pending
+1553,2026-03-01 16:54:17,216,8,Campera Denim,Ropa,Web,10,Vendedor_10,3,78,0.2,187.2,pending
+1554,2025-10-26 16:54:17,178,16,Sandalias Beach,Calzado,Facebook,1,Vendedor_1,3,103,0.1,278.1,paid
+1555,2025-11-10 16:54:17,345,15,Botas Trekking,Calzado,Facebook,4,Vendedor_4,5,149,0.05,707.75,pending
+1556,2026-03-09 16:54:17,288,13,Medias Training,Accesorios,Web,10,Vendedor_10,1,50,0.15,42.5,paid
+1557,2025-11-02 16:54:17,232,7,Campera Rompeviento,Ropa,Facebook,6,Vendedor_6,3,57,0.1,153.9,paid
+1558,2025-10-09 16:54:17,221,5,Pantalón Chino,Ropa,Facebook,10,Vendedor_10,2,65,0.2,104.0,paid
+1559,2025-10-26 16:54:17,68,10,Mochila City,Accesorios,Facebook,8,Vendedor_8,2,34,0.2,54.4,paid
+1560,2025-12-06 16:54:17,149,4,Remera Oversize,Ropa,Instagram,4,Vendedor_4,2,34,0.2,54.4,paid
+1561,2025-10-28 16:54:17,215,13,Medias Training,Accesorios,Web,7,Vendedor_7,3,58,0.05,165.3,pending
+1562,2025-10-07 16:54:17,273,12,Short Deportivo,Ropa,Facebook,2,Vendedor_2,3,84,0.2,201.6,paid
+1563,2025-11-11 16:54:17,474,13,Medias Training,Accesorios,Instagram,8,Vendedor_8,3,38,0.05,108.3,pending
+1564,2026-03-17 16:54:17,336,10,Mochila City,Accesorios,Instagram,9,Vendedor_9,3,58,0.15,147.9,paid
+1565,2025-10-20 16:54:17,326,13,Medias Training,Accesorios,Mercado Libre,7,Vendedor_7,4,36,0.05,136.8,paid
+1566,2025-10-12 16:54:17,293,5,Pantalón Chino,Ropa,Facebook,10,Vendedor_10,5,30,0.2,120.0,paid
+1567,2025-10-12 16:54:17,488,11,Buzo Hoodie,Ropa,Web,4,Vendedor_4,2,80,0.0,160.0,paid
+1568,2025-10-01 16:54:17,436,20,Piluso Trend,Accesorios,Instagram,7,Vendedor_7,5,42,0.05,199.5,pending
+1569,2026-01-15 16:54:17,68,12,Short Deportivo,Ropa,Web,3,Vendedor_3,4,45,0.1,162.0,paid
+1570,2026-01-24 16:54:17,351,1,Zapatillas Urban,Calzado,Facebook,10,Vendedor_10,4,118,0.05,448.4,paid
+1571,2025-11-19 16:54:17,126,6,Pantalón Cargo,Ropa,Facebook,9,Vendedor_9,1,62,0.05,58.9,paid
+1572,2026-03-09 16:54:17,37,1,Zapatillas Urban,Calzado,Facebook,7,Vendedor_7,5,120,0.15,510.0,pending
+1573,2026-02-15 16:54:17,247,18,Camisa Lino,Ropa,Mercado Libre,10,Vendedor_10,5,23,0.15,97.75,pending
+1574,2026-03-07 16:54:17,323,13,Medias Training,Accesorios,Facebook,6,Vendedor_6,4,55,0.2,176.0,pending
+1575,2026-02-19 16:54:17,188,4,Remera Oversize,Ropa,Facebook,3,Vendedor_3,3,34,0.05,96.9,pending
+1576,2026-01-14 16:54:17,169,5,Pantalón Chino,Ropa,Mercado Libre,8,Vendedor_8,2,53,0.0,106.0,pending
+1577,2026-01-14 16:54:17,170,16,Sandalias Beach,Calzado,Facebook,5,Vendedor_5,3,97,0.15,247.35,pending
+1578,2026-01-06 16:54:17,76,19,Riñonera Sport,Accesorios,Web,10,Vendedor_10,1,58,0.05,55.1,paid
+1579,2025-12-13 16:54:17,484,8,Campera Denim,Ropa,Instagram,10,Vendedor_10,3,57,0.1,153.9,pending
+1580,2025-11-25 16:54:17,76,16,Sandalias Beach,Calzado,Web,5,Vendedor_5,2,155,0.05,294.5,pending
+1581,2025-10-05 16:54:17,156,9,Gorra Classic,Accesorios,Instagram,4,Vendedor_4,1,23,0.2,18.4,paid
+1582,2025-12-14 16:54:17,317,9,Gorra Classic,Accesorios,Instagram,9,Vendedor_9,5,35,0.15,148.75,pending
+1583,2025-10-18 16:54:17,194,5,Pantalón Chino,Ropa,Facebook,9,Vendedor_9,3,86,0.1,232.2,paid
+1584,2025-11-14 16:54:17,343,17,Camisa Oxford,Ropa,Mercado Libre,3,Vendedor_3,4,68,0.0,272.0,pending
+1585,2025-12-28 16:54:17,312,8,Campera Denim,Ropa,Mercado Libre,4,Vendedor_4,2,39,0.1,70.2,paid
+1586,2025-11-10 16:54:17,460,12,Short Deportivo,Ropa,Instagram,8,Vendedor_8,5,21,0.2,84.0,paid
+1587,2025-09-28 16:54:17,260,12,Short Deportivo,Ropa,Mercado Libre,1,Vendedor_1,4,32,0.1,115.2,pending
+1588,2025-11-01 16:54:17,291,18,Camisa Lino,Ropa,Instagram,9,Vendedor_9,1,27,0.15,22.95,paid
+1589,2026-01-30 16:54:17,91,9,Gorra Classic,Accesorios,Mercado Libre,4,Vendedor_4,2,54,0.15,91.8,pending
+1590,2026-01-05 16:54:17,268,18,Camisa Lino,Ropa,Web,2,Vendedor_2,2,28,0.05,53.2,paid
+1591,2026-01-18 16:54:17,51,7,Campera Rompeviento,Ropa,Mercado Libre,4,Vendedor_4,5,81,0.15,344.25,pending
+1592,2026-01-26 16:54:17,244,3,Remera Básica,Ropa,Instagram,8,Vendedor_8,1,76,0.0,76.0,paid
+1593,2025-10-18 16:54:17,292,18,Camisa Lino,Ropa,Mercado Libre,4,Vendedor_4,5,82,0.1,369.0,pending
+1594,2025-11-24 16:54:17,129,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,5,78,0.0,390.0,pending
+1595,2025-10-07 16:54:17,264,16,Sandalias Beach,Calzado,Web,3,Vendedor_3,3,124,0.15,316.2,pending
+1596,2025-11-01 16:54:17,258,9,Gorra Classic,Accesorios,Web,4,Vendedor_4,3,27,0.2,64.8,pending
+1597,2026-01-30 16:54:17,241,4,Remera Oversize,Ropa,Facebook,8,Vendedor_8,1,60,0.2,48.0,paid
+1598,2026-03-01 16:54:17,176,6,Pantalón Cargo,Ropa,Instagram,7,Vendedor_7,3,32,0.15,81.6,paid
+1599,2026-01-17 16:54:17,164,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,3,84,0.1,226.8,paid
+1600,2025-10-12 16:54:17,166,10,Mochila City,Accesorios,Instagram,4,Vendedor_4,5,53,0.05,251.75,paid
+1601,2026-02-02 16:54:17,167,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,5,52,0.05,247.0,pending
+1602,2026-01-18 16:54:17,75,9,Gorra Classic,Accesorios,Web,5,Vendedor_5,4,29,0.1,104.4,pending
+1603,2025-12-27 16:54:17,202,12,Short Deportivo,Ropa,Facebook,8,Vendedor_8,3,74,0.2,177.6,paid
+1604,2026-03-03 16:54:17,500,13,Medias Training,Accesorios,Facebook,7,Vendedor_7,3,51,0.05,145.35,pending
+1605,2025-09-18 16:54:17,151,1,Zapatillas Urban,Calzado,Web,4,Vendedor_4,2,144,0.1,259.2,paid
+1606,2025-11-28 16:54:17,317,11,Buzo Hoodie,Ropa,Facebook,7,Vendedor_7,3,45,0.05,128.25,pending
+1607,2026-02-26 16:54:17,483,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,2,61,0.15,103.7,paid
+1608,2025-09-22 16:54:17,301,13,Medias Training,Accesorios,Facebook,8,Vendedor_8,2,27,0.2,43.2,paid
+1609,2026-03-03 16:54:17,225,4,Remera Oversize,Ropa,Web,6,Vendedor_6,3,88,0.1,237.6,paid
+1610,2026-02-11 16:54:17,423,16,Sandalias Beach,Calzado,Instagram,2,Vendedor_2,3,159,0.15,405.45,paid
+1611,2025-12-31 16:54:17,225,19,Riñonera Sport,Accesorios,Instagram,10,Vendedor_10,2,45,0.0,90.0,pending
+1612,2025-10-29 16:54:17,354,19,Riñonera Sport,Accesorios,Mercado Libre,5,Vendedor_5,5,43,0.1,193.5,paid
+1613,2025-09-19 16:54:17,95,3,Remera Básica,Ropa,Web,6,Vendedor_6,3,77,0.05,219.45,pending
+1614,2025-11-20 16:54:17,131,8,Campera Denim,Ropa,Mercado Libre,6,Vendedor_6,3,45,0.1,121.5,paid
+1615,2025-10-04 16:54:17,409,4,Remera Oversize,Ropa,Mercado Libre,7,Vendedor_7,4,70,0.15,238.0,paid
+1616,2025-12-12 16:54:17,492,17,Camisa Oxford,Ropa,Web,1,Vendedor_1,5,75,0.0,375.0,pending
+1617,2025-10-21 16:54:17,290,10,Mochila City,Accesorios,Mercado Libre,6,Vendedor_6,1,57,0.0,57.0,paid
+1618,2026-02-05 16:54:17,333,18,Camisa Lino,Ropa,Instagram,9,Vendedor_9,1,79,0.2,63.2,paid
+1619,2026-01-06 16:54:17,334,14,Cinturón Casual,Accesorios,Web,8,Vendedor_8,4,57,0.05,216.6,paid
+1620,2025-10-03 16:54:17,400,6,Pantalón Cargo,Ropa,Facebook,10,Vendedor_10,3,78,0.2,187.2,paid
+1621,2025-10-21 16:54:17,10,13,Medias Training,Accesorios,Mercado Libre,5,Vendedor_5,1,49,0.15,41.65,paid
+1622,2025-11-28 16:54:17,346,11,Buzo Hoodie,Ropa,Web,3,Vendedor_3,3,48,0.2,115.2,pending
+1623,2025-10-21 16:54:17,396,7,Campera Rompeviento,Ropa,Instagram,6,Vendedor_6,5,39,0.05,185.25,paid
+1624,2026-01-30 16:54:17,484,10,Mochila City,Accesorios,Mercado Libre,2,Vendedor_2,1,44,0.2,35.2,paid
+1625,2025-12-18 16:54:17,337,18,Camisa Lino,Ropa,Instagram,2,Vendedor_2,3,60,0.05,171.0,paid
+1626,2026-02-04 16:54:17,396,10,Mochila City,Accesorios,Web,7,Vendedor_7,3,24,0.05,68.4,paid
+1627,2025-11-25 16:54:17,445,5,Pantalón Chino,Ropa,Instagram,2,Vendedor_2,4,23,0.15,78.2,pending
+1628,2025-11-23 16:54:17,395,2,Zapatillas Running,Calzado,Facebook,8,Vendedor_8,4,85,0.05,323.0,paid
+1629,2026-02-01 16:54:17,84,3,Remera Básica,Ropa,Instagram,9,Vendedor_9,5,86,0.0,430.0,paid
+1630,2025-10-14 16:54:17,108,16,Sandalias Beach,Calzado,Mercado Libre,6,Vendedor_6,3,113,0.05,322.05,pending
+1631,2026-01-11 16:54:17,9,16,Sandalias Beach,Calzado,Mercado Libre,9,Vendedor_9,1,180,0.15,153.0,pending
+1632,2025-12-05 16:54:17,429,14,Cinturón Casual,Accesorios,Mercado Libre,2,Vendedor_2,3,33,0.1,89.1,pending
+1633,2026-01-18 16:54:17,488,10,Mochila City,Accesorios,Web,2,Vendedor_2,4,40,0.0,160.0,pending
+1634,2026-02-09 16:54:17,66,2,Zapatillas Running,Calzado,Instagram,4,Vendedor_4,2,132,0.0,264.0,paid
+1635,2026-03-08 16:54:17,444,16,Sandalias Beach,Calzado,Web,1,Vendedor_1,5,162,0.05,769.5,pending
+1636,2025-12-01 16:54:17,480,20,Piluso Trend,Accesorios,Instagram,3,Vendedor_3,4,21,0.05,79.8,paid
+1637,2026-02-17 16:54:17,157,12,Short Deportivo,Ropa,Facebook,3,Vendedor_3,1,83,0.05,78.85,pending
+1638,2025-10-09 16:54:17,170,9,Gorra Classic,Accesorios,Mercado Libre,6,Vendedor_6,1,60,0.0,60.0,pending
+1639,2026-02-09 16:54:17,391,2,Zapatillas Running,Calzado,Instagram,7,Vendedor_7,1,129,0.15,109.65,paid
+1640,2026-03-14 16:54:17,34,4,Remera Oversize,Ropa,Mercado Libre,6,Vendedor_6,2,31,0.15,52.7,pending
+1641,2025-12-01 16:54:17,415,15,Botas Trekking,Calzado,Mercado Libre,9,Vendedor_9,4,77,0.2,246.4,pending
+1642,2025-11-17 16:54:17,188,16,Sandalias Beach,Calzado,Mercado Libre,5,Vendedor_5,2,101,0.2,161.6,pending
+1643,2025-10-22 16:54:17,67,16,Sandalias Beach,Calzado,Instagram,4,Vendedor_4,2,88,0.2,140.8,paid
+1644,2026-02-21 16:54:17,116,3,Remera Básica,Ropa,Web,7,Vendedor_7,3,33,0.05,94.05,paid
+1645,2025-12-23 16:54:17,296,10,Mochila City,Accesorios,Web,8,Vendedor_8,5,43,0.2,172.0,paid
+1646,2025-11-29 16:54:17,324,11,Buzo Hoodie,Ropa,Mercado Libre,6,Vendedor_6,2,24,0.15,40.8,paid
+1647,2026-03-14 16:54:17,204,6,Pantalón Cargo,Ropa,Web,3,Vendedor_3,1,50,0.05,47.5,paid
+1648,2025-11-14 16:54:17,208,19,Riñonera Sport,Accesorios,Facebook,8,Vendedor_8,3,22,0.2,52.8,paid
+1649,2025-10-09 16:54:17,382,15,Botas Trekking,Calzado,Web,5,Vendedor_5,5,116,0.0,580.0,pending
+1650,2026-01-29 16:54:17,234,11,Buzo Hoodie,Ropa,Mercado Libre,5,Vendedor_5,3,82,0.2,196.8,pending
+1651,2026-01-09 16:54:17,494,17,Camisa Oxford,Ropa,Instagram,2,Vendedor_2,3,74,0.0,222.0,paid
+1652,2025-11-20 16:54:17,65,8,Campera Denim,Ropa,Web,2,Vendedor_2,1,90,0.1,81.0,pending
+1653,2025-11-26 16:54:17,94,15,Botas Trekking,Calzado,Facebook,9,Vendedor_9,1,170,0.2,136.0,paid
+1654,2025-09-24 16:54:17,270,5,Pantalón Chino,Ropa,Instagram,4,Vendedor_4,1,45,0.1,40.5,paid
+1655,2025-12-15 16:54:17,192,18,Camisa Lino,Ropa,Instagram,9,Vendedor_9,2,87,0.05,165.3,paid
+1656,2025-10-06 16:54:17,483,6,Pantalón Cargo,Ropa,Facebook,10,Vendedor_10,2,39,0.2,62.4,paid
+1657,2026-03-05 16:54:17,498,9,Gorra Classic,Accesorios,Facebook,7,Vendedor_7,3,34,0.2,81.6,pending
+1658,2025-12-25 16:54:17,129,15,Botas Trekking,Calzado,Web,3,Vendedor_3,3,60,0.0,180.0,paid
+1659,2025-10-16 16:54:17,72,20,Piluso Trend,Accesorios,Instagram,2,Vendedor_2,1,58,0.15,49.3,pending
+1660,2026-01-14 16:54:17,303,6,Pantalón Cargo,Ropa,Instagram,7,Vendedor_7,2,73,0.15,124.1,paid
+1661,2026-02-27 16:54:17,64,12,Short Deportivo,Ropa,Instagram,4,Vendedor_4,3,37,0.15,94.35,paid
+1662,2026-02-09 16:54:17,267,15,Botas Trekking,Calzado,Web,5,Vendedor_5,3,61,0.0,183.0,paid
+1663,2025-11-17 16:54:17,278,20,Piluso Trend,Accesorios,Facebook,4,Vendedor_4,4,29,0.0,116.0,paid
+1664,2025-12-20 16:54:17,58,3,Remera Básica,Ropa,Facebook,5,Vendedor_5,1,68,0.1,61.2,pending
+1665,2026-02-02 16:54:17,53,19,Riñonera Sport,Accesorios,Mercado Libre,8,Vendedor_8,3,24,0.2,57.6,pending
+1666,2025-09-28 16:54:17,327,8,Campera Denim,Ropa,Mercado Libre,8,Vendedor_8,4,73,0.0,292.0,pending
+1667,2026-01-12 16:54:17,183,9,Gorra Classic,Accesorios,Mercado Libre,9,Vendedor_9,3,36,0.1,97.2,paid
+1668,2025-11-13 16:54:17,303,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,5,83,0.05,394.25,pending
+1669,2025-11-13 16:54:17,266,4,Remera Oversize,Ropa,Facebook,9,Vendedor_9,5,68,0.2,272.0,paid
+1670,2026-02-18 16:54:17,61,20,Piluso Trend,Accesorios,Instagram,10,Vendedor_10,1,46,0.0,46.0,pending
+1671,2025-09-26 16:54:17,178,19,Riñonera Sport,Accesorios,Facebook,10,Vendedor_10,4,35,0.0,140.0,pending
+1672,2025-11-04 16:54:17,343,19,Riñonera Sport,Accesorios,Mercado Libre,1,Vendedor_1,4,50,0.15,170.0,paid
+1673,2026-01-30 16:54:17,472,19,Riñonera Sport,Accesorios,Facebook,1,Vendedor_1,3,16,0.1,43.2,paid
+1674,2026-01-12 16:54:17,142,15,Botas Trekking,Calzado,Facebook,6,Vendedor_6,3,105,0.05,299.25,paid
+1675,2025-11-20 16:54:17,395,11,Buzo Hoodie,Ropa,Web,5,Vendedor_5,2,46,0.2,73.6,pending
+1676,2026-02-01 16:54:17,316,12,Short Deportivo,Ropa,Instagram,8,Vendedor_8,1,62,0.1,55.8,pending
+1677,2026-02-20 16:54:17,255,10,Mochila City,Accesorios,Instagram,2,Vendedor_2,4,30,0.2,96.0,pending
+1678,2026-01-09 16:54:17,459,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,3,63,0.15,160.65,paid
+1679,2025-12-25 16:54:17,159,6,Pantalón Cargo,Ropa,Web,1,Vendedor_1,1,44,0.2,35.2,paid
+1680,2025-10-10 16:54:17,365,13,Medias Training,Accesorios,Facebook,2,Vendedor_2,2,15,0.0,30.0,pending
+1681,2025-12-20 16:54:17,472,5,Pantalón Chino,Ropa,Facebook,9,Vendedor_9,3,70,0.05,199.5,paid
+1682,2025-10-11 16:54:17,227,10,Mochila City,Accesorios,Mercado Libre,10,Vendedor_10,1,30,0.05,28.5,paid
+1683,2026-02-06 16:54:17,427,18,Camisa Lino,Ropa,Instagram,5,Vendedor_5,1,83,0.05,78.85,paid
+1684,2025-11-25 16:54:17,125,8,Campera Denim,Ropa,Mercado Libre,4,Vendedor_4,2,21,0.1,37.8,pending
+1685,2025-12-01 16:54:17,212,15,Botas Trekking,Calzado,Instagram,9,Vendedor_9,5,132,0.05,627.0,pending
+1686,2025-12-08 16:54:17,190,19,Riñonera Sport,Accesorios,Web,5,Vendedor_5,3,26,0.15,66.3,paid
+1687,2025-10-30 16:54:17,441,11,Buzo Hoodie,Ropa,Instagram,6,Vendedor_6,1,37,0.1,33.3,paid
+1688,2025-11-08 16:54:17,414,4,Remera Oversize,Ropa,Instagram,8,Vendedor_8,5,60,0.0,300.0,pending
+1689,2026-01-19 16:54:17,317,18,Camisa Lino,Ropa,Facebook,8,Vendedor_8,3,26,0.15,66.3,pending
+1690,2025-11-26 16:54:17,230,19,Riñonera Sport,Accesorios,Mercado Libre,2,Vendedor_2,2,11,0.2,17.6,pending
+1691,2025-09-18 16:54:17,34,16,Sandalias Beach,Calzado,Web,3,Vendedor_3,1,147,0.1,132.3,pending
+1692,2025-10-15 16:54:17,203,1,Zapatillas Urban,Calzado,Instagram,8,Vendedor_8,4,150,0.05,570.0,pending
+1693,2025-10-31 16:54:17,409,10,Mochila City,Accesorios,Facebook,5,Vendedor_5,3,24,0.2,57.6,paid
+1694,2025-09-24 16:54:17,28,18,Camisa Lino,Ropa,Web,10,Vendedor_10,3,20,0.2,48.0,paid
+1695,2025-10-11 16:54:17,376,3,Remera Básica,Ropa,Instagram,2,Vendedor_2,5,72,0.05,342.0,paid
+1696,2026-01-31 16:54:17,374,20,Piluso Trend,Accesorios,Mercado Libre,3,Vendedor_3,1,51,0.15,43.35,pending
+1697,2026-02-21 16:54:17,196,3,Remera Básica,Ropa,Facebook,7,Vendedor_7,5,69,0.15,293.25,paid
+1698,2026-01-30 16:54:17,363,11,Buzo Hoodie,Ropa,Facebook,2,Vendedor_2,3,65,0.05,185.25,pending
+1699,2026-02-22 16:54:17,117,16,Sandalias Beach,Calzado,Web,3,Vendedor_3,3,111,0.05,316.35,paid
+1700,2025-11-22 16:54:17,451,11,Buzo Hoodie,Ropa,Mercado Libre,2,Vendedor_2,5,52,0.0,260.0,paid
+1701,2026-02-21 16:54:17,3,12,Short Deportivo,Ropa,Web,3,Vendedor_3,1,87,0.0,87.0,pending
+1702,2026-03-10 16:54:17,490,10,Mochila City,Accesorios,Instagram,10,Vendedor_10,5,33,0.0,165.0,paid
+1703,2025-11-10 16:54:17,50,20,Piluso Trend,Accesorios,Instagram,3,Vendedor_3,5,23,0.1,103.5,pending
+1704,2026-01-31 16:54:17,417,19,Riñonera Sport,Accesorios,Facebook,8,Vendedor_8,2,42,0.05,79.8,paid
+1705,2026-03-08 16:54:17,56,20,Piluso Trend,Accesorios,Web,9,Vendedor_9,1,29,0.1,26.1,paid
+1706,2025-11-05 16:54:17,309,19,Riñonera Sport,Accesorios,Instagram,3,Vendedor_3,1,41,0.05,38.95,pending
+1707,2025-09-30 16:54:17,484,15,Botas Trekking,Calzado,Mercado Libre,9,Vendedor_9,4,160,0.15,544.0,paid
+1708,2026-01-13 16:54:17,97,11,Buzo Hoodie,Ropa,Facebook,6,Vendedor_6,2,50,0.15,85.0,paid
+1709,2026-03-02 16:54:17,47,12,Short Deportivo,Ropa,Web,8,Vendedor_8,5,32,0.2,128.0,pending
+1710,2025-10-04 16:54:17,230,18,Camisa Lino,Ropa,Instagram,4,Vendedor_4,3,61,0.05,173.85,pending
+1711,2025-12-04 16:54:17,13,14,Cinturón Casual,Accesorios,Facebook,7,Vendedor_7,4,15,0.15,51.0,paid
+1712,2025-10-25 16:54:17,255,11,Buzo Hoodie,Ropa,Web,8,Vendedor_8,5,69,0.1,310.5,paid
+1713,2026-03-07 16:54:17,383,17,Camisa Oxford,Ropa,Instagram,4,Vendedor_4,1,59,0.2,47.2,pending
+1714,2025-11-01 16:54:17,97,2,Zapatillas Running,Calzado,Web,1,Vendedor_1,1,98,0.15,83.3,paid
+1715,2025-11-07 16:54:17,349,14,Cinturón Casual,Accesorios,Mercado Libre,9,Vendedor_9,2,42,0.1,75.6,paid
+1716,2025-11-20 16:54:17,366,4,Remera Oversize,Ropa,Instagram,3,Vendedor_3,2,60,0.0,120.0,pending
+1717,2025-10-22 16:54:17,106,7,Campera Rompeviento,Ropa,Mercado Libre,10,Vendedor_10,1,25,0.15,21.25,pending
+1718,2026-01-15 16:54:17,191,1,Zapatillas Urban,Calzado,Facebook,6,Vendedor_6,2,109,0.05,207.1,paid
+1719,2026-02-09 16:54:17,349,5,Pantalón Chino,Ropa,Web,10,Vendedor_10,2,53,0.15,90.1,paid
+1720,2025-12-03 16:54:17,143,9,Gorra Classic,Accesorios,Instagram,1,Vendedor_1,4,36,0.15,122.4,pending
+1721,2025-10-15 16:54:17,66,9,Gorra Classic,Accesorios,Instagram,1,Vendedor_1,4,12,0.15,40.8,paid
+1722,2026-02-16 16:54:17,275,4,Remera Oversize,Ropa,Web,3,Vendedor_3,4,28,0.05,106.4,paid
+1723,2025-09-24 16:54:17,146,9,Gorra Classic,Accesorios,Web,7,Vendedor_7,3,44,0.1,118.8,paid
+1724,2025-12-06 16:54:17,66,4,Remera Oversize,Ropa,Mercado Libre,4,Vendedor_4,1,83,0.05,78.85,pending
+1725,2026-02-18 16:54:17,95,16,Sandalias Beach,Calzado,Mercado Libre,2,Vendedor_2,2,64,0.15,108.8,paid
+1726,2025-11-26 16:54:17,227,8,Campera Denim,Ropa,Mercado Libre,10,Vendedor_10,3,76,0.05,216.6,paid
+1727,2025-12-26 16:54:17,175,7,Campera Rompeviento,Ropa,Web,1,Vendedor_1,5,21,0.05,99.75,paid
+1728,2025-11-19 16:54:17,79,12,Short Deportivo,Ropa,Web,4,Vendedor_4,1,70,0.15,59.5,paid
+1729,2026-01-29 16:54:17,447,8,Campera Denim,Ropa,Facebook,4,Vendedor_4,3,76,0.0,228.0,paid
+1730,2025-10-14 16:54:17,281,8,Campera Denim,Ropa,Web,9,Vendedor_9,3,40,0.05,114.0,paid
+1731,2025-09-23 16:54:17,9,4,Remera Oversize,Ropa,Instagram,2,Vendedor_2,4,86,0.2,275.2,pending
+1732,2026-03-08 16:54:17,196,12,Short Deportivo,Ropa,Mercado Libre,3,Vendedor_3,1,49,0.0,49.0,paid
+1733,2025-10-23 16:54:17,289,13,Medias Training,Accesorios,Mercado Libre,2,Vendedor_2,2,58,0.0,116.0,paid
+1734,2025-10-22 16:54:17,199,16,Sandalias Beach,Calzado,Facebook,7,Vendedor_7,3,147,0.2,352.8,paid
+1735,2025-10-12 16:54:17,246,16,Sandalias Beach,Calzado,Instagram,5,Vendedor_5,3,141,0.15,359.55,pending
+1736,2025-12-15 16:54:17,494,18,Camisa Lino,Ropa,Facebook,4,Vendedor_4,2,56,0.05,106.4,pending
+1737,2025-12-13 16:54:17,22,6,Pantalón Cargo,Ropa,Facebook,1,Vendedor_1,4,58,0.05,220.4,pending
+1738,2026-01-18 16:54:17,483,18,Camisa Lino,Ropa,Facebook,7,Vendedor_7,2,65,0.05,123.5,pending
+1739,2025-11-20 16:54:17,187,14,Cinturón Casual,Accesorios,Web,8,Vendedor_8,4,34,0.15,115.6,pending
+1740,2026-02-11 16:54:17,365,13,Medias Training,Accesorios,Instagram,9,Vendedor_9,2,25,0.05,47.5,paid
+1741,2025-12-14 16:54:17,192,20,Piluso Trend,Accesorios,Web,8,Vendedor_8,5,58,0.15,246.5,paid
+1742,2026-02-09 16:54:17,154,13,Medias Training,Accesorios,Facebook,8,Vendedor_8,1,44,0.15,37.4,paid
+1743,2026-01-21 16:54:17,480,7,Campera Rompeviento,Ropa,Facebook,6,Vendedor_6,5,40,0.15,170.0,paid
+1744,2026-03-11 16:54:17,140,15,Botas Trekking,Calzado,Instagram,4,Vendedor_4,4,132,0.05,501.6,pending
+1745,2026-01-26 16:54:17,126,19,Riñonera Sport,Accesorios,Instagram,3,Vendedor_3,4,30,0.15,102.0,pending
+1746,2025-10-12 16:54:17,403,11,Buzo Hoodie,Ropa,Mercado Libre,10,Vendedor_10,5,24,0.0,120.0,paid
+1747,2026-03-15 16:54:17,161,1,Zapatillas Urban,Calzado,Web,1,Vendedor_1,3,169,0.0,507.0,paid
+1748,2026-01-22 16:54:17,466,5,Pantalón Chino,Ropa,Web,5,Vendedor_5,1,66,0.2,52.8,pending
+1749,2025-12-21 16:54:17,411,16,Sandalias Beach,Calzado,Instagram,3,Vendedor_3,3,98,0.0,294.0,paid
+1750,2025-12-01 16:54:17,288,6,Pantalón Cargo,Ropa,Facebook,2,Vendedor_2,5,72,0.05,342.0,pending
+1751,2026-02-16 16:54:17,70,8,Campera Denim,Ropa,Facebook,3,Vendedor_3,4,32,0.0,128.0,pending
+1752,2025-11-15 16:54:17,477,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,1,47,0.1,42.3,paid
+1753,2026-03-12 16:54:17,44,15,Botas Trekking,Calzado,Web,8,Vendedor_8,5,104,0.1,468.0,paid
+1754,2026-02-11 16:54:17,57,6,Pantalón Cargo,Ropa,Instagram,10,Vendedor_10,3,70,0.05,199.5,pending
+1755,2026-02-24 16:54:17,319,10,Mochila City,Accesorios,Facebook,6,Vendedor_6,5,41,0.0,205.0,paid
+1756,2026-01-12 16:54:17,463,12,Short Deportivo,Ropa,Mercado Libre,4,Vendedor_4,5,55,0.2,220.0,pending
+1757,2026-02-03 16:54:17,230,11,Buzo Hoodie,Ropa,Facebook,1,Vendedor_1,2,59,0.1,106.2,pending
+1758,2026-01-07 16:54:17,17,2,Zapatillas Running,Calzado,Instagram,8,Vendedor_8,1,102,0.2,81.6,paid
+1759,2026-03-13 16:54:17,195,19,Riñonera Sport,Accesorios,Facebook,5,Vendedor_5,4,22,0.15,74.8,paid
+1760,2025-09-20 16:54:17,438,9,Gorra Classic,Accesorios,Facebook,7,Vendedor_7,3,33,0.2,79.2,pending
+1761,2026-02-12 16:54:17,251,11,Buzo Hoodie,Ropa,Web,6,Vendedor_6,3,90,0.05,256.5,pending
+1762,2025-11-22 16:54:17,12,3,Remera Básica,Ropa,Instagram,2,Vendedor_2,3,85,0.0,255.0,paid
+1763,2026-02-26 16:54:17,293,8,Campera Denim,Ropa,Instagram,3,Vendedor_3,3,28,0.05,79.8,paid
+1764,2026-03-15 16:54:17,299,3,Remera Básica,Ropa,Facebook,1,Vendedor_1,3,29,0.05,82.65,pending
+1765,2025-10-12 16:54:17,471,4,Remera Oversize,Ropa,Mercado Libre,2,Vendedor_2,1,37,0.05,35.15,paid
+1766,2026-02-22 16:54:17,26,3,Remera Básica,Ropa,Mercado Libre,1,Vendedor_1,4,49,0.05,186.2,pending
+1767,2025-10-08 16:54:17,363,11,Buzo Hoodie,Ropa,Facebook,9,Vendedor_9,2,80,0.05,152.0,paid
+1768,2026-01-03 16:54:17,260,16,Sandalias Beach,Calzado,Mercado Libre,10,Vendedor_10,1,116,0.05,110.2,paid
+1769,2026-01-26 16:54:17,499,6,Pantalón Cargo,Ropa,Instagram,5,Vendedor_5,2,89,0.2,142.4,paid
+1770,2026-01-28 16:54:17,203,3,Remera Básica,Ropa,Web,3,Vendedor_3,3,49,0.05,139.65,pending
+1771,2025-10-05 16:54:17,423,17,Camisa Oxford,Ropa,Web,5,Vendedor_5,2,74,0.1,133.2,paid
+1772,2026-03-16 16:54:17,32,17,Camisa Oxford,Ropa,Mercado Libre,5,Vendedor_5,3,40,0.0,120.0,pending
+1773,2026-03-02 16:54:17,7,12,Short Deportivo,Ropa,Mercado Libre,10,Vendedor_10,4,30,0.15,102.0,pending
+1774,2025-12-15 16:54:17,373,19,Riñonera Sport,Accesorios,Web,10,Vendedor_10,1,46,0.1,41.4,pending
+1775,2025-11-15 16:54:17,161,12,Short Deportivo,Ropa,Instagram,6,Vendedor_6,4,58,0.15,197.2,paid
+1776,2026-02-02 16:54:17,451,19,Riñonera Sport,Accesorios,Facebook,1,Vendedor_1,3,36,0.15,91.8,pending
+1777,2025-11-19 16:54:17,378,13,Medias Training,Accesorios,Facebook,8,Vendedor_8,4,19,0.05,72.2,pending
+1778,2026-02-10 16:54:17,205,1,Zapatillas Urban,Calzado,Web,6,Vendedor_6,4,171,0.05,649.8,paid
+1779,2025-09-29 16:54:17,112,14,Cinturón Casual,Accesorios,Mercado Libre,3,Vendedor_3,2,47,0.05,89.3,paid
+1780,2025-11-17 16:54:17,12,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,3,31,0.05,88.35,pending
+1781,2025-12-30 16:54:17,250,6,Pantalón Cargo,Ropa,Facebook,9,Vendedor_9,3,49,0.05,139.65,pending
+1782,2026-02-05 16:54:17,35,14,Cinturón Casual,Accesorios,Web,8,Vendedor_8,1,32,0.0,32.0,pending
+1783,2026-01-02 16:54:17,412,20,Piluso Trend,Accesorios,Instagram,3,Vendedor_3,2,43,0.15,73.1,pending
+1784,2026-03-14 16:54:17,351,16,Sandalias Beach,Calzado,Facebook,5,Vendedor_5,2,103,0.1,185.4,paid
+1785,2026-02-12 16:54:17,414,20,Piluso Trend,Accesorios,Instagram,9,Vendedor_9,3,31,0.1,83.7,pending
+1786,2025-11-16 16:54:17,214,19,Riñonera Sport,Accesorios,Instagram,2,Vendedor_2,1,38,0.1,34.2,paid
+1787,2025-09-22 16:54:17,285,11,Buzo Hoodie,Ropa,Web,4,Vendedor_4,3,80,0.1,216.0,pending
+1788,2026-02-13 16:54:17,313,7,Campera Rompeviento,Ropa,Instagram,6,Vendedor_6,5,49,0.2,196.0,paid
+1789,2025-10-24 16:54:17,451,16,Sandalias Beach,Calzado,Mercado Libre,8,Vendedor_8,1,100,0.2,80.0,pending
+1790,2025-10-09 16:54:17,237,5,Pantalón Chino,Ropa,Web,6,Vendedor_6,1,87,0.15,73.95,paid
+1791,2025-12-08 16:54:17,187,15,Botas Trekking,Calzado,Mercado Libre,4,Vendedor_4,3,151,0.05,430.35,pending
+1792,2026-01-19 16:54:17,248,8,Campera Denim,Ropa,Instagram,1,Vendedor_1,3,65,0.2,156.0,pending
+1793,2025-11-13 16:54:17,422,11,Buzo Hoodie,Ropa,Instagram,6,Vendedor_6,5,88,0.05,418.0,paid
+1794,2026-03-02 16:54:17,128,10,Mochila City,Accesorios,Facebook,4,Vendedor_4,5,42,0.1,189.0,pending
+1795,2025-12-31 16:54:17,13,1,Zapatillas Urban,Calzado,Mercado Libre,5,Vendedor_5,2,78,0.1,140.4,pending
+1796,2025-12-13 16:54:17,285,3,Remera Básica,Ropa,Instagram,8,Vendedor_8,2,77,0.15,130.9,pending
+1797,2026-02-18 16:54:17,362,11,Buzo Hoodie,Ropa,Facebook,5,Vendedor_5,4,55,0.05,209.0,pending
+1798,2025-10-18 16:54:17,27,6,Pantalón Cargo,Ropa,Web,3,Vendedor_3,3,22,0.0,66.0,pending
+1799,2026-02-09 16:54:17,322,12,Short Deportivo,Ropa,Facebook,6,Vendedor_6,4,90,0.0,360.0,pending
+1800,2026-01-31 16:54:17,330,13,Medias Training,Accesorios,Web,6,Vendedor_6,5,58,0.0,290.0,pending
+1801,2025-10-23 16:54:17,255,19,Riñonera Sport,Accesorios,Mercado Libre,1,Vendedor_1,5,13,0.05,61.75,paid
+1802,2026-02-07 16:54:17,48,5,Pantalón Chino,Ropa,Web,2,Vendedor_2,5,40,0.05,190.0,pending
+1803,2026-02-25 16:54:17,206,11,Buzo Hoodie,Ropa,Mercado Libre,7,Vendedor_7,3,28,0.15,71.4,pending
+1804,2025-09-21 16:54:17,230,13,Medias Training,Accesorios,Instagram,3,Vendedor_3,5,15,0.05,71.25,paid
+1805,2026-01-18 16:54:17,13,9,Gorra Classic,Accesorios,Mercado Libre,4,Vendedor_4,1,51,0.2,40.8,paid
+1806,2026-03-07 16:54:17,487,16,Sandalias Beach,Calzado,Instagram,1,Vendedor_1,2,157,0.05,298.3,paid
+1807,2025-12-26 16:54:17,262,17,Camisa Oxford,Ropa,Web,6,Vendedor_6,4,70,0.0,280.0,pending
+1808,2025-09-27 16:54:17,103,1,Zapatillas Urban,Calzado,Mercado Libre,7,Vendedor_7,5,68,0.0,340.0,paid
+1809,2025-10-19 16:54:17,298,8,Campera Denim,Ropa,Web,8,Vendedor_8,1,64,0.0,64.0,paid
+1810,2026-01-22 16:54:17,145,13,Medias Training,Accesorios,Web,3,Vendedor_3,5,10,0.2,40.0,pending
+1811,2025-12-08 16:54:17,101,17,Camisa Oxford,Ropa,Web,3,Vendedor_3,2,52,0.1,93.6,pending
+1812,2026-02-15 16:54:17,309,13,Medias Training,Accesorios,Facebook,5,Vendedor_5,4,11,0.15,37.4,paid
+1813,2026-02-17 16:54:17,103,6,Pantalón Cargo,Ropa,Web,1,Vendedor_1,4,33,0.05,125.4,paid
+1814,2025-12-30 16:54:17,291,19,Riñonera Sport,Accesorios,Web,6,Vendedor_6,4,13,0.05,49.4,paid
+1815,2026-03-11 16:54:17,441,17,Camisa Oxford,Ropa,Web,5,Vendedor_5,1,47,0.05,44.65,paid
+1816,2025-12-08 16:54:17,386,16,Sandalias Beach,Calzado,Instagram,6,Vendedor_6,4,110,0.2,352.0,pending
+1817,2025-10-25 16:54:17,40,16,Sandalias Beach,Calzado,Mercado Libre,10,Vendedor_10,3,161,0.05,458.85,paid
+1818,2025-10-10 16:54:17,156,1,Zapatillas Urban,Calzado,Facebook,1,Vendedor_1,1,95,0.0,95.0,pending
+1819,2026-02-05 16:54:17,331,19,Riñonera Sport,Accesorios,Instagram,2,Vendedor_2,1,33,0.05,31.35,pending
+1820,2026-02-26 16:54:17,395,12,Short Deportivo,Ropa,Mercado Libre,5,Vendedor_5,4,22,0.1,79.2,paid
+1821,2026-02-09 16:54:17,471,10,Mochila City,Accesorios,Mercado Libre,5,Vendedor_5,4,23,0.0,92.0,pending
+1822,2026-03-14 16:54:17,446,6,Pantalón Cargo,Ropa,Web,2,Vendedor_2,1,50,0.15,42.5,pending
+1823,2025-09-19 16:54:17,111,1,Zapatillas Urban,Calzado,Mercado Libre,10,Vendedor_10,4,68,0.05,258.4,pending
+1824,2026-03-10 16:54:17,212,13,Medias Training,Accesorios,Instagram,1,Vendedor_1,4,37,0.15,125.8,paid
+1825,2026-03-06 16:54:17,369,19,Riñonera Sport,Accesorios,Facebook,2,Vendedor_2,3,55,0.1,148.5,paid
+1826,2026-03-11 16:54:17,415,9,Gorra Classic,Accesorios,Mercado Libre,5,Vendedor_5,2,25,0.15,42.5,paid
+1827,2025-11-26 16:54:17,367,19,Riñonera Sport,Accesorios,Mercado Libre,9,Vendedor_9,4,60,0.05,228.0,pending
+1828,2026-02-23 16:54:17,279,12,Short Deportivo,Ropa,Instagram,10,Vendedor_10,3,78,0.15,198.9,pending
+1829,2025-10-27 16:54:17,209,12,Short Deportivo,Ropa,Instagram,9,Vendedor_9,2,61,0.1,109.8,pending
+1830,2025-11-18 16:54:17,346,12,Short Deportivo,Ropa,Facebook,6,Vendedor_6,3,38,0.15,96.9,pending
+1831,2026-02-23 16:54:17,474,14,Cinturón Casual,Accesorios,Web,10,Vendedor_10,3,18,0.1,48.6,pending
+1832,2025-10-30 16:54:17,471,15,Botas Trekking,Calzado,Instagram,3,Vendedor_3,1,103,0.2,82.4,pending
+1833,2025-10-07 16:54:17,423,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,5,37,0.05,175.75,paid
+1834,2026-02-17 16:54:17,54,14,Cinturón Casual,Accesorios,Mercado Libre,9,Vendedor_9,5,12,0.2,48.0,pending
+1835,2025-09-28 16:54:17,60,18,Camisa Lino,Ropa,Web,3,Vendedor_3,2,62,0.15,105.4,pending
+1836,2025-12-06 16:54:17,180,18,Camisa Lino,Ropa,Facebook,9,Vendedor_9,4,48,0.2,153.6,paid
+1837,2025-10-05 16:54:17,458,8,Campera Denim,Ropa,Mercado Libre,8,Vendedor_8,2,44,0.0,88.0,pending
+1838,2026-02-27 16:54:17,423,5,Pantalón Chino,Ropa,Instagram,5,Vendedor_5,2,71,0.1,127.8,paid
+1839,2026-03-11 16:54:17,107,7,Campera Rompeviento,Ropa,Instagram,1,Vendedor_1,1,57,0.0,57.0,paid
+1840,2026-01-12 16:54:17,339,3,Remera Básica,Ropa,Facebook,8,Vendedor_8,1,74,0.1,66.6,paid
+1841,2025-12-31 16:54:17,156,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,4,33,0.05,125.4,pending
+1842,2025-10-17 16:54:17,164,20,Piluso Trend,Accesorios,Web,1,Vendedor_1,4,12,0.15,40.8,paid
+1843,2025-09-19 16:54:17,395,9,Gorra Classic,Accesorios,Mercado Libre,8,Vendedor_8,4,58,0.2,185.6,pending
+1844,2025-10-10 16:54:17,20,19,Riñonera Sport,Accesorios,Facebook,6,Vendedor_6,4,11,0.15,37.4,paid
+1845,2026-01-12 16:54:17,371,16,Sandalias Beach,Calzado,Mercado Libre,9,Vendedor_9,1,70,0.05,66.5,pending
+1846,2025-12-21 16:54:17,166,13,Medias Training,Accesorios,Web,4,Vendedor_4,5,40,0.0,200.0,pending
+1847,2025-10-11 16:54:17,304,7,Campera Rompeviento,Ropa,Mercado Libre,7,Vendedor_7,1,21,0.05,19.95,pending
+1848,2025-11-09 16:54:17,199,3,Remera Básica,Ropa,Mercado Libre,3,Vendedor_3,4,55,0.2,176.0,pending
+1849,2026-02-15 16:54:17,151,19,Riñonera Sport,Accesorios,Instagram,9,Vendedor_9,4,21,0.15,71.4,paid
+1850,2025-10-15 16:54:17,496,10,Mochila City,Accesorios,Mercado Libre,6,Vendedor_6,4,17,0.05,64.6,paid
+1851,2025-11-13 16:54:17,396,16,Sandalias Beach,Calzado,Facebook,4,Vendedor_4,1,109,0.05,103.55,paid
+1852,2026-01-30 16:54:17,433,10,Mochila City,Accesorios,Facebook,4,Vendedor_4,3,53,0.2,127.2,paid
+1853,2025-09-19 16:54:17,68,15,Botas Trekking,Calzado,Mercado Libre,2,Vendedor_2,1,81,0.05,76.95,pending
+1854,2025-12-14 16:54:17,460,16,Sandalias Beach,Calzado,Web,7,Vendedor_7,1,150,0.2,120.0,paid
+1855,2025-11-16 16:54:17,360,14,Cinturón Casual,Accesorios,Facebook,1,Vendedor_1,3,37,0.2,88.8,paid
+1856,2026-02-23 16:54:17,260,3,Remera Básica,Ropa,Instagram,5,Vendedor_5,3,80,0.15,204.0,paid
+1857,2026-03-11 16:54:17,229,4,Remera Oversize,Ropa,Web,3,Vendedor_3,1,43,0.05,40.85,pending
+1858,2026-02-28 16:54:17,287,16,Sandalias Beach,Calzado,Mercado Libre,3,Vendedor_3,5,112,0.0,560.0,paid
+1859,2026-02-08 16:54:17,191,7,Campera Rompeviento,Ropa,Mercado Libre,5,Vendedor_5,2,70,0.0,140.0,paid
+1860,2025-11-03 16:54:17,156,4,Remera Oversize,Ropa,Instagram,5,Vendedor_5,5,87,0.0,435.0,pending
+1861,2025-11-15 16:54:17,246,8,Campera Denim,Ropa,Instagram,4,Vendedor_4,2,80,0.15,136.0,paid
+1862,2025-12-08 16:54:17,342,6,Pantalón Cargo,Ropa,Instagram,9,Vendedor_9,5,29,0.05,137.75,paid
+1863,2025-11-15 16:54:17,321,3,Remera Básica,Ropa,Facebook,9,Vendedor_9,1,41,0.05,38.95,pending
+1864,2026-01-09 16:54:17,446,8,Campera Denim,Ropa,Web,7,Vendedor_7,1,75,0.0,75.0,pending
+1865,2026-01-27 16:54:17,429,1,Zapatillas Urban,Calzado,Instagram,6,Vendedor_6,4,117,0.2,374.4,paid
+1866,2025-10-11 16:54:17,124,16,Sandalias Beach,Calzado,Web,9,Vendedor_9,4,142,0.05,539.6,pending
+1867,2025-11-27 16:54:17,288,3,Remera Básica,Ropa,Mercado Libre,10,Vendedor_10,1,73,0.0,73.0,paid
+1868,2025-12-13 16:54:17,333,2,Zapatillas Running,Calzado,Web,5,Vendedor_5,4,95,0.15,323.0,pending
+1869,2025-10-14 16:54:17,250,18,Camisa Lino,Ropa,Facebook,6,Vendedor_6,3,80,0.2,192.0,paid
+1870,2025-12-21 16:54:17,265,16,Sandalias Beach,Calzado,Mercado Libre,2,Vendedor_2,4,103,0.2,329.6,pending
+1871,2026-01-07 16:54:17,161,9,Gorra Classic,Accesorios,Web,5,Vendedor_5,5,42,0.05,199.5,paid
+1872,2026-01-28 16:54:17,266,19,Riñonera Sport,Accesorios,Facebook,6,Vendedor_6,3,22,0.1,59.4,pending
+1873,2025-10-15 16:54:17,456,9,Gorra Classic,Accesorios,Instagram,7,Vendedor_7,2,59,0.2,94.4,pending
+1874,2025-09-23 16:54:17,105,7,Campera Rompeviento,Ropa,Facebook,6,Vendedor_6,5,90,0.1,405.0,paid
+1875,2026-01-02 16:54:17,455,4,Remera Oversize,Ropa,Facebook,4,Vendedor_4,2,63,0.05,119.7,pending
+1876,2025-12-07 16:54:17,175,8,Campera Denim,Ropa,Instagram,8,Vendedor_8,3,78,0.2,187.2,pending
+1877,2026-02-27 16:54:17,202,20,Piluso Trend,Accesorios,Mercado Libre,5,Vendedor_5,1,34,0.2,27.2,paid
+1878,2026-01-11 16:54:17,421,7,Campera Rompeviento,Ropa,Web,8,Vendedor_8,4,90,0.2,288.0,pending
+1879,2026-01-08 16:54:17,56,7,Campera Rompeviento,Ropa,Facebook,1,Vendedor_1,4,82,0.2,262.4,pending
+1880,2025-12-27 16:54:17,186,13,Medias Training,Accesorios,Mercado Libre,2,Vendedor_2,2,21,0.0,42.0,paid
+1881,2026-01-05 16:54:17,66,3,Remera Básica,Ropa,Mercado Libre,2,Vendedor_2,5,88,0.1,396.0,pending
+1882,2026-03-07 16:54:17,173,7,Campera Rompeviento,Ropa,Web,10,Vendedor_10,1,21,0.0,21.0,pending
+1883,2026-01-15 16:54:17,293,14,Cinturón Casual,Accesorios,Web,4,Vendedor_4,2,49,0.2,78.4,pending
+1884,2026-02-07 16:54:17,88,8,Campera Denim,Ropa,Facebook,1,Vendedor_1,5,60,0.05,285.0,paid
+1885,2025-10-11 16:54:17,380,18,Camisa Lino,Ropa,Web,1,Vendedor_1,2,31,0.2,49.6,pending
+1886,2026-02-21 16:54:17,236,4,Remera Oversize,Ropa,Instagram,4,Vendedor_4,4,48,0.05,182.4,paid
+1887,2026-01-05 16:54:17,223,8,Campera Denim,Ropa,Facebook,2,Vendedor_2,1,50,0.1,45.0,pending
+1888,2026-01-17 16:54:17,227,7,Campera Rompeviento,Ropa,Instagram,2,Vendedor_2,1,72,0.15,61.2,pending
+1889,2025-12-10 16:54:17,106,20,Piluso Trend,Accesorios,Facebook,1,Vendedor_1,5,58,0.1,261.0,pending
+1890,2025-12-20 16:54:17,316,17,Camisa Oxford,Ropa,Facebook,6,Vendedor_6,1,83,0.2,66.4,pending
+1891,2026-01-24 16:54:17,308,20,Piluso Trend,Accesorios,Facebook,6,Vendedor_6,2,55,0.0,110.0,paid
+1892,2026-01-23 16:54:17,141,13,Medias Training,Accesorios,Instagram,4,Vendedor_4,3,32,0.15,81.6,pending
+1893,2025-12-10 16:54:17,125,8,Campera Denim,Ropa,Mercado Libre,10,Vendedor_10,4,23,0.2,73.6,pending
+1894,2025-12-08 16:54:17,11,1,Zapatillas Urban,Calzado,Facebook,10,Vendedor_10,3,106,0.15,270.3,pending
+1895,2025-11-29 16:54:17,118,15,Botas Trekking,Calzado,Web,2,Vendedor_2,4,92,0.1,331.2,pending
+1896,2025-11-15 16:54:17,331,9,Gorra Classic,Accesorios,Instagram,3,Vendedor_3,2,24,0.2,38.4,paid
+1897,2025-12-14 16:54:17,48,13,Medias Training,Accesorios,Mercado Libre,1,Vendedor_1,2,15,0.05,28.5,pending
+1898,2025-11-03 16:54:17,73,3,Remera Básica,Ropa,Facebook,5,Vendedor_5,4,39,0.1,140.4,pending
+1899,2026-01-18 16:54:17,35,6,Pantalón Cargo,Ropa,Instagram,7,Vendedor_7,3,41,0.2,98.4,paid
+1900,2026-03-04 16:54:17,241,20,Piluso Trend,Accesorios,Facebook,10,Vendedor_10,2,28,0.2,44.8,paid
+1901,2026-03-13 16:54:17,396,8,Campera Denim,Ropa,Mercado Libre,4,Vendedor_4,5,29,0.0,145.0,pending
+1902,2025-11-01 16:54:17,371,6,Pantalón Cargo,Ropa,Instagram,2,Vendedor_2,4,90,0.1,324.0,paid
+1903,2026-01-29 16:54:17,393,18,Camisa Lino,Ropa,Web,4,Vendedor_4,1,61,0.05,57.95,paid
+1904,2025-11-08 16:54:17,25,17,Camisa Oxford,Ropa,Facebook,1,Vendedor_1,4,37,0.05,140.6,paid
+1905,2026-01-15 16:54:17,126,5,Pantalón Chino,Ropa,Facebook,10,Vendedor_10,3,55,0.15,140.25,paid
+1906,2026-01-13 16:54:17,194,4,Remera Oversize,Ropa,Instagram,3,Vendedor_3,5,25,0.0,125.0,paid
+1907,2025-11-20 16:54:17,282,10,Mochila City,Accesorios,Facebook,9,Vendedor_9,4,53,0.15,180.2,pending
+1908,2025-12-17 16:54:17,269,17,Camisa Oxford,Ropa,Facebook,10,Vendedor_10,5,71,0.1,319.5,paid
+1909,2025-11-10 16:54:17,308,17,Camisa Oxford,Ropa,Web,3,Vendedor_3,1,46,0.0,46.0,pending
+1910,2025-10-14 16:54:17,192,4,Remera Oversize,Ropa,Mercado Libre,7,Vendedor_7,4,68,0.1,244.8,pending
+1911,2026-01-26 16:54:17,231,16,Sandalias Beach,Calzado,Instagram,1,Vendedor_1,2,115,0.05,218.5,pending
+1912,2026-01-14 16:54:17,130,13,Medias Training,Accesorios,Facebook,3,Vendedor_3,1,24,0.15,20.4,pending
+1913,2025-11-18 16:54:17,213,15,Botas Trekking,Calzado,Mercado Libre,6,Vendedor_6,2,119,0.05,226.1,paid
+1914,2025-10-05 16:54:17,180,5,Pantalón Chino,Ropa,Facebook,2,Vendedor_2,3,67,0.0,201.0,pending
+1915,2026-02-26 16:54:17,283,14,Cinturón Casual,Accesorios,Facebook,10,Vendedor_10,3,32,0.2,76.8,paid
+1916,2026-02-28 16:54:17,473,16,Sandalias Beach,Calzado,Instagram,6,Vendedor_6,3,84,0.1,226.8,paid
+1917,2026-02-08 16:54:17,261,4,Remera Oversize,Ropa,Instagram,9,Vendedor_9,3,27,0.0,81.0,pending
+1918,2025-11-23 16:54:17,236,1,Zapatillas Urban,Calzado,Web,7,Vendedor_7,3,162,0.2,388.8,pending
+1919,2025-12-13 16:54:17,453,10,Mochila City,Accesorios,Facebook,1,Vendedor_1,5,47,0.0,235.0,pending
+1920,2025-11-06 16:54:17,260,14,Cinturón Casual,Accesorios,Mercado Libre,1,Vendedor_1,5,56,0.2,224.0,paid
+1921,2025-12-23 16:54:17,391,13,Medias Training,Accesorios,Instagram,8,Vendedor_8,3,19,0.05,54.15,paid
+1922,2025-12-09 16:54:17,23,20,Piluso Trend,Accesorios,Web,5,Vendedor_5,4,24,0.0,96.0,paid
+1923,2026-01-27 16:54:17,410,5,Pantalón Chino,Ropa,Instagram,7,Vendedor_7,5,44,0.15,187.0,pending
+1924,2025-10-23 16:54:17,84,18,Camisa Lino,Ropa,Mercado Libre,5,Vendedor_5,2,20,0.0,40.0,pending
+1925,2026-03-01 16:54:17,474,16,Sandalias Beach,Calzado,Facebook,4,Vendedor_4,4,177,0.05,672.6,paid
+1926,2025-09-27 16:54:17,490,3,Remera Básica,Ropa,Web,8,Vendedor_8,3,67,0.15,170.85,pending
+1927,2025-11-03 16:54:17,413,11,Buzo Hoodie,Ropa,Instagram,3,Vendedor_3,5,86,0.1,387.0,paid
+1928,2025-11-26 16:54:17,154,1,Zapatillas Urban,Calzado,Facebook,8,Vendedor_8,3,102,0.2,244.8,pending
+1929,2025-10-17 16:54:17,285,2,Zapatillas Running,Calzado,Instagram,5,Vendedor_5,3,73,0.05,208.05,paid
+1930,2025-11-19 16:54:17,186,8,Campera Denim,Ropa,Facebook,3,Vendedor_3,1,89,0.2,71.2,pending
+1931,2025-10-23 16:54:17,84,14,Cinturón Casual,Accesorios,Facebook,6,Vendedor_6,3,15,0.05,42.75,paid
+1932,2026-03-03 16:54:17,213,11,Buzo Hoodie,Ropa,Facebook,7,Vendedor_7,4,75,0.05,285.0,paid
+1933,2025-12-13 16:54:17,451,11,Buzo Hoodie,Ropa,Facebook,2,Vendedor_2,3,50,0.15,127.5,pending
+1934,2026-01-22 16:54:17,125,19,Riñonera Sport,Accesorios,Instagram,7,Vendedor_7,4,25,0.1,90.0,pending
+1935,2025-10-15 16:54:17,52,6,Pantalón Cargo,Ropa,Mercado Libre,6,Vendedor_6,5,68,0.0,340.0,paid
+1936,2026-02-07 16:54:17,479,1,Zapatillas Urban,Calzado,Instagram,9,Vendedor_9,4,123,0.0,492.0,paid
+1937,2025-11-17 16:54:17,432,1,Zapatillas Urban,Calzado,Web,3,Vendedor_3,1,77,0.1,69.3,pending
+1938,2026-02-23 16:54:17,52,19,Riñonera Sport,Accesorios,Mercado Libre,1,Vendedor_1,2,29,0.1,52.2,paid
+1939,2025-10-11 16:54:17,460,2,Zapatillas Running,Calzado,Facebook,1,Vendedor_1,2,161,0.05,305.9,pending
+1940,2026-01-08 16:54:17,426,4,Remera Oversize,Ropa,Web,10,Vendedor_10,3,87,0.0,261.0,paid
+1941,2025-11-19 16:54:17,50,3,Remera Básica,Ropa,Facebook,10,Vendedor_10,3,40,0.2,96.0,paid
+1942,2026-03-09 16:54:17,356,10,Mochila City,Accesorios,Facebook,7,Vendedor_7,3,52,0.05,148.2,pending
+1943,2025-11-07 16:54:17,414,12,Short Deportivo,Ropa,Instagram,5,Vendedor_5,3,71,0.15,181.05,pending
+1944,2026-01-23 16:54:17,19,11,Buzo Hoodie,Ropa,Mercado Libre,4,Vendedor_4,4,39,0.05,148.2,paid
+1945,2026-02-15 16:54:17,77,19,Riñonera Sport,Accesorios,Mercado Libre,3,Vendedor_3,1,38,0.05,36.1,pending
+1946,2025-09-22 16:54:17,223,11,Buzo Hoodie,Ropa,Facebook,6,Vendedor_6,5,50,0.15,212.5,paid
+1947,2025-10-18 16:54:17,187,18,Camisa Lino,Ropa,Instagram,5,Vendedor_5,2,80,0.0,160.0,pending
+1948,2025-12-19 16:54:17,200,7,Campera Rompeviento,Ropa,Instagram,2,Vendedor_2,1,24,0.1,21.6,pending
+1949,2025-09-30 16:54:17,418,15,Botas Trekking,Calzado,Web,7,Vendedor_7,3,117,0.05,333.45,pending
+1950,2025-10-23 16:54:17,213,11,Buzo Hoodie,Ropa,Mercado Libre,3,Vendedor_3,1,41,0.1,36.9,pending
+1951,2026-02-08 16:54:17,310,11,Buzo Hoodie,Ropa,Facebook,1,Vendedor_1,2,50,0.2,80.0,pending
+1952,2026-01-30 16:54:17,365,7,Campera Rompeviento,Ropa,Web,7,Vendedor_7,1,21,0.1,18.9,pending
+1953,2026-03-17 16:54:17,109,11,Buzo Hoodie,Ropa,Instagram,2,Vendedor_2,4,84,0.05,319.2,pending
+1954,2026-01-06 16:54:17,314,17,Camisa Oxford,Ropa,Instagram,9,Vendedor_9,4,87,0.2,278.4,pending
+1955,2025-11-21 16:54:17,387,2,Zapatillas Running,Calzado,Facebook,10,Vendedor_10,5,97,0.2,388.0,paid
+1956,2025-12-22 16:54:17,243,10,Mochila City,Accesorios,Facebook,1,Vendedor_1,4,47,0.0,188.0,pending
+1957,2025-10-22 16:54:17,231,20,Piluso Trend,Accesorios,Web,4,Vendedor_4,3,47,0.05,133.95,pending
+1958,2026-01-18 16:54:17,3,2,Zapatillas Running,Calzado,Instagram,10,Vendedor_10,3,110,0.1,297.0,paid
+1959,2025-11-22 16:54:17,25,8,Campera Denim,Ropa,Mercado Libre,4,Vendedor_4,4,20,0.15,68.0,pending
+1960,2025-10-29 16:54:17,394,18,Camisa Lino,Ropa,Mercado Libre,7,Vendedor_7,1,84,0.1,75.6,pending
+1961,2026-01-22 16:54:17,438,19,Riñonera Sport,Accesorios,Instagram,9,Vendedor_9,5,28,0.0,140.0,pending
+1962,2025-12-23 16:54:17,351,18,Camisa Lino,Ropa,Facebook,3,Vendedor_3,5,45,0.0,225.0,paid
+1963,2025-10-03 16:54:17,67,11,Buzo Hoodie,Ropa,Web,4,Vendedor_4,4,22,0.0,88.0,paid
+1964,2025-09-27 16:54:17,105,10,Mochila City,Accesorios,Instagram,5,Vendedor_5,4,20,0.15,68.0,pending
+1965,2026-01-03 16:54:17,40,4,Remera Oversize,Ropa,Instagram,5,Vendedor_5,5,90,0.0,450.0,paid
+1966,2026-01-15 16:54:17,392,1,Zapatillas Urban,Calzado,Facebook,2,Vendedor_2,3,82,0.0,246.0,pending
+1967,2025-11-09 16:54:17,247,4,Remera Oversize,Ropa,Web,9,Vendedor_9,4,85,0.0,340.0,paid
+1968,2026-02-22 16:54:17,280,12,Short Deportivo,Ropa,Web,6,Vendedor_6,2,69,0.05,131.1,paid
+1969,2026-02-23 16:54:17,83,20,Piluso Trend,Accesorios,Instagram,2,Vendedor_2,2,19,0.1,34.2,pending
+1970,2026-03-10 16:54:17,414,12,Short Deportivo,Ropa,Facebook,6,Vendedor_6,4,75,0.0,300.0,paid
+1971,2026-01-28 16:54:17,428,6,Pantalón Cargo,Ropa,Facebook,10,Vendedor_10,4,28,0.05,106.4,pending
+1972,2025-12-25 16:54:17,232,13,Medias Training,Accesorios,Instagram,6,Vendedor_6,2,12,0.0,24.0,paid
+1973,2025-12-17 16:54:17,213,19,Riñonera Sport,Accesorios,Mercado Libre,1,Vendedor_1,3,51,0.1,137.7,pending
+1974,2026-02-24 16:54:17,288,15,Botas Trekking,Calzado,Mercado Libre,3,Vendedor_3,1,136,0.2,108.8,paid
+1975,2025-11-11 16:54:17,62,16,Sandalias Beach,Calzado,Mercado Libre,9,Vendedor_9,5,152,0.1,684.0,pending
+1976,2025-12-28 16:54:17,440,8,Campera Denim,Ropa,Mercado Libre,9,Vendedor_9,4,57,0.0,228.0,paid
+1977,2025-09-28 16:54:17,144,10,Mochila City,Accesorios,Web,3,Vendedor_3,3,34,0.05,96.9,pending
+1978,2025-11-02 16:54:17,379,3,Remera Básica,Ropa,Web,6,Vendedor_6,1,83,0.1,74.7,pending
+1979,2026-03-11 16:54:17,446,1,Zapatillas Urban,Calzado,Instagram,5,Vendedor_5,3,83,0.0,249.0,paid
+1980,2026-02-16 16:54:17,455,12,Short Deportivo,Ropa,Mercado Libre,2,Vendedor_2,3,62,0.1,167.4,paid
+1981,2026-01-22 16:54:17,142,19,Riñonera Sport,Accesorios,Web,10,Vendedor_10,1,24,0.0,24.0,paid
+1982,2025-10-21 16:54:17,52,18,Camisa Lino,Ropa,Facebook,9,Vendedor_9,3,90,0.1,243.0,paid
+1983,2025-11-30 16:54:17,71,10,Mochila City,Accesorios,Mercado Libre,2,Vendedor_2,3,27,0.0,81.0,paid
+1984,2026-03-16 16:54:17,415,19,Riñonera Sport,Accesorios,Web,2,Vendedor_2,4,12,0.15,40.8,pending
+1985,2026-02-18 16:54:17,172,18,Camisa Lino,Ropa,Instagram,5,Vendedor_5,2,51,0.0,102.0,paid
+1986,2025-09-19 16:54:17,374,19,Riñonera Sport,Accesorios,Instagram,2,Vendedor_2,1,40,0.05,38.0,paid
+1987,2026-01-15 16:54:17,296,17,Camisa Oxford,Ropa,Instagram,7,Vendedor_7,1,86,0.1,77.4,pending
+1988,2026-01-16 16:54:17,342,18,Camisa Lino,Ropa,Facebook,1,Vendedor_1,4,47,0.2,150.4,paid
+1989,2026-01-02 16:54:17,211,17,Camisa Oxford,Ropa,Web,6,Vendedor_6,2,71,0.2,113.6,pending
+1990,2025-10-11 16:54:17,255,8,Campera Denim,Ropa,Mercado Libre,2,Vendedor_2,4,52,0.2,166.4,paid
+1991,2025-10-17 16:54:17,296,13,Medias Training,Accesorios,Instagram,4,Vendedor_4,3,54,0.05,153.9,paid
+1992,2026-02-12 16:54:17,375,8,Campera Denim,Ropa,Mercado Libre,1,Vendedor_1,2,51,0.0,102.0,pending
+1993,2026-01-21 16:54:17,368,5,Pantalón Chino,Ropa,Mercado Libre,5,Vendedor_5,1,20,0.05,19.0,paid
+1994,2026-02-18 16:54:17,76,14,Cinturón Casual,Accesorios,Mercado Libre,6,Vendedor_6,2,38,0.05,72.2,pending
+1995,2025-12-02 16:54:17,340,11,Buzo Hoodie,Ropa,Instagram,7,Vendedor_7,5,55,0.15,233.75,paid
+1996,2025-12-08 16:54:17,251,7,Campera Rompeviento,Ropa,Web,6,Vendedor_6,2,51,0.15,86.7,pending
+1997,2026-01-12 16:54:17,32,2,Zapatillas Running,Calzado,Mercado Libre,1,Vendedor_1,4,119,0.05,452.2,pending
+1998,2026-01-02 16:54:17,73,17,Camisa Oxford,Ropa,Web,4,Vendedor_4,4,34,0.1,122.4,pending
+1999,2025-11-28 16:54:17,301,6,Pantalón Cargo,Ropa,Facebook,1,Vendedor_1,4,87,0.0,348.0,pending
+2000,2025-10-04 16:54:17,430,10,Mochila City,Accesorios,Facebook,4,Vendedor_4,4,22,0.1,79.2,pending
