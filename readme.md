@@ -1,27 +1,67 @@
-# 🧠 E-commerce Intelligence System
+🧠 E-commerce Intelligence System
 
-End-to-end data system to analyze sales, marketing, sellers performance, and customer sentiment.
+Sistema de análisis de negocio con IA que transforma datos de marketing en decisiones estratégicas.
 
-## 🚀 Features
-- Data ingestion and cleaning (Python + SQL)
-- Sales and marketing analytics
-- Seller performance ranking
-- Sentiment analysis on customer feedback
-- Automated reporting
+🚀 Qué hace este proyecto
 
-## 🛠 Tech Stack
-- Python
-- SQL
-- BigQuery / SQL Server
-- Power BI / Looker Studio
-- Google Apps Script
+Este sistema conecta:
 
-## 📦 Project Structure
-- data/: raw and processed data
-- etl/: data processing scripts
-- sql/: queries and models
-- dashboard/: BI layer
-- automation/: reporting scripts
+📊 BigQuery (datos de negocio)
 
-## 🎯 Goal
-Provide a unified system to support business decisions using data.
+🤖 Vertex AI (modelo Gemini)
+
+🧠 Lógica de negocio
+
+Para responder preguntas como:
+
+"¿Cómo debería distribuir mi presupuesto de marketing?"
+
+📈 Ejemplo real
+
+
+
+
+💡 Caso de uso
+
+Input:
+
+Datos de ventas por canal
+
+Inversión en marketing
+
+Output:
+
+Análisis automático
+
+Recomendaciones accionables
+
+Optimización de presupuesto
+
+🧱 Arquitectura
+
+BigQuery → Python → Vertex AI → Insights de negocio
+
+⚙️ Tecnologías
+
+Google BigQuery
+
+Vertex AI (Gemini)
+
+Python
+
+Pandas
+
+▶️ Cómo correrlo
+pip install -r requirements.txt
+python ai/chatbot.py
+🧠 Ejemplo de pregunta
+¿Cómo distribuir $1,000,000 en marketing?
+🎯 Valor
+
+Este proyecto simula un analista de negocio automatizado, capaz de:
+
+analizar performance
+
+detectar oportunidades
+
+recomendar decisiones
